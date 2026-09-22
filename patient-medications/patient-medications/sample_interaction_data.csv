@@ -1,0 +1,8 @@
+Drug1,Drug2,Age Group,Meds,Renal,Liver,cardiac,diabets,seve..,other,type
+Warfarin,Aspirin,elderly,5,0,0,1,0,High,,Pharmacodynamic
+Warfarin,Ibuprofen,adult,3,0,0,0,0,High,,Pharmacodynamic
+Simvastatin,Amiodarone,elderly,5,0,0,1,0,Critical,,Pharmacokinetic
+Digoxin,Verapamil,elderly,5,0,0,1,0,High,,Pharmacokinetic
+Lisinopril,Spironolactone,adult,4,1,0,1,0,High,,Pharmacodynamic
+Metformin,Furosemide,elderly,5,1,0,0,1,High,,Pharmacokinetic
+Aspirin,Ibuprofen,adult,3,0,0,0,0,Medium,,Pharmacodynamic

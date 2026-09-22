@@ -1,0 +1,83 @@
+.step-indicator {
+  display: flex; align-items: center; position: relative;
+  margin-bottom: 32px; padding: 0 24px;
+}
+.step-line {
+  position: absolute; top: 20px; left: 60px; right: 60px;
+  height: 2px; background: var(--color-border); z-index: 0;
+}
+.step-item {
+  flex: 1; display: flex; flex-direction: column; align-items: center;
+  gap: 8px; cursor: pointer; z-index: 1;
+}
+.step-circle {
+  width: 40px; height: 40px; border-radius: 50%;
+  background: var(--color-bg); border: 2px solid var(--color-border);
+  display: flex; align-items: center; justify-content: center;
+  font-weight: 700; font-size: 14px; color: var(--color-text-muted);
+  transition: all 0.3s; position: relative;
+}
+.step-item.active .step-circle {
+  background: var(--color-primary-dim);
+  border-color: var(--color-primary);
+  color: var(--color-primary);
+  box-shadow: 0 0 12px rgba(37, 99, 235, 0.2);
+}
+.step-item.done .step-circle {
+  background: var(--risk-low-bg);
+  border-color: var(--risk-low);
+  color: var(--risk-low);
+}
+.step-label { font-size: 12px; font-weight: 600; color: var(--color-text-muted); }
+.step-item.active .step-label { color: var(--color-primary); }
+
+.checkbox-grid {
+  display: flex; flex-wrap: wrap; gap: 8px;
+}
+.checkbox-pill {
+  padding: 7px 14px;
+  background: var(--color-bg);
+  border: 1px solid var(--color-border);
+  border-radius: 999px;
+  font-size: 13px; font-weight: 500;
+  cursor: pointer;
+  color: var(--color-text-muted);
+  transition: all 0.2s;
+  user-select: none;
+}
+.checkbox-pill:hover { border-color: var(--color-primary); color: var(--color-text); background: var(--color-surface); }
+.checkbox-pill.checked {
+  background: var(--color-primary-dim);
+  border-color: var(--color-primary);
+  color: var(--color-primary);
+}
+
+.med-list { display: flex; flex-direction: column; gap: 8px; margin-top: 4px; }
+.med-item {
+  display: flex; align-items: center; gap: 12px;
+  padding: 10px 16px;
+  background: var(--color-surface-2); border-radius: var(--radius-sm);
+  border: 1px solid var(--color-border);
+  animation: fadeIn 0.25s ease;
+}
+@keyframes fadeIn { from { opacity:0; transform: translateY(-4px); } to { opacity:1; transform: none; } }
+.med-num { font-size: 12px; color: var(--color-text-muted); font-weight: 700; min-width: 20px; }
+.med-icon { font-size: 18px; }
+.med-name { font-weight: 600; flex: 1; }
+.med-remove {
+  background: none; border: none; cursor: pointer;
+  color: var(--color-text-muted); font-size: 20px; line-height: 1;
+  padding: 0 4px; transition: color 0.2s;
+}
+.med-remove:hover { color: var(--risk-high); }
+
+.empty-meds {
+  text-align: center; padding: 40px;
+  color: var(--color-text-muted); font-size: 14px;
+  border: 2px dashed var(--color-border); border-radius: var(--radius-md);
+}
+.error-box {
+  margin-top: 16px; padding: 14px 16px;
+  background: var(--risk-high-bg); border: 1px solid rgba(239,68,68,0.3);
+  border-radius: var(--radius-sm); color: var(--risk-high); font-size: 14px;
+}

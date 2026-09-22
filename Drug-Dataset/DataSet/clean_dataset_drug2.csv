@@ -1,0 +1,856 @@
+Age,Condition,Drug_Name,Side_Effects
+56,Infection,Ciprofloxacin,Nausea
+69,Hypertension,Metoprolol,Tiredness
+46,Depression,Bupropion,Dry mouth
+32,Diabetes,Glipizide,Low blood sugar
+60,Depression,Bupropion,Anxiety
+25,Infection,Ciprofloxacin,Dizziness
+78,Diabetes,Glipizide,Nausea
+38,Pain Relief,Paracetamol,Liver issues
+56,Depression,Escitalopram,Nausea
+75,Diabetes,Metformin,Nausea
+36,Depression,Bupropion,Headache
+40,Diabetes,Glipizide,Nausea
+28,Hypertension,Amlodipine,Dizziness
+28,Depression,Bupropion,Dry mouth
+41,Pain Relief,Ibuprofen,Nausea
+70,Pain Relief,Tramadol,Dizziness
+53,Infection,Azithromycin,Abdominal pain
+57,Diabetes,Glipizide,Low blood sugar
+41,Depression,Sertraline,Dry mouth
+20,Infection,Azithromycin,Nausea
+39,Depression,Bupropion,Anxiety
+70,Diabetes,Insulin Glargine,Low sugar
+19,Pain Relief,Paracetamol,Liver issues
+41,Hypertension,Losartan,Back pain
+61,Pain Relief,Tramadol,Nausea
+47,Infection,Ciprofloxacin,Dizziness
+55,Hypertension,Metoprolol,Tiredness
+19,Infection,Ciprofloxacin,Nausea
+77,Diabetes,Glipizide,Skin rash
+38,Hypertension,Metoprolol,Tiredness
+50,Infection,Ciprofloxacin,Dizziness
+29,Diabetes,Insulin Glargine,Weight gain
+75,Pain Relief,Paracetamol,Liver issues
+39,Diabetes,Glipizide,Low blood sugar
+78,Depression,Sertraline,Insomnia
+61,Diabetes,Glipizide,Low blood sugar
+42,Diabetes,Glipizide,Low blood sugar
+66,Depression,Bupropion,Headache
+44,Infection,Ciprofloxacin,Nausea
+76,Infection,Amoxicillin,Diarrhea
+59,Diabetes,Insulin Glargine,Weight gain
+45,Depression,Escitalopram,Sweating
+77,Depression,Sertraline,Insomnia
+33,Pain Relief,Tramadol,Constipation
+32,Infection,Amoxicillin,Allergy
+79,Hypertension,Amlodipine,Fatigue
+79,Infection,Amoxicillin,Rash
+64,Infection,Azithromycin,Headache
+79,Pain Relief,Tramadol,Constipation
+68,Hypertension,Amlodipine,Swelling
+61,Pain Relief,Paracetamol,Liver issues
+72,Hypertension,Amlodipine,Dizziness
+69,Diabetes,Glipizide,Low blood sugar
+74,Hypertension,Metoprolol,Dizziness
+20,Pain Relief,Ibuprofen,Nausea
+54,Infection,Azithromycin,Abdominal pain
+68,Hypertension,Metoprolol,Dizziness
+24,Hypertension,Losartan,Cough
+38,Depression,Bupropion,Dry mouth
+26,Infection,Ciprofloxacin,Nausea
+56,Diabetes,Insulin Glargine,Weight gain
+35,Pain Relief,Tramadol,Dizziness
+21,Diabetes,Glipizide,Low blood sugar
+42,Infection,Amoxicillin,Rash
+77,Hypertension,Amlodipine,Dizziness
+31,Hypertension,Amlodipine,Fatigue
+67,Infection,Ciprofloxacin,Joint pain
+75,Hypertension,Metoprolol,Tiredness
+26,Hypertension,Amlodipine,Swelling
+43,Hypertension,Amlodipine,Fatigue
+19,Pain Relief,Paracetamol,Fatigue
+37,Depression,Escitalopram,Sweating
+45,Diabetes,Metformin,Nausea
+64,Infection,Ciprofloxacin,Joint pain
+77,Infection,Ciprofloxacin,Joint pain
+24,Infection,Amoxicillin,Diarrhea
+61,Depression,Bupropion,Headache
+78,Pain Relief,Paracetamol,Rash
+25,Depression,Bupropion,Anxiety
+64,Infection,Azithromycin,Nausea
+52,Diabetes,Metformin,Stomach upset
+31,Hypertension,Losartan,Back pain
+34,Pain Relief,Tramadol,Constipation
+53,Pain Relief,Tramadol,Constipation
+67,Depression,Bupropion,Anxiety
+57,Pain Relief,Tramadol,Nausea
+21,Infection,Ciprofloxacin,Joint pain
+79,Depression,Sertraline,Dry mouth
+23,Infection,Ciprofloxacin,Nausea
+71,Diabetes,Insulin Glargine,Weight gain
+59,Depression,Sertraline,Drowsiness
+21,Diabetes,Insulin Glargine,Injection site pain
+71,Hypertension,Amlodipine,Fatigue
+46,Diabetes,Metformin,Diarrhea
+35,Hypertension,Amlodipine,Fatigue
+43,Hypertension,Losartan,Headache
+61,Diabetes,Glipizide,Skin rash
+51,Depression,Bupropion,Anxiety
+27,Infection,Amoxicillin,Allergy
+79,Infection,Amoxicillin,Diarrhea
+53,Hypertension,Amlodipine,Fatigue
+31,Hypertension,Losartan,Cough
+48,Depression,Sertraline,Dry mouth
+65,Pain Relief,Tramadol,Nausea
+32,Diabetes,Insulin Glargine,Low sugar
+25,Hypertension,Losartan,Back pain
+31,Infection,Amoxicillin,Rash
+40,Depression,Bupropion,Anxiety
+77,Diabetes,Insulin Glargine,Injection site pain
+74,Depression,Bupropion,Headache
+79,Diabetes,Glipizide,Skin rash
+57,Diabetes,Metformin,Stomach upset
+38,Hypertension,Amlodipine,Dizziness
+33,Depression,Escitalopram,Sleep issues
+62,Depression,Escitalopram,Sleep issues
+35,Infection,Azithromycin,Headache
+70,Hypertension,Amlodipine,Fatigue
+43,Pain Relief,Tramadol,Nausea
+42,Infection,Azithromycin,Headache
+77,Diabetes,Insulin Glargine,Low sugar
+77,Depression,Sertraline,Drowsiness
+77,Hypertension,Losartan,Cough
+58,Depression,Escitalopram,Sleep issues
+46,Pain Relief,Tramadol,Dizziness
+32,Infection,Amoxicillin,Diarrhea
+62,Hypertension,Metoprolol,Dizziness
+18,Depression,Sertraline,Insomnia
+42,Hypertension,Metoprolol,Dizziness
+24,Diabetes,Glipizide,Nausea
+26,Pain Relief,Tramadol,Nausea
+41,Diabetes,Insulin Glargine,Weight gain
+18,Hypertension,Amlodipine,Swelling
+61,Hypertension,Amlodipine,Dizziness
+25,Infection,Azithromycin,Nausea
+41,Depression,Sertraline,Insomnia
+28,Depression,Escitalopram,Sweating
+68,Diabetes,Insulin Glargine,Weight gain
+34,Pain Relief,Paracetamol,Fatigue
+25,Depression,Sertraline,Drowsiness
+52,Infection,Azithromycin,Nausea
+50,Diabetes,Glipizide,Low blood sugar
+76,Infection,Ciprofloxacin,Joint pain
+22,Pain Relief,Tramadol,Constipation
+59,Infection,Ciprofloxacin,Dizziness
+56,Pain Relief,Tramadol,Constipation
+75,Infection,Amoxicillin,Diarrhea
+58,Infection,Azithromycin,Nausea
+45,Hypertension,Amlodipine,Swelling
+24,Diabetes,Glipizide,Low blood sugar
+25,Infection,Amoxicillin,Rash
+29,Depression,Sertraline,Insomnia
+51,Diabetes,Insulin Glargine,Weight gain
+50,Depression,Bupropion,Headache
+65,Diabetes,Glipizide,Low blood sugar
+72,Depression,Sertraline,Dry mouth
+40,Infection,Amoxicillin,Rash
+79,Infection,Azithromycin,Headache
+41,Hypertension,Metoprolol,Dizziness
+54,Depression,Sertraline,Insomnia
+52,Pain Relief,Ibuprofen,Stomach pain
+61,Hypertension,Metoprolol,Dizziness
+57,Depression,Sertraline,Drowsiness
+39,Depression,Sertraline,Insomnia
+44,Hypertension,Losartan,Cough
+52,Infection,Ciprofloxacin,Joint pain
+18,Depression,Bupropion,Dry mouth
+52,Infection,Amoxicillin,Diarrhea
+54,Hypertension,Losartan,Headache
+31,Diabetes,Glipizide,Skin rash
+20,Pain Relief,Paracetamol,Liver issues
+18,Depression,Escitalopram,Sweating
+22,Pain Relief,Ibuprofen,Stomach pain
+43,Infection,Amoxicillin,Allergy
+72,Depression,Bupropion,Anxiety
+31,Infection,Azithromycin,Abdominal pain
+56,Diabetes,Metformin,Nausea
+44,Hypertension,Metoprolol,Dizziness
+26,Depression,Sertraline,Drowsiness
+32,Diabetes,Insulin Glargine,Weight gain
+43,Depression,Bupropion,Dry mouth
+59,Infection,Azithromycin,Headache
+77,Diabetes,Metformin,Stomach upset
+30,Pain Relief,Tramadol,Constipation
+68,Diabetes,Insulin Glargine,Injection site pain
+49,Infection,Amoxicillin,Diarrhea
+56,Infection,Azithromycin,Abdominal pain
+66,Pain Relief,Tramadol,Nausea
+69,Diabetes,Glipizide,Skin rash
+78,Infection,Azithromycin,Nausea
+49,Depression,Escitalopram,Nausea
+21,Hypertension,Amlodipine,Dizziness
+47,Hypertension,Losartan,Headache
+54,Hypertension,Metoprolol,Dizziness
+40,Diabetes,Insulin Glargine,Injection site pain
+56,Pain Relief,Ibuprofen,Stomach pain
+62,Infection,Amoxicillin,Allergy
+32,Depression,Escitalopram,Sweating
+46,Diabetes,Glipizide,Low blood sugar
+53,Hypertension,Metoprolol,Dizziness
+30,Diabetes,Insulin Glargine,Injection site pain
+49,Pain Relief,Tramadol,Constipation
+24,Pain Relief,Tramadol,Nausea
+68,Infection,Azithromycin,Nausea
+39,Pain Relief,Ibuprofen,Nausea
+45,Pain Relief,Tramadol,Dizziness
+19,Pain Relief,Tramadol,Constipation
+59,Diabetes,Metformin,Nausea
+62,Pain Relief,Tramadol,Dizziness
+79,Depression,Escitalopram,Nausea
+74,Hypertension,Metoprolol,Tiredness
+70,Pain Relief,Tramadol,Constipation
+23,Hypertension,Amlodipine,Swelling
+45,Diabetes,Insulin Glargine,Low sugar
+45,Hypertension,Losartan,Cough
+61,Diabetes,Metformin,Stomach upset
+61,Depression,Escitalopram,Nausea
+37,Diabetes,Metformin,Diarrhea
+47,Diabetes,Insulin Glargine,Injection site pain
+79,Infection,Ciprofloxacin,Nausea
+28,Pain Relief,Paracetamol,Liver issues
+75,Pain Relief,Tramadol,Nausea
+45,Depression,Escitalopram,Sleep issues
+42,Pain Relief,Paracetamol,Fatigue
+56,Infection,Azithromycin,Headache
+79,Pain Relief,Ibuprofen,Stomach pain
+50,Infection,Azithromycin,Nausea
+18,Depression,Sertraline,Drowsiness
+74,Hypertension,Losartan,Back pain
+44,Depression,Bupropion,Headache
+79,Depression,Bupropion,Anxiety
+74,Diabetes,Metformin,Diarrhea
+69,Diabetes,Insulin Glargine,Low sugar
+30,Diabetes,Glipizide,Low blood sugar
+58,Diabetes,Insulin Glargine,Injection site pain
+20,Infection,Azithromycin,Abdominal pain
+56,Pain Relief,Tramadol,Nausea
+23,Hypertension,Metoprolol,Slow heartbeat
+25,Depression,Sertraline,Insomnia
+44,Infection,Ciprofloxacin,Dizziness
+26,Hypertension,Amlodipine,Fatigue
+79,Infection,Azithromycin,Nausea
+54,Infection,Ciprofloxacin,Joint pain
+50,Depression,Sertraline,Dry mouth
+68,Pain Relief,Ibuprofen,Stomach pain
+59,Diabetes,Glipizide,Skin rash
+61,Pain Relief,Tramadol,Constipation
+32,Depression,Escitalopram,Sleep issues
+76,Depression,Bupropion,Dry mouth
+71,Hypertension,Amlodipine,Dizziness
+49,Pain Relief,Ibuprofen,Nausea
+49,Pain Relief,Tramadol,Nausea
+41,Infection,Azithromycin,Headache
+58,Infection,Ciprofloxacin,Nausea
+69,Infection,Ciprofloxacin,Joint pain
+66,Depression,Escitalopram,Nausea
+66,Depression,Sertraline,Insomnia
+75,Hypertension,Losartan,Back pain
+69,Infection,Ciprofloxacin,Dizziness
+29,Depression,Bupropion,Anxiety
+79,Depression,Escitalopram,Sweating
+56,Hypertension,Losartan,Headache
+19,Diabetes,Insulin Glargine,Weight gain
+20,Pain Relief,Paracetamol,Rash
+66,Diabetes,Glipizide,Skin rash
+54,Infection,Azithromycin,Headache
+66,Depression,Bupropion,Anxiety
+73,Hypertension,Losartan,Cough
+34,Hypertension,Losartan,Headache
+76,Pain Relief,Tramadol,Nausea
+66,Diabetes,Metformin,Stomach upset
+19,Pain Relief,Ibuprofen,Heartburn
+19,Depression,Escitalopram,Sweating
+45,Pain Relief,Ibuprofen,Stomach pain
+71,Hypertension,Losartan,Back pain
+40,Hypertension,Losartan,Headache
+54,Infection,Amoxicillin,Allergy
+49,Infection,Amoxicillin,Allergy
+18,Diabetes,Metformin,Stomach upset
+36,Pain Relief,Tramadol,Nausea
+79,Depression,Escitalopram,Sleep issues
+19,Infection,Amoxicillin,Rash
+70,Pain Relief,Paracetamol,Liver issues
+61,Infection,Azithromycin,Headache
+43,Pain Relief,Ibuprofen,Stomach pain
+49,Diabetes,Insulin Glargine,Injection site pain
+23,Depression,Bupropion,Headache
+49,Pain Relief,Paracetamol,Fatigue
+72,Pain Relief,Paracetamol,Liver issues
+28,Pain Relief,Ibuprofen,Heartburn
+73,Pain Relief,Tramadol,Dizziness
+76,Hypertension,Amlodipine,Dizziness
+34,Hypertension,Losartan,Back pain
+55,Pain Relief,Ibuprofen,Stomach pain
+41,Infection,Amoxicillin,Allergy
+22,Infection,Ciprofloxacin,Nausea
+69,Diabetes,Metformin,Stomach upset
+51,Depression,Escitalopram,Sweating
+23,Infection,Amoxicillin,Diarrhea
+39,Hypertension,Metoprolol,Dizziness
+28,Infection,Azithromycin,Nausea
+33,Diabetes,Metformin,Diarrhea
+50,Depression,Bupropion,Anxiety
+76,Hypertension,Metoprolol,Slow heartbeat
+23,Pain Relief,Tramadol,Nausea
+33,Hypertension,Amlodipine,Dizziness
+46,Depression,Bupropion,Headache
+20,Depression,Sertraline,Insomnia
+37,Hypertension,Metoprolol,Dizziness
+77,Hypertension,Losartan,Back pain
+76,Pain Relief,Ibuprofen,Stomach pain
+53,Hypertension,Metoprolol,Tiredness
+36,Pain Relief,Paracetamol,Rash
+43,Pain Relief,Ibuprofen,Nausea
+20,Hypertension,Amlodipine,Fatigue
+36,Diabetes,Insulin Glargine,Injection site pain
+37,Diabetes,Metformin,Stomach upset
+24,Hypertension,Amlodipine,Swelling
+58,Hypertension,Losartan,Cough
+50,Hypertension,Losartan,Headache
+57,Hypertension,Amlodipine,Fatigue
+56,Infection,Ciprofloxacin,Dizziness
+35,Hypertension,Losartan,Headache
+57,Infection,Amoxicillin,Rash
+18,Pain Relief,Paracetamol,Fatigue
+28,Diabetes,Glipizide,Skin rash
+45,Diabetes,Insulin Glargine,Injection site pain
+74,Diabetes,Metformin,Nausea
+42,Diabetes,Insulin Glargine,Injection site pain
+67,Diabetes,Insulin Glargine,Low sugar
+40,Diabetes,Glipizide,Skin rash
+48,Diabetes,Glipizide,Skin rash
+47,Pain Relief,Tramadol,Dizziness
+59,Hypertension,Metoprolol,Slow heartbeat
+52,Depression,Bupropion,Headache
+24,Infection,Amoxicillin,Allergy
+77,Depression,Escitalopram,Sweating
+33,Depression,Sertraline,Insomnia
+43,Hypertension,Metoprolol,Dizziness
+65,Hypertension,Losartan,Headache
+74,Hypertension,Losartan,Headache
+69,Diabetes,Metformin,Nausea
+77,Pain Relief,Paracetamol,Rash
+66,Diabetes,Metformin,Diarrhea
+19,Pain Relief,Ibuprofen,Stomach pain
+18,Pain Relief,Tramadol,Nausea
+65,Depression,Escitalopram,Sleep issues
+79,Depression,Sertraline,Drowsiness
+29,Pain Relief,Tramadol,Nausea
+54,Diabetes,Glipizide,Low blood sugar
+49,Diabetes,Insulin Glargine,Weight gain
+76,Depression,Sertraline,Dry mouth
+72,Hypertension,Metoprolol,Tiredness
+26,Pain Relief,Ibuprofen,Heartburn
+58,Diabetes,Insulin Glargine,Weight gain
+52,Depression,Sertraline,Drowsiness
+36,Diabetes,Glipizide,Skin rash
+33,Pain Relief,Paracetamol,Rash
+37,Hypertension,Amlodipine,Fatigue
+41,Infection,Ciprofloxacin,Joint pain
+71,Depression,Sertraline,Drowsiness
+73,Diabetes,Insulin Glargine,Injection site pain
+50,Depression,Sertraline,Insomnia
+41,Pain Relief,Paracetamol,Liver issues
+69,Infection,Ciprofloxacin,Nausea
+28,Infection,Azithromycin,Abdominal pain
+66,Infection,Amoxicillin,Allergy
+53,Pain Relief,Ibuprofen,Heartburn
+55,Diabetes,Glipizide,Nausea
+57,Diabetes,Insulin Glargine,Low sugar
+37,Depression,Bupropion,Headache
+52,Hypertension,Amlodipine,Dizziness
+65,Depression,Sertraline,Drowsiness
+42,Pain Relief,Tramadol,Constipation
+42,Depression,Bupropion,Headache
+46,Depression,Escitalopram,Nausea
+35,Infection,Ciprofloxacin,Joint pain
+63,Infection,Azithromycin,Headache
+35,Hypertension,Metoprolol,Tiredness
+71,Hypertension,Losartan,Cough
+33,Diabetes,Glipizide,Nausea
+78,Infection,Amoxicillin,Rash
+58,Pain Relief,Tramadol,Nausea
+53,Infection,Amoxicillin,Allergy
+50,Pain Relief,Tramadol,Nausea
+21,Pain Relief,Tramadol,Constipation
+50,Pain Relief,Paracetamol,Liver issues
+31,Pain Relief,Paracetamol,Fatigue
+65,Diabetes,Metformin,Nausea
+37,Hypertension,Losartan,Back pain
+73,Depression,Escitalopram,Sleep issues
+25,Hypertension,Metoprolol,Tiredness
+24,Pain Relief,Paracetamol,Fatigue
+20,Diabetes,Metformin,Nausea
+34,Infection,Ciprofloxacin,Dizziness
+50,Diabetes,Glipizide,Nausea
+65,Pain Relief,Paracetamol,Rash
+29,Diabetes,Insulin Glargine,Injection site pain
+76,Diabetes,Insulin Glargine,Weight gain
+39,Diabetes,Metformin,Diarrhea
+72,Depression,Escitalopram,Nausea
+39,Depression,Escitalopram,Sweating
+63,Diabetes,Glipizide,Low blood sugar
+55,Pain Relief,Paracetamol,Rash
+55,Depression,Escitalopram,Sweating
+62,Infection,Azithromycin,Abdominal pain
+68,Diabetes,Glipizide,Skin rash
+71,Infection,Amoxicillin,Diarrhea
+25,Hypertension,Losartan,Headache
+44,Depression,Escitalopram,Sweating
+44,Diabetes,Insulin Glargine,Weight gain
+51,Pain Relief,Tramadol,Nausea
+38,Diabetes,Insulin Glargine,Low sugar
+47,Pain Relief,Tramadol,Constipation
+50,Diabetes,Insulin Glargine,Weight gain
+45,Infection,Amoxicillin,Allergy
+64,Infection,Amoxicillin,Rash
+22,Hypertension,Losartan,Headache
+77,Pain Relief,Paracetamol,Fatigue
+78,Infection,Azithromycin,Headache
+65,Hypertension,Amlodipine,Swelling
+36,Pain Relief,Ibuprofen,Nausea
+21,Diabetes,Insulin Glargine,Weight gain
+52,Hypertension,Amlodipine,Fatigue
+66,Depression,Escitalopram,Sleep issues
+34,Hypertension,Losartan,Cough
+61,Hypertension,Amlodipine,Swelling
+47,Diabetes,Glipizide,Nausea
+63,Infection,Amoxicillin,Allergy
+70,Infection,Amoxicillin,Rash
+23,Hypertension,Metoprolol,Dizziness
+52,Pain Relief,Ibuprofen,Nausea
+54,Depression,Escitalopram,Sweating
+41,Diabetes,Metformin,Stomach upset
+46,Depression,Bupropion,Anxiety
+63,Infection,Ciprofloxacin,Nausea
+70,Diabetes,Metformin,Diarrhea
+48,Pain Relief,Paracetamol,Rash
+52,Hypertension,Metoprolol,Tiredness
+69,Pain Relief,Tramadol,Nausea
+78,Depression,Escitalopram,Sleep issues
+38,Pain Relief,Ibuprofen,Heartburn
+49,Hypertension,Metoprolol,Tiredness
+40,Hypertension,Losartan,Back pain
+50,Pain Relief,Tramadol,Constipation
+20,Pain Relief,Ibuprofen,Stomach pain
+42,Depression,Escitalopram,Nausea
+59,Infection,Amoxicillin,Allergy
+48,Infection,Ciprofloxacin,Dizziness
+71,Pain Relief,Ibuprofen,Stomach pain
+75,Infection,Ciprofloxacin,Dizziness
+57,Hypertension,Amlodipine,Swelling
+63,Pain Relief,Ibuprofen,Stomach pain
+67,Pain Relief,Tramadol,Dizziness
+49,Depression,Bupropion,Dry mouth
+39,Pain Relief,Tramadol,Nausea
+40,Diabetes,Insulin Glargine,Low sugar
+44,Hypertension,Losartan,Back pain
+59,Infection,Ciprofloxacin,Joint pain
+19,Pain Relief,Paracetamol,Rash
+43,Diabetes,Glipizide,Nausea
+34,Infection,Amoxicillin,Rash
+57,Hypertension,Losartan,Headache
+50,Depression,Bupropion,Dry mouth
+26,Infection,Azithromycin,Abdominal pain
+60,Infection,Azithromycin,Abdominal pain
+71,Depression,Bupropion,Dry mouth
+65,Infection,Azithromycin,Nausea
+56,Hypertension,Losartan,Back pain
+46,Hypertension,Losartan,Cough
+59,Depression,Escitalopram,Sleep issues
+72,Pain Relief,Tramadol,Dizziness
+43,Diabetes,Insulin Glargine,Low sugar
+52,Pain Relief,Paracetamol,Fatigue
+67,Infection,Ciprofloxacin,Nausea
+41,Depression,Bupropion,Anxiety
+30,Depression,Sertraline,Dry mouth
+77,Diabetes,Glipizide,Nausea
+75,Hypertension,Losartan,Headache
+24,Diabetes,Metformin,Diarrhea
+74,Infection,Amoxicillin,Rash
+53,Hypertension,Losartan,Back pain
+37,Diabetes,Glipizide,Skin rash
+18,Pain Relief,Ibuprofen,Heartburn
+25,Pain Relief,Ibuprofen,Heartburn
+63,Infection,Amoxicillin,Rash
+33,Pain Relief,Tramadol,Nausea
+31,Diabetes,Metformin,Stomach upset
+68,Pain Relief,Paracetamol,Fatigue
+45,Hypertension,Losartan,Headache
+51,Infection,Ciprofloxacin,Joint pain
+19,Infection,Amoxicillin,Diarrhea
+49,Diabetes,Metformin,Stomach upset
+40,Hypertension,Metoprolol,Dizziness
+39,Diabetes,Metformin,Stomach upset
+68,Depression,Sertraline,Dry mouth
+42,Diabetes,Metformin,Nausea
+75,Diabetes,Insulin Glargine,Injection site pain
+79,Diabetes,Metformin,Diarrhea
+78,Hypertension,Amlodipine,Dizziness
+39,Diabetes,Insulin Glargine,Low sugar
+75,Pain Relief,Paracetamol,Rash
+39,Depression,Bupropion,Headache
+66,Hypertension,Amlodipine,Fatigue
+59,Hypertension,Losartan,Cough
+23,Hypertension,Amlodipine,Dizziness
+32,Depression,Bupropion,Headache
+71,Infection,Ciprofloxacin,Nausea
+60,Infection,Amoxicillin,Rash
+77,Hypertension,Losartan,Headache
+54,Diabetes,Insulin Glargine,Low sugar
+25,Diabetes,Glipizide,Nausea
+70,Diabetes,Metformin,Stomach upset
+77,Hypertension,Metoprolol,Tiredness
+61,Hypertension,Losartan,Headache
+61,Hypertension,Metoprolol,Tiredness
+22,Hypertension,Amlodipine,Swelling
+56,Infection,Ciprofloxacin,Joint pain
+21,Hypertension,Metoprolol,Tiredness
+23,Infection,Azithromycin,Nausea
+62,Infection,Ciprofloxacin,Dizziness
+49,Hypertension,Losartan,Back pain
+69,Depression,Bupropion,Dry mouth
+47,Pain Relief,Paracetamol,Liver issues
+64,Diabetes,Metformin,Stomach upset
+52,Infection,Amoxicillin,Allergy
+72,Pain Relief,Tramadol,Constipation
+33,Diabetes,Insulin Glargine,Low sugar
+30,Infection,Ciprofloxacin,Joint pain
+67,Hypertension,Metoprolol,Dizziness
+77,Depression,Escitalopram,Sleep issues
+59,Infection,Azithromycin,Nausea
+47,Depression,Bupropion,Dry mouth
+36,Hypertension,Amlodipine,Fatigue
+34,Hypertension,Amlodipine,Swelling
+73,Infection,Azithromycin,Headache
+36,Hypertension,Losartan,Back pain
+75,Diabetes,Metformin,Diarrhea
+72,Infection,Azithromycin,Headache
+43,Depression,Sertraline,Insomnia
+54,Pain Relief,Tramadol,Nausea
+43,Infection,Azithromycin,Nausea
+70,Hypertension,Losartan,Back pain
+40,Hypertension,Metoprolol,Slow heartbeat
+26,Hypertension,Losartan,Cough
+29,Depression,Escitalopram,Sleep issues
+70,Pain Relief,Paracetamol,Fatigue
+18,Diabetes,Insulin Glargine,Injection site pain
+75,Depression,Bupropion,Headache
+75,Depression,Sertraline,Dry mouth
+51,Hypertension,Amlodipine,Fatigue
+49,Depression,Sertraline,Drowsiness
+71,Diabetes,Metformin,Nausea
+42,Pain Relief,Paracetamol,Rash
+57,Infection,Azithromycin,Nausea
+70,Diabetes,Glipizide,Nausea
+18,Hypertension,Losartan,Cough
+33,Pain Relief,Tramadol,Dizziness
+78,Infection,Amoxicillin,Diarrhea
+56,Diabetes,Insulin Glargine,Injection site pain
+22,Infection,Azithromycin,Nausea
+39,Pain Relief,Ibuprofen,Stomach pain
+46,Pain Relief,Paracetamol,Liver issues
+72,Depression,Bupropion,Headache
+20,Diabetes,Insulin Glargine,Low sugar
+29,Pain Relief,Paracetamol,Rash
+43,Depression,Escitalopram,Nausea
+33,Depression,Sertraline,Drowsiness
+68,Infection,Amoxicillin,Allergy
+54,Infection,Azithromycin,Nausea
+39,Depression,Sertraline,Dry mouth
+74,Infection,Ciprofloxacin,Nausea
+46,Pain Relief,Paracetamol,Fatigue
+31,Hypertension,Metoprolol,Tiredness
+45,Pain Relief,Tramadol,Constipation
+22,Depression,Bupropion,Anxiety
+64,Depression,Escitalopram,Sleep issues
+66,Pain Relief,Tramadol,Dizziness
+47,Infection,Azithromycin,Headache
+63,Infection,Amoxicillin,Diarrhea
+79,Depression,Sertraline,Insomnia
+22,Infection,Amoxicillin,Rash
+29,Pain Relief,Tramadol,Dizziness
+33,Infection,Azithromycin,Abdominal pain
+65,Infection,Ciprofloxacin,Nausea
+38,Pain Relief,Tramadol,Dizziness
+56,Depression,Sertraline,Insomnia
+53,Diabetes,Glipizide,Nausea
+79,Diabetes,Insulin Glargine,Low sugar
+47,Diabetes,Glipizide,Low blood sugar
+54,Hypertension,Metoprolol,Slow heartbeat
+40,Infection,Azithromycin,Headache
+27,Diabetes,Metformin,Diarrhea
+71,Hypertension,Metoprolol,Slow heartbeat
+22,Depression,Sertraline,Drowsiness
+53,Pain Relief,Paracetamol,Rash
+51,Diabetes,Glipizide,Low blood sugar
+48,Hypertension,Amlodipine,Swelling
+27,Diabetes,Glipizide,Low blood sugar
+75,Infection,Azithromycin,Nausea
+36,Diabetes,Insulin Glargine,Weight gain
+49,Pain Relief,Tramadol,Dizziness
+18,Pain Relief,Ibuprofen,Nausea
+73,Hypertension,Losartan,Back pain
+22,Pain Relief,Paracetamol,Fatigue
+62,Infection,Azithromycin,Headache
+41,Infection,Amoxicillin,Rash
+33,Infection,Ciprofloxacin,Dizziness
+72,Pain Relief,Ibuprofen,Heartburn
+19,Hypertension,Amlodipine,Swelling
+66,Diabetes,Metformin,Nausea
+45,Hypertension,Amlodipine,Dizziness
+49,Diabetes,Insulin Glargine,Low sugar
+44,Diabetes,Insulin Glargine,Low sugar
+37,Hypertension,Losartan,Headache
+41,Infection,Ciprofloxacin,Dizziness
+29,Diabetes,Glipizide,Low blood sugar
+67,Hypertension,Metoprolol,Slow heartbeat
+52,Diabetes,Glipizide,Low blood sugar
+77,Depression,Bupropion,Anxiety
+50,Infection,Azithromycin,Headache
+78,Diabetes,Insulin Glargine,Injection site pain
+68,Depression,Escitalopram,Nausea
+60,Pain Relief,Ibuprofen,Stomach pain
+54,Pain Relief,Ibuprofen,Nausea
+29,Diabetes,Glipizide,Skin rash
+20,Hypertension,Losartan,Headache
+18,Diabetes,Metformin,Diarrhea
+50,Depression,Escitalopram,Nausea
+57,Pain Relief,Ibuprofen,Heartburn
+27,Diabetes,Glipizide,Nausea
+60,Hypertension,Amlodipine,Dizziness
+61,Diabetes,Insulin Glargine,Weight gain
+46,Infection,Azithromycin,Abdominal pain
+30,Hypertension,Amlodipine,Dizziness
+29,Depression,Bupropion,Dry mouth
+48,Pain Relief,Ibuprofen,Nausea
+63,Diabetes,Metformin,Stomach upset
+78,Infection,Amoxicillin,Allergy
+68,Hypertension,Losartan,Headache
+52,Depression,Escitalopram,Sleep issues
+40,Pain Relief,Ibuprofen,Stomach pain
+34,Depression,Escitalopram,Sleep issues
+43,Diabetes,Metformin,Nausea
+25,Hypertension,Metoprolol,Dizziness
+46,Infection,Ciprofloxacin,Nausea
+43,Infection,Ciprofloxacin,Nausea
+27,Hypertension,Amlodipine,Dizziness
+43,Hypertension,Metoprolol,Slow heartbeat
+79,Diabetes,Insulin Glargine,Injection site pain
+51,Depression,Sertraline,Insomnia
+68,Infection,Amoxicillin,Diarrhea
+24,Depression,Escitalopram,Sleep issues
+21,Diabetes,Glipizide,Nausea
+75,Infection,Amoxicillin,Allergy
+70,Hypertension,Amlodipine,Swelling
+67,Hypertension,Losartan,Back pain
+62,Depression,Escitalopram,Nausea
+28,Pain Relief,Ibuprofen,Stomach pain
+73,Pain Relief,Paracetamol,Rash
+53,Diabetes,Glipizide,Low blood sugar
+42,Diabetes,Metformin,Diarrhea
+38,Infection,Ciprofloxacin,Joint pain
+78,Pain Relief,Tramadol,Nausea
+74,Infection,Amoxicillin,Allergy
+53,Hypertension,Metoprolol,Slow heartbeat
+27,Pain Relief,Ibuprofen,Stomach pain
+54,Depression,Bupropion,Anxiety
+26,Hypertension,Losartan,Headache
+41,Hypertension,Losartan,Headache
+66,Hypertension,Metoprolol,Dizziness
+52,Pain Relief,Paracetamol,Liver issues
+65,Infection,Ciprofloxacin,Dizziness
+35,Pain Relief,Paracetamol,Liver issues
+66,Diabetes,Insulin Glargine,Weight gain
+49,Infection,Amoxicillin,Rash
+41,Pain Relief,Paracetamol,Fatigue
+40,Depression,Bupropion,Headache
+54,Depression,Bupropion,Headache
+66,Infection,Ciprofloxacin,Nausea
+72,Diabetes,Metformin,Diarrhea
+30,Depression,Bupropion,Headache
+42,Pain Relief,Ibuprofen,Heartburn
+52,Diabetes,Metformin,Nausea
+58,Hypertension,Metoprolol,Dizziness
+34,Diabetes,Glipizide,Skin rash
+66,Pain Relief,Tramadol,Constipation
+79,Pain Relief,Paracetamol,Rash
+39,Infection,Ciprofloxacin,Dizziness
+30,Infection,Ciprofloxacin,Dizziness
+36,Diabetes,Metformin,Diarrhea
+53,Pain Relief,Tramadol,Dizziness
+29,Hypertension,Amlodipine,Swelling
+78,Pain Relief,Ibuprofen,Heartburn
+58,Pain Relief,Ibuprofen,Stomach pain
+29,Infection,Ciprofloxacin,Joint pain
+26,Pain Relief,Ibuprofen,Nausea
+24,Depression,Bupropion,Dry mouth
+45,Infection,Amoxicillin,Diarrhea
+31,Pain Relief,Ibuprofen,Heartburn
+48,Pain Relief,Ibuprofen,Heartburn
+69,Hypertension,Amlodipine,Swelling
+36,Hypertension,Metoprolol,Slow heartbeat
+64,Pain Relief,Ibuprofen,Nausea
+70,Hypertension,Metoprolol,Slow heartbeat
+22,Infection,Azithromycin,Headache
+29,Pain Relief,Ibuprofen,Nausea
+42,Diabetes,Insulin Glargine,Weight gain
+69,Infection,Azithromycin,Nausea
+76,Pain Relief,Tramadol,Dizziness
+70,Infection,Ciprofloxacin,Nausea
+40,Diabetes,Metformin,Nausea
+33,Hypertension,Amlodipine,Fatigue
+56,Diabetes,Glipizide,Nausea
+62,Depression,Escitalopram,Sweating
+70,Hypertension,Metoprolol,Dizziness
+75,Hypertension,Amlodipine,Fatigue
+31,Depression,Escitalopram,Sweating
+48,Pain Relief,Tramadol,Dizziness
+22,Pain Relief,Ibuprofen,Heartburn
+40,Depression,Sertraline,Drowsiness
+60,Pain Relief,Ibuprofen,Heartburn
+28,Infection,Ciprofloxacin,Nausea
+35,Pain Relief,Paracetamol,Fatigue
+64,Diabetes,Glipizide,Skin rash
+29,Pain Relief,Paracetamol,Fatigue
+26,Hypertension,Losartan,Back pain
+34,Depression,Bupropion,Headache
+78,Diabetes,Insulin Glargine,Low sugar
+55,Depression,Sertraline,Insomnia
+63,Hypertension,Amlodipine,Dizziness
+30,Infection,Amoxicillin,Allergy
+57,Depression,Sertraline,Insomnia
+67,Diabetes,Glipizide,Low blood sugar
+44,Depression,Escitalopram,Nausea
+75,Diabetes,Glipizide,Nausea
+22,Diabetes,Insulin Glargine,Low sugar
+46,Diabetes,Insulin Glargine,Injection site pain
+54,Hypertension,Losartan,Cough
+55,Diabetes,Insulin Glargine,Low sugar
+65,Hypertension,Amlodipine,Dizziness
+62,Pain Relief,Tramadol,Constipation
+18,Hypertension,Metoprolol,Dizziness
+39,Infection,Amoxicillin,Diarrhea
+69,Pain Relief,Tramadol,Dizziness
+34,Depression,Bupropion,Anxiety
+24,Depression,Sertraline,Drowsiness
+42,Hypertension,Metoprolol,Tiredness
+62,Hypertension,Losartan,Cough
+21,Infection,Amoxicillin,Rash
+53,Infection,Ciprofloxacin,Nausea
+23,Diabetes,Metformin,Nausea
+77,Infection,Azithromycin,Headache
+48,Diabetes,Glipizide,Low blood sugar
+78,Hypertension,Amlodipine,Fatigue
+61,Pain Relief,Paracetamol,Rash
+71,Infection,Azithromycin,Headache
+44,Pain Relief,Paracetamol,Liver issues
+27,Pain Relief,Paracetamol,Rash
+79,Infection,Ciprofloxacin,Joint pain
+30,Depression,Sertraline,Insomnia
+67,Diabetes,Insulin Glargine,Weight gain
+45,Pain Relief,Tramadol,Nausea
+79,Depression,Bupropion,Headache
+75,Depression,Escitalopram,Sleep issues
+37,Infection,Amoxicillin,Diarrhea
+45,Depression,Bupropion,Anxiety
+25,Diabetes,Glipizide,Low blood sugar
+78,Diabetes,Glipizide,Low blood sugar
+58,Hypertension,Amlodipine,Fatigue
+20,Diabetes,Glipizide,Nausea
+45,Hypertension,Amlodipine,Fatigue
+74,Hypertension,Amlodipine,Fatigue
+77,Depression,Bupropion,Dry mouth
+66,Infection,Azithromycin,Nausea
+42,Hypertension,Amlodipine,Dizziness
+73,Pain Relief,Ibuprofen,Stomach pain
+50,Depression,Sertraline,Drowsiness
+55,Pain Relief,Tramadol,Dizziness
+70,Hypertension,Amlodipine,Dizziness
+75,Pain Relief,Ibuprofen,Heartburn
+49,Pain Relief,Ibuprofen,Stomach pain
+78,Infection,Azithromycin,Abdominal pain
+64,Pain Relief,Paracetamol,Fatigue
+38,Pain Relief,Paracetamol,Rash
+71,Diabetes,Metformin,Stomach upset
+38,Infection,Amoxicillin,Rash
+28,Pain Relief,Tramadol,Constipation
+54,Depression,Bupropion,Dry mouth
+53,Depression,Escitalopram,Nausea
+52,Pain Relief,Paracetamol,Rash
+36,Infection,Ciprofloxacin,Joint pain
+37,Infection,Ciprofloxacin,Dizziness
+74,Infection,Azithromycin,Nausea
+35,Diabetes,Insulin Glargine,Low sugar
+64,Depression,Bupropion,Headache
+58,Infection,Ciprofloxacin,Joint pain
+66,Infection,Azithromycin,Headache
+31,Diabetes,Insulin Glargine,Injection site pain
+18,Hypertension,Amlodipine,Fatigue
+71,Infection,Ciprofloxacin,Dizziness
+71,Diabetes,Insulin Glargine,Low sugar
+20,Diabetes,Insulin Glargine,Weight gain
+40,Infection,Ciprofloxacin,Joint pain
+28,Diabetes,Glipizide,Nausea
+29,Infection,Amoxicillin,Rash
+27,Infection,Ciprofloxacin,Dizziness
+25,Depression,Escitalopram,Nausea
+55,Hypertension,Losartan,Back pain
+29,Pain Relief,Ibuprofen,Heartburn
+41,Depression,Escitalopram,Sweating
+45,Infection,Ciprofloxacin,Joint pain
+70,Pain Relief,Ibuprofen,Stomach pain
+25,Infection,Azithromycin,Headache
+75,Diabetes,Insulin Glargine,Low sugar
+45,Pain Relief,Ibuprofen,Heartburn
+53,Diabetes,Metformin,Diarrhea
+43,Pain Relief,Paracetamol,Rash
+25,Pain Relief,Ibuprofen,Nausea
+75,Diabetes,Glipizide,Skin rash
+45,Infection,Ciprofloxacin,Nausea
+45,Pain Relief,Paracetamol,Fatigue
+54,Infection,Amoxicillin,Rash
+58,Diabetes,Insulin Glargine,Low sugar
+53,Infection,Azithromycin,Nausea
+44,Diabetes,Glipizide,Nausea
+34,Hypertension,Metoprolol,Tiredness
+50,Hypertension,Amlodipine,Fatigue
+37,Hypertension,Amlodipine,Dizziness
+30,Hypertension,Losartan,Back pain
+45,Diabetes,Metformin,Stomach upset
+65,Pain Relief,Tramadol,Dizziness
+46,Infection,Ciprofloxacin,Dizziness
+30,Hypertension,Amlodipine,Swelling
+63,Diabetes,Metformin,Nausea
+78,Diabetes,Metformin,Nausea
+23,Pain Relief,Tramadol,Constipation
+35,Infection,Amoxicillin,Allergy
+68,Pain Relief,Ibuprofen,Heartburn
+22,Depression,Sertraline,Insomnia
+64,Diabetes,Insulin Glargine,Weight gain
+42,Depression,Escitalopram,Sleep issues
+19,Hypertension,Metoprolol,Slow heartbeat
+27,Hypertension,Losartan,Back pain
+73,Pain Relief,Paracetamol,Fatigue
+47,Infection,Amoxicillin,Allergy
+67,Depression,Sertraline,Insomnia
+76,Infection,Ciprofloxacin,Dizziness
+22,Hypertension,Amlodipine,Fatigue
+72,Infection,Amoxicillin,Rash
+73,Infection,Ciprofloxacin,Nausea
+18,Hypertension,Losartan,Headache
+35,Infection,Azithromycin,Nausea
+49,Depression,Sertraline,Dry mouth
+64,Depression,Escitalopram,Nausea
+66,Hypertension,Metoprolol,Tiredness

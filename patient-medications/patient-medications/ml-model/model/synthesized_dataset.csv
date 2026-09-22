@@ -1,0 +1,2998 @@
+patient_age_group,patient_gender,num_medications,has_renal_disease,has_liver_disease,has_cardiac_disease,has_diabetes,interaction_type,severity,drug1,drug2
+adult,Male,3,0,0,1,0,None,Low,ciprofloxacin,cabozantinib
+adult,Male,6,0,0,1,0,None,Low,ciprofloxacin,carteolol
+adult,Male,3,0,0,1,0,None,Low,ciprofloxacin,dabrafenib
+adult,Male,5,0,0,1,0,None,Low,ciprofloxacin,pilocarpine
+adult,Male,3,0,0,1,0,None,Low,ciprofloxacin,vindesine
+elderly,Female,7,0,0,1,0,None,Low,metoprolol,atazanavir
+elderly,Female,4,0,0,1,0,None,Low,metoprolol,terconazole
+elderly,Female,3,0,0,1,0,None,Low,metoprolol,topotecan
+elderly,Female,4,0,0,1,0,None,Low,metoprolol,nafcillin
+elderly,Female,2,0,0,1,0,None,Low,metoprolol,paramethasone
+adult,Male,2,0,1,0,0,None,Low,bupropion,pefloxacin
+adult,Male,5,0,1,0,0,None,Low,bupropion,doxazosin
+adult,Male,4,0,1,0,0,None,Low,bupropion,carprofen
+adult,Male,4,0,0,0,1,None,Low,glipizide,prednicarbate
+adult,Male,7,0,0,0,1,None,Low,glipizide,butoconazole
+adult,Male,5,0,0,0,1,None,Low,glipizide,valsartan
+adult,Male,3,0,0,0,1,None,Low,glipizide,icosapent ethyl
+adult,Male,5,0,0,0,1,None,Low,glipizide,procaine benzylpenicillin
+adult,Female,7,0,0,0,0,None,Low,bupropion,venlafaxine
+adult,Female,3,0,0,0,0,None,Low,bupropion,tenofovir disoproxil
+adult,Male,3,0,0,1,0,None,Low,ciprofloxacin,sunitinib
+adult,Male,7,0,0,1,0,None,Low,ciprofloxacin,triamterene
+adult,Male,5,0,0,1,0,None,Low,ciprofloxacin,lansoprazole
+elderly,Male,5,1,0,0,1,None,Low,glipizide,alprenolol
+elderly,Male,7,1,0,0,1,None,Low,glipizide,arsenic trioxide
+elderly,Male,5,1,0,0,1,None,Low,glipizide,niflumic acid
+elderly,Male,2,1,0,0,1,None,Low,glipizide,lorazepam
+elderly,Male,6,1,0,0,1,None,Low,glipizide,ibuprofen
+adult,Female,4,0,0,1,0,None,Low,paracetamol,etoposide
+adult,Female,7,0,0,1,0,None,Low,paracetamol,bacampicillin
+adult,Female,5,0,0,1,0,None,Low,paracetamol,oxymorphone
+adult,Female,7,0,0,1,0,None,Low,paracetamol,primaquine
+adult,Female,3,0,1,0,0,None,Low,escitalopram,doxapram
+adult,Female,4,0,1,0,0,None,Low,escitalopram,ibutilide
+adult,Female,7,0,1,0,0,None,Low,escitalopram,ajmaline
+adult,Female,2,0,1,0,0,None,Low,escitalopram,simvastatin
+elderly,Male,7,0,0,0,1,None,Low,metformin,vincristine
+elderly,Male,6,0,0,0,1,None,Low,metformin,indinavir
+elderly,Male,5,0,0,0,1,None,Low,metformin,terazosin
+adult,Male,4,0,1,0,1,None,Low,bupropion,spiramycin
+adult,Male,6,0,1,0,1,None,Low,bupropion,midodrine
+adult,Male,3,0,1,0,1,None,Low,bupropion,sonidegib
+adult,Male,6,0,1,0,1,None,Low,bupropion,halazepam
+adult,Male,2,0,1,0,1,None,Low,bupropion,icatibant
+adult,Male,6,0,0,0,1,None,Low,glipizide,cloxacillin
+adult,Male,7,0,0,0,1,None,Low,glipizide,yohimbine
+adult,Male,7,0,0,1,0,None,Low,amlodipine,vemurafenib
+adult,Male,6,0,0,1,0,None,Low,amlodipine,calcium acetate
+adult,Female,5,0,0,0,0,None,Low,bupropion,tazobactam
+adult,Female,5,0,0,0,0,None,Low,bupropion,mycophenolate mofetil
+adult,Female,5,0,0,0,0,None,Low,bupropion,nabilone
+adult,Male,2,0,0,0,1,None,Low,ibuprofen,anidulafungin
+adult,Male,4,0,0,0,1,None,Low,ibuprofen,diazepam
+adult,Male,4,0,0,0,1,None,Low,ibuprofen,edoxaban
+elderly,Male,3,0,0,1,0,None,Low,tramadol,pamidronic acid
+elderly,Male,4,0,0,1,0,None,Low,tramadol,atenolol
+elderly,Male,5,0,0,1,0,None,Low,tramadol,baricitinib
+elderly,Male,2,0,0,1,0,None,Low,tramadol,amikacin
+adult,Male,4,0,0,0,0,None,Low,azithromycin,deflazacort
+adult,Male,3,0,0,0,0,None,Low,azithromycin,atropine
+adult,Male,7,0,0,0,0,None,Low,azithromycin,flibanserin
+adult,Male,6,0,0,0,0,None,Low,azithromycin,enoxacin
+adult,Male,4,0,0,0,1,None,Low,glipizide,chloral hydrate
+adult,Male,5,0,0,0,1,None,Low,glipizide,eletriptan
+adult,Female,4,0,0,0,0,None,Low,sertraline,profenamine
+adult,Female,6,0,0,0,0,None,Low,sertraline,mannitol
+adult,Female,3,0,0,0,0,None,Low,sertraline,elbasvir
+adult,Female,6,0,0,0,0,None,Low,sertraline,dextropropoxyphene
+adult,Female,4,0,0,0,0,None,Low,sertraline,methscopolamine bromide
+adult,Male,7,0,0,0,0,None,Low,azithromycin,aclidinium
+adult,Male,4,0,0,0,0,None,Low,azithromycin,temsirolimus
+adult,Female,5,0,0,1,0,None,Low,bupropion,ergometrine
+adult,Female,2,0,0,1,0,None,Low,bupropion,butorphanol
+adult,Female,3,0,0,1,0,None,Low,bupropion,buprenorphine
+adult,Female,3,0,0,1,0,None,Low,bupropion,methotrimeprazine
+elderly,Female,4,0,0,0,1,None,Low,insulin glargine,anidulafungin
+elderly,Female,2,0,0,0,1,None,Low,insulin glargine,sertaconazole
+elderly,Female,3,0,0,0,1,None,Low,insulin glargine,halcinonide
+adult,Female,5,0,0,0,0,None,Low,paracetamol,epinephrine
+adult,Female,4,0,0,0,0,None,Low,paracetamol,phenelzine
+adult,Female,2,0,0,0,0,None,Low,paracetamol,ivacaftor
+adult,Male,5,0,1,1,0,None,Low,losartan,desogestrel
+adult,Male,6,0,1,1,0,None,Low,losartan,valbenazine
+adult,Male,3,0,0,1,0,None,Low,tramadol,dosulepin
+adult,Male,5,0,0,1,0,None,Low,tramadol,prilocaine
+adult,Male,7,0,0,1,0,None,Low,tramadol,diltiazem
+adult,Male,4,0,0,1,0,None,Low,tramadol,ethchlorvynol
+adult,Male,4,0,0,0,1,None,Low,ciprofloxacin,dabrafenib
+adult,Male,4,0,0,0,1,None,Low,ciprofloxacin,arbekacin
+adult,Male,7,0,0,0,1,None,Low,ciprofloxacin,ouabain
+adult,Male,2,0,0,1,0,None,Low,metoprolol,clonixin
+adult,Male,3,0,0,1,0,None,Low,metoprolol,clotiazepam
+adult,Male,2,0,0,1,0,None,Low,metoprolol,oxetacaine
+adult,Male,7,0,0,0,0,None,Low,ciprofloxacin,ranitidine
+adult,Male,7,0,0,0,0,None,Low,ciprofloxacin,oxybutynin
+adult,Male,3,0,0,0,0,None,Low,ciprofloxacin,echothiophate
+elderly,Male,6,0,1,0,1,None,Low,glipizide,hyoscyamine
+elderly,Male,4,0,1,0,1,None,Low,glipizide,alprenolol
+elderly,Male,4,0,1,0,1,None,Low,glipizide,griseofulvin
+elderly,Male,3,0,1,0,1,None,Low,glipizide,droxicam
+adult,Male,3,0,0,1,0,None,Low,metoprolol,amiodarone
+adult,Male,5,0,0,1,0,None,Low,metoprolol,levothyroxine
+adult,Male,3,0,0,1,0,None,Low,metoprolol,warfarin
+adult,Male,6,0,0,0,0,None,Low,ciprofloxacin,fluspirilene
+adult,Male,7,0,0,0,0,None,Low,ciprofloxacin,delavirdine
+adult,Male,4,0,0,0,0,None,Low,ciprofloxacin,secobarbital
+adult,Male,6,0,0,0,0,None,Low,ciprofloxacin,guanethidine
+adult,Male,5,0,0,0,0,None,Low,ciprofloxacin,podofilox
+adult,Female,3,0,0,0,1,None,Low,insulin glargine,rimexolone
+adult,Female,6,0,0,0,1,None,Low,insulin glargine,latanoprost
+elderly,Female,5,0,0,0,1,None,Low,paracetamol,tetracycline
+elderly,Female,6,0,0,0,1,None,Low,paracetamol,moricizine
+adult,Male,7,0,0,0,1,None,Low,glipizide,ditazole
+adult,Male,6,0,0,0,1,None,Low,glipizide,agomelatine
+elderly,Female,2,0,0,0,0,None,Low,sertraline,loperamide
+elderly,Female,6,0,0,0,0,None,Low,sertraline,megestrol acetate
+elderly,Female,2,0,0,0,0,None,Low,sertraline,estrone sulfate
+elderly,Female,2,0,0,0,0,None,Low,sertraline,brivaracetam
+elderly,Female,6,0,0,0,0,None,Low,sertraline,bumetanide
+adult,Female,7,0,0,0,1,None,Low,glipizide,piroxicam
+adult,Female,7,0,0,0,1,None,Low,glipizide,tetryzoline
+adult,Female,7,0,0,0,1,Pharmacokinetic,Medium,glipizide,fluconazole
+adult,Female,2,0,0,0,1,None,Low,glipizide,captopril
+adult,Female,2,0,0,0,1,None,Low,glipizide,flunisolide
+adult,Female,7,0,0,1,1,None,Low,glipizide,suvorexant
+adult,Female,3,0,0,1,1,None,Low,glipizide,cilostazol
+adult,Female,2,0,0,1,1,None,Low,glipizide,oxybuprocaine
+elderly,Male,5,0,0,0,1,None,Low,bupropion,tubocurarine
+elderly,Male,6,0,0,0,1,None,Low,bupropion,aceprometazine
+elderly,Male,6,0,0,0,1,None,Low,bupropion,thiopental
+elderly,Male,3,0,0,0,1,None,Low,bupropion,amifostine
+adult,Female,4,0,0,1,0,None,Low,ciprofloxacin,bismuth subcitrate potassium
+adult,Female,4,0,0,1,0,None,Low,ciprofloxacin,epoprostenol
+adult,Female,5,0,0,1,0,None,Low,ciprofloxacin,tetrabenazine
+adult,Female,7,0,0,1,0,None,Low,ciprofloxacin,azidocillin
+adult,Female,3,0,0,1,0,None,Low,ciprofloxacin,captopril
+elderly,Male,6,0,0,0,0,None,Low,amoxicillin,clidinium
+elderly,Male,6,0,0,0,0,None,Low,amoxicillin,methohexital
+elderly,Male,2,0,0,0,0,None,Low,amoxicillin,quinine
+adult,Male,7,0,0,0,1,None,Low,insulin glargine,lumefantrine
+adult,Male,5,0,0,0,1,None,Low,insulin glargine,dofetilide
+adult,Male,6,0,0,0,1,None,Low,insulin glargine,mexiletine
+adult,Male,2,0,0,0,1,None,Low,insulin glargine,glucosamine
+adult,Female,3,0,0,0,0,None,Low,escitalopram,tolcapone
+adult,Female,4,0,0,0,0,None,Low,escitalopram,benzoic acid
+elderly,Female,4,0,0,1,0,None,Low,sertraline,procaine
+elderly,Female,2,0,0,1,0,None,Low,sertraline,verteporfin
+elderly,Female,2,0,0,1,0,Pharmacodynamic,Medium,sertraline,ibutilide
+elderly,Female,4,0,0,1,0,None,Low,sertraline,doxylamine
+elderly,Female,3,0,0,1,0,None,Low,sertraline,procyclidine
+adult,Male,5,0,0,0,0,None,Low,tramadol,nizatidine
+adult,Male,4,0,0,0,0,None,Low,tramadol,benazepril
+adult,Male,2,0,0,0,0,None,Low,tramadol,nisoldipine
+adult,Male,2,0,0,0,0,None,Low,tramadol,cyclacillin
+adult,Male,6,0,0,0,0,None,Low,tramadol,chlorpropamide
+adult,Female,3,0,0,0,0,None,Low,amoxicillin,clonixin
+adult,Female,4,0,0,0,0,None,Low,amoxicillin,methyltestosterone
+adult,Female,2,0,0,0,0,None,Low,amoxicillin,diclofenac
+adult,Female,3,0,0,0,0,None,Low,amoxicillin,pargyline
+adult,Female,2,0,0,0,0,None,Low,amoxicillin,diflorasone
+elderly,Male,6,0,0,1,1,None,Low,amlodipine,brinzolamide
+elderly,Male,3,0,0,1,1,None,Low,amlodipine,ketazolam
+elderly,Male,6,0,0,0,0,None,Low,amoxicillin,ammonium chloride
+elderly,Male,5,0,0,0,0,None,Low,amoxicillin,pentamidine
+elderly,Male,5,0,0,0,0,None,Low,amoxicillin,brivaracetam
+elderly,Male,7,0,0,0,0,None,Low,amoxicillin,sibutramine
+adult,Female,3,0,0,0,0,None,Low,azithromycin,minocycline
+adult,Female,3,0,0,0,0,None,Low,azithromycin,pentosan polysulfate
+elderly,Female,5,0,0,0,0,None,Low,tramadol,tamsulosin
+elderly,Female,3,0,0,0,0,None,Low,tramadol,aminophenazone
+elderly,Female,6,0,0,0,0,None,Low,tramadol,dexbrompheniramine
+elderly,Female,2,0,0,0,0,None,Low,tramadol,butobarbital
+elderly,Female,6,0,0,0,0,None,Low,tramadol,pancuronium
+elderly,Female,2,1,0,1,0,None,Low,amlodipine,naloxegol
+elderly,Female,4,1,0,1,0,None,Low,amlodipine,aluminium
+adult,Male,7,1,0,1,0,None,Low,paracetamol,dipyridamole
+adult,Male,7,1,0,1,0,None,Low,paracetamol,ubidecarenone
+elderly,Female,7,0,0,1,0,None,Low,amlodipine,glipizide
+elderly,Female,4,0,0,1,0,None,Low,amlodipine,trichloroethylene
+elderly,Female,7,0,0,1,0,None,Low,amlodipine,venetoclax
+elderly,Female,6,0,0,1,0,None,Low,amlodipine,benzatropine
+elderly,Female,7,0,0,1,0,None,Low,amlodipine,clodronic acid
+elderly,Female,4,0,0,1,1,None,Low,glipizide,oxacillin
+elderly,Female,3,0,0,1,1,None,Low,glipizide,deferasirox
+elderly,Female,5,0,0,1,1,None,Low,glipizide,nateglinide
+elderly,Female,5,1,0,1,1,None,Low,metoprolol,sonidegib
+elderly,Female,4,1,0,1,1,None,Low,metoprolol,pivampicillin
+elderly,Female,5,1,0,1,1,None,Low,metoprolol,afatinib
+adult,Male,4,0,0,0,0,None,Low,ibuprofen,aclidinium
+adult,Male,2,0,0,0,0,None,Low,ibuprofen,practolol
+adult,Male,6,1,0,1,0,None,Low,azithromycin,tadalafil
+adult,Male,6,1,0,1,0,None,Low,azithromycin,melperone
+adult,Male,3,1,0,1,0,None,Low,azithromycin,lopinavir
+elderly,Female,6,0,0,1,0,None,Low,metoprolol,suvorexant
+elderly,Female,4,0,0,1,0,None,Low,metoprolol,dicoumarol
+elderly,Female,6,0,0,1,0,None,Low,metoprolol,betahistine
+adult,Male,3,0,0,1,0,None,Low,losartan,adinazolam
+adult,Male,2,0,0,1,0,None,Low,losartan,midostaurin
+adult,Male,5,0,0,1,0,None,Low,losartan,pentolinium
+adult,Male,5,0,0,1,0,None,Low,losartan,cisapride
+adult,Male,7,0,0,0,0,None,Low,bupropion,abemaciclib
+adult,Male,3,0,0,0,0,None,Low,bupropion,carteolol
+adult,Male,3,0,0,0,0,None,Low,bupropion,cobimetinib
+adult,Female,2,0,0,0,0,None,Low,ciprofloxacin,amisulpride
+adult,Female,4,0,0,0,0,None,Low,ciprofloxacin,fenoprofen
+adult,Female,6,0,0,0,0,None,Low,ciprofloxacin,cevimeline
+adult,Female,7,0,0,0,0,None,Low,ciprofloxacin,fluconazole
+adult,Male,2,0,0,0,1,None,Low,insulin glargine,nitrendipine
+adult,Male,5,0,0,0,1,None,Low,insulin glargine,phentermine
+adult,Male,7,0,0,0,1,None,Low,insulin glargine,ropivacaine
+adult,Male,4,0,0,0,1,None,Low,insulin glargine,paroxetine
+adult,Male,3,0,0,0,1,None,Low,insulin glargine,doxercalciferol
+adult,Male,5,1,0,0,0,None,Low,tramadol,valsartan
+adult,Male,6,1,0,0,0,None,Low,tramadol,levothyroxine
+adult,Male,6,1,0,0,0,None,Low,tramadol,netilmicin
+adult,Female,3,0,0,0,1,None,Low,glipizide,ethynodiol diacetate
+adult,Female,3,0,0,0,1,None,Low,glipizide,cobicistat
+adult,Female,2,0,0,0,1,None,Low,glipizide,sotalol
+adult,Male,3,1,0,0,1,None,Low,amoxicillin,natamycin
+adult,Male,7,1,0,0,1,None,Low,amoxicillin,bumetanide
+adult,Male,2,1,0,0,1,None,Low,amoxicillin,timolol
+adult,Male,4,1,0,0,1,None,Low,amoxicillin,pyrazinamide
+elderly,Female,7,0,0,1,0,None,Low,amlodipine,remikiren
+elderly,Female,2,0,0,1,0,None,Low,amlodipine,articaine
+elderly,Female,3,0,0,1,0,None,Low,amlodipine,meclizine
+elderly,Female,7,0,0,1,0,None,Low,amlodipine,choline magnesium trisalicylate
+elderly,Female,3,0,0,1,0,None,Low,amlodipine,bisoprolol
+adult,Male,2,0,0,1,0,Pharmacodynamic,High,amlodipine,fosinopril
+adult,Male,3,0,0,1,0,None,Low,amlodipine,efinaconazole
+adult,Male,2,0,0,1,0,None,Low,amlodipine,methazolamide
+adult,Male,2,0,0,1,0,None,Low,amlodipine,arotinolol
+elderly,Male,6,0,0,1,0,None,Low,ciprofloxacin,dicyclomine
+elderly,Male,6,0,0,1,0,None,Low,ciprofloxacin,estrone
+elderly,Male,2,0,0,1,0,None,Low,ciprofloxacin,fenofibrate
+elderly,Male,6,0,0,1,0,None,Low,ciprofloxacin,lorazepam
+elderly,Male,7,0,0,1,0,None,Low,ciprofloxacin,afatinib
+elderly,Female,3,0,0,1,0,None,Low,metoprolol,exemestane
+elderly,Female,6,0,0,1,0,None,Low,metoprolol,metyrosine
+elderly,Female,7,0,0,1,0,None,Low,metoprolol,tianeptine
+elderly,Female,6,0,0,1,0,None,Low,metoprolol,etidocaine
+adult,Female,7,0,0,1,0,None,Low,amlodipine,glipizide
+adult,Female,7,0,0,1,0,None,Low,amlodipine,balsalazide
+adult,Female,3,0,0,1,0,None,Low,amlodipine,suprofen
+adult,Female,5,0,0,1,0,None,Low,amlodipine,enzalutamide
+adult,Male,7,0,0,1,0,None,Low,amlodipine,chlorzoxazone
+adult,Male,3,0,0,1,0,None,Low,amlodipine,norgestimate
+adult,Male,3,0,0,0,0,None,Low,paracetamol,empagliflozin
+adult,Male,4,0,0,0,0,None,Low,paracetamol,dyphylline
+adult,Male,2,0,0,0,0,None,Low,paracetamol,zaltoprofen
+adult,Male,6,0,0,0,0,None,Low,escitalopram,aminosalicylic acid
+adult,Male,2,0,0,0,0,None,Low,escitalopram,argatroban
+adult,Male,6,0,0,0,0,None,Low,escitalopram,brivaracetam
+adult,Male,7,0,0,0,0,None,Low,escitalopram,ritodrine
+adult,Male,3,0,0,0,0,None,Low,escitalopram,gliquidone
+adult,Female,7,0,1,0,1,None,Low,metformin,paraldehyde
+adult,Female,6,0,1,0,1,None,Low,metformin,flurazepam
+adult,Female,6,0,1,0,1,None,Low,metformin,prazosin
+adult,Female,4,0,1,0,1,None,Low,metformin,dorzolamide
+adult,Female,7,0,1,0,1,None,Low,metformin,isoprenaline
+adult,Male,4,0,0,0,0,None,Low,ciprofloxacin,vandetanib
+adult,Male,6,0,0,0,0,None,Low,ciprofloxacin,butenafine
+adult,Male,2,0,0,0,0,None,Low,ciprofloxacin,isosorbide mononitrate
+adult,Male,2,0,0,0,0,None,Low,ciprofloxacin,galantamine
+adult,Male,5,0,0,0,0,None,Low,ciprofloxacin,calcium citrate
+elderly,Male,6,0,0,0,1,None,Low,ciprofloxacin,oxcarbazepine
+elderly,Male,4,0,0,0,1,None,Low,ciprofloxacin,quinethazone
+elderly,Male,7,0,0,0,1,None,Low,ciprofloxacin,docetaxel
+adult,Female,6,0,0,1,0,None,Low,amoxicillin,tapentadol
+adult,Female,4,0,0,1,0,None,Low,amoxicillin,vorapaxar
+adult,Female,5,0,0,1,0,None,Low,amoxicillin,asenapine
+adult,Female,6,0,0,1,0,None,Low,amoxicillin,isoflurane
+adult,Female,2,0,0,1,0,None,Low,amoxicillin,dacarbazine
+adult,Female,4,0,0,0,0,None,Low,bupropion,dexfenfluramine
+adult,Female,2,0,0,0,0,None,Low,bupropion,pazopanib
+adult,Female,6,0,0,0,0,None,Low,bupropion,sulfamethoxazole
+adult,Female,2,0,0,0,0,None,Low,bupropion,triflupromazine
+elderly,Female,2,0,0,0,1,None,Low,paracetamol,mifepristone
+elderly,Female,4,0,0,0,1,None,Low,paracetamol,apixaban
+elderly,Female,7,0,0,0,1,None,Low,paracetamol,remikiren
+elderly,Female,4,0,0,0,1,None,Low,paracetamol,lansoprazole
+elderly,Female,6,0,0,0,1,None,Low,paracetamol,ritodrine
+adult,Female,6,0,0,1,0,None,Low,bupropion,rifabutin
+adult,Female,3,0,0,1,0,None,Low,bupropion,losartan
+adult,Female,6,1,0,0,0,None,Low,azithromycin,cangrelor
+adult,Female,5,1,0,0,0,None,Low,azithromycin,pimecrolimus
+adult,Female,7,1,0,0,0,None,Low,azithromycin,pyridostigmine
+adult,Female,7,0,0,0,1,None,Low,metformin,risperidone
+adult,Female,5,0,0,0,1,None,Low,metformin,citric acid
+adult,Female,4,0,0,0,1,None,Low,metformin,bumetanide
+adult,Female,4,0,0,0,1,None,Low,metformin,oxybuprocaine
+adult,Female,2,0,0,0,1,None,Low,metformin,diethylpropion
+adult,Female,2,0,0,1,0,None,Low,losartan,dimenhydrinate
+adult,Female,6,0,0,1,0,None,Low,losartan,clocortolone
+adult,Male,4,0,0,0,0,None,Low,tramadol,tacrolimus
+adult,Male,5,0,0,0,0,Pharmacodynamic,High,tramadol,asenapine
+adult,Male,2,0,0,0,0,None,Low,tramadol,protriptyline
+adult,Male,2,0,0,0,0,None,Low,tramadol,paroxetine
+adult,Male,2,0,0,0,0,None,Low,tramadol,velpatasvir
+adult,Female,4,0,0,1,0,None,Low,tramadol,aliskiren
+adult,Female,4,0,0,1,0,None,Low,tramadol,enalapril
+elderly,Female,6,0,0,1,0,None,Low,bupropion,agomelatine
+elderly,Female,2,0,0,1,0,None,Low,bupropion,trimethoprim
+elderly,Female,3,0,0,1,0,None,Low,bupropion,rotigotine
+adult,Female,7,0,0,0,0,None,Low,tramadol,letrozole
+adult,Female,2,0,0,0,0,None,Low,tramadol,topiramate
+adult,Female,7,0,0,0,0,None,Low,tramadol,ciclesonide
+adult,Female,2,0,0,0,0,None,Low,tramadol,fulvestrant
+adult,Female,4,0,0,0,0,None,Low,ciprofloxacin,bisoprolol
+adult,Female,6,0,0,0,0,None,Low,ciprofloxacin,fenoldopam
+elderly,Female,2,0,0,1,0,None,Low,sertraline,prazosin
+elderly,Female,7,0,0,1,0,None,Low,sertraline,lumiracoxib
+elderly,Female,7,0,0,1,0,None,Low,sertraline,esmolol
+elderly,Female,5,0,0,1,0,None,Low,sertraline,duloxetine
+elderly,Female,4,0,0,1,0,None,Low,sertraline,dimenhydrinate
+adult,Female,5,1,0,0,0,None,Low,ciprofloxacin,quinethazone
+adult,Female,2,1,0,0,0,None,Low,ciprofloxacin,nafcillin
+adult,Female,3,1,0,0,0,None,Low,ciprofloxacin,alfuzosin
+elderly,Male,2,1,0,0,1,None,Low,insulin glargine,vardenafil
+elderly,Male,5,1,0,0,1,None,Low,insulin glargine,desogestrel
+elderly,Male,2,1,0,0,1,None,Low,insulin glargine,epirubicin
+elderly,Male,2,1,0,0,1,None,Low,insulin glargine,mycophenolic acid
+adult,Female,7,0,0,0,0,None,Low,sertraline,artesunate
+adult,Female,2,0,0,0,0,None,Low,sertraline,lofexidine
+adult,Female,2,0,0,0,0,None,Low,sertraline,midostaurin
+adult,Female,4,0,0,0,0,None,Low,sertraline,tofacitinib
+adult,Female,2,0,0,0,1,None,Low,insulin glargine,apomorphine
+adult,Female,6,0,0,0,1,None,Low,insulin glargine,pergolide
+adult,Female,5,0,0,0,1,None,Low,insulin glargine,nitrazepam
+elderly,Female,5,0,0,1,0,Pharmacodynamic,High,amlodipine,nadolol
+elderly,Female,5,0,0,1,0,None,Low,amlodipine,valproic acid
+elderly,Female,7,0,0,1,0,None,Low,amlodipine,lesinurad
+elderly,Female,3,0,0,1,0,None,Low,amlodipine,tolmetin
+adult,Male,5,0,0,1,1,None,Low,metformin,omeprazole
+adult,Male,6,0,0,1,1,None,Low,metformin,doxazosin
+adult,Male,2,0,0,1,1,None,Low,metformin,mepivacaine
+adult,Male,2,0,0,1,1,None,Low,metformin,isradipine
+adult,Female,7,0,0,1,1,None,Low,amlodipine,ergometrine
+adult,Female,4,0,0,1,1,None,Low,amlodipine,clocortolone
+adult,Female,4,0,0,1,1,None,Low,amlodipine,piperazine
+adult,Female,2,0,0,1,1,None,Low,amlodipine,fluspirilene
+adult,Female,2,0,0,1,1,None,Low,amlodipine,equilin
+adult,Male,7,0,0,1,0,None,Low,losartan,ketamine
+adult,Male,4,0,0,1,0,None,Low,losartan,mexiletine
+adult,Male,4,0,0,0,1,None,Low,glipizide,hydrocortisone
+adult,Male,4,0,0,0,1,None,Low,glipizide,domperidone
+adult,Male,4,0,0,0,1,None,Low,glipizide,rolapitant
+adult,Female,2,0,0,0,1,None,Low,bupropion,acepromazine
+adult,Female,7,0,0,0,1,None,Low,bupropion,levorphanol
+adult,Female,3,0,0,0,1,None,Low,bupropion,fluprednidene
+adult,Male,2,0,1,1,0,None,Low,amoxicillin,halazepam
+adult,Male,5,0,1,1,0,None,Low,amoxicillin,udenafil
+adult,Male,5,0,1,1,0,None,Low,amoxicillin,tolperisone
+adult,Male,6,0,1,1,0,None,Low,amoxicillin,pyridostigmine
+adult,Male,6,0,1,1,0,None,Low,amoxicillin,methylprednisolone
+elderly,Male,7,0,0,1,0,None,Low,amoxicillin,lidocaine
+elderly,Male,6,0,0,1,0,None,Low,amoxicillin,desloratadine
+adult,Female,5,0,0,1,0,None,Low,amlodipine,progesterone
+adult,Female,7,0,0,1,0,None,Low,amlodipine,carisoprodol
+adult,Female,2,0,0,1,0,None,Low,amlodipine,aprepitant
+adult,Female,7,0,0,1,0,None,Low,amlodipine,benidipine
+adult,Female,2,0,0,1,1,None,Low,losartan,rosuvastatin
+adult,Female,5,0,0,1,1,None,Low,losartan,ciprofloxacin
+adult,Female,2,0,0,1,1,None,Low,losartan,dasatinib
+adult,Female,6,0,0,1,1,None,Low,losartan,netupitant
+adult,Female,2,0,0,0,1,None,Low,sertraline,hesperetin
+adult,Female,5,0,0,0,1,None,Low,sertraline,bromocriptine
+elderly,Male,4,0,0,0,0,None,Low,tramadol,irbesartan
+elderly,Male,4,0,0,0,0,None,Low,tramadol,tretinoin
+adult,Female,2,0,0,0,1,None,Low,insulin glargine,doxercalciferol
+adult,Female,3,0,0,0,1,None,Low,insulin glargine,methscopolamine
+adult,Female,2,0,0,0,1,None,Low,insulin glargine,melperone
+adult,Female,3,0,0,0,1,None,Low,insulin glargine,etonogestrel
+adult,Female,4,0,0,0,1,None,Low,insulin glargine,promazine
+adult,Female,4,0,0,1,0,None,Low,losartan,tioguanine
+adult,Female,2,0,0,1,0,None,Low,losartan,brinzolamide
+adult,Female,4,0,0,1,0,None,Low,losartan,valbenazine
+adult,Male,2,0,0,0,0,None,Low,amoxicillin,hydralazine
+adult,Male,2,0,0,0,0,None,Low,amoxicillin,paricalcitol
+adult,Male,4,0,0,0,0,None,Low,amoxicillin,antipyrine
+adult,Female,5,0,0,1,1,None,Low,bupropion,flurazepam
+adult,Female,3,0,0,1,1,Pharmacokinetic,Low,bupropion,erlotinib
+adult,Female,3,0,0,1,1,None,Low,bupropion,lenvatinib
+adult,Female,2,0,0,1,1,None,Low,bupropion,primidone
+elderly,Male,2,0,0,0,1,None,Low,insulin glargine,nitrous oxide
+elderly,Male,5,0,0,0,1,None,Low,insulin glargine,nafamostat
+elderly,Male,4,0,0,0,1,None,Low,insulin glargine,colchicine
+elderly,Male,7,0,0,0,1,None,Low,insulin glargine,guanabenz
+elderly,Male,4,0,0,0,0,None,Low,bupropion,etomidate
+elderly,Male,4,0,0,0,0,None,Low,bupropion,benzatropine
+elderly,Female,6,0,0,0,1,None,Low,glipizide,domperidone
+elderly,Female,7,0,0,0,1,Pharmacokinetic,Low,glipizide,crizotinib
+elderly,Female,7,0,0,0,1,None,Low,glipizide,olsalazine
+elderly,Female,5,0,0,0,1,None,Low,glipizide,indinavir
+elderly,Female,7,0,0,0,1,None,Low,glipizide,bromazepam
+adult,Female,3,0,0,0,1,None,Low,metformin,isoflurane
+adult,Female,5,0,0,0,1,None,Low,metformin,oxazepam
+adult,Female,6,0,0,0,1,None,Low,metformin,nystatin
+adult,Female,7,0,0,0,1,None,Low,metformin,moxonidine
+adult,Male,3,0,0,1,0,None,Low,amlodipine,lofexidine
+adult,Male,4,0,0,1,0,None,Low,amlodipine,acenocoumarol
+adult,Male,4,0,0,1,0,None,Low,amlodipine,isoflurophate
+adult,Male,6,0,0,0,0,None,Low,escitalopram,ramipril
+adult,Male,7,0,0,0,0,None,Low,escitalopram,dexmedetomidine
+adult,Male,2,0,0,0,0,None,Low,escitalopram,debrisoquine
+adult,Male,6,0,0,0,0,None,Low,escitalopram,tranilast
+adult,Male,5,0,0,0,0,None,Low,escitalopram,ethosuximide
+adult,Male,4,0,0,0,0,None,Low,escitalopram,vinorelbine
+adult,Female,7,0,0,1,1,None,Low,azithromycin,levodopa
+adult,Female,7,0,0,1,1,None,Low,azithromycin,doxapram
+adult,Female,5,0,0,1,1,None,Low,azithromycin,mesoridazine
+adult,Female,4,0,0,1,1,None,Low,azithromycin,pramocaine
+adult,Female,2,0,0,1,1,None,Low,azithromycin,galantamine
+elderly,Male,7,0,0,1,0,None,Low,amlodipine,liotrix
+elderly,Male,7,0,0,1,0,None,Low,amlodipine,calcium lactate
+elderly,Male,2,0,0,1,0,None,Low,amlodipine,dapiprazole
+elderly,Male,4,0,0,1,0,Pharmacokinetic,Low,amlodipine,nilotinib
+adult,Female,7,0,0,1,0,None,Low,tramadol,dacarbazine
+adult,Female,6,0,0,1,0,None,Low,tramadol,cloxacillin
+adult,Female,6,0,0,1,0,None,Low,tramadol,zuclopenthixol
+adult,Male,2,0,0,0,1,None,Low,azithromycin,sulfamoxole
+adult,Male,6,0,0,0,1,None,Low,azithromycin,eluxadoline
+adult,Male,2,0,0,0,1,None,Low,azithromycin,guanabenz
+elderly,Female,6,0,0,0,1,None,Low,insulin glargine,ziprasidone
+elderly,Female,2,0,0,0,1,None,Low,insulin glargine,pindolol
+elderly,Female,7,0,0,0,1,None,Low,insulin glargine,procaterol
+elderly,Female,5,0,0,0,1,None,Low,insulin glargine,moclobemide
+elderly,Female,6,0,0,0,1,None,Low,insulin glargine,aminophylline
+elderly,Female,7,1,0,0,0,None,Low,sertraline,ifosfamide
+elderly,Female,3,1,0,0,0,None,Low,sertraline,pirbuterol
+elderly,Female,5,0,0,1,0,None,Low,losartan,sertindole
+elderly,Female,5,0,0,1,0,None,Low,losartan,clobetasol propionate
+elderly,Female,6,0,0,1,0,None,Low,losartan,temsirolimus
+adult,Female,3,0,0,0,0,None,Low,escitalopram,sulconazole
+adult,Female,6,0,0,0,0,None,Low,escitalopram,phenoxybenzamine
+adult,Female,6,0,0,0,0,None,Low,escitalopram,miconazole
+adult,Female,5,0,0,0,0,None,Low,escitalopram,propoxycaine
+adult,Female,7,0,0,0,0,None,Low,escitalopram,baricitinib
+adult,Female,7,0,0,0,0,None,Low,tramadol,insulin glargine
+adult,Female,2,0,0,0,0,None,Low,tramadol,quinethazone
+adult,Female,3,0,0,0,0,None,Low,tramadol,latanoprost
+adult,Female,6,0,0,0,0,None,Low,amoxicillin,rimexolone
+adult,Female,3,0,0,0,0,None,Low,amoxicillin,treprostinil
+adult,Female,5,0,0,0,0,None,Low,amoxicillin,cloxacillin
+adult,Female,3,0,0,1,0,None,Low,metoprolol,bismuth subcitrate potassium
+adult,Female,4,0,0,1,0,None,Low,metoprolol,butoconazole
+adult,Female,4,0,0,1,0,None,Low,metoprolol,chenodeoxycholic acid
+adult,Female,6,0,0,1,0,None,Low,metoprolol,amsacrine
+adult,Female,3,0,0,1,0,None,Low,metoprolol,methylprednisolone
+adult,Female,6,0,0,0,0,None,Low,sertraline,gemfibrozil
+adult,Female,2,0,0,0,0,None,Low,sertraline,acitretin
+adult,Female,7,0,0,0,0,None,Low,sertraline,lisinopril
+adult,Female,5,0,0,0,0,Pharmacokinetic,Low,sertraline,rabeprazole
+adult,Female,5,0,0,0,0,None,Low,sertraline,amphotericin b
+adult,Male,2,0,0,1,0,None,Low,metoprolol,periciazine
+adult,Male,2,0,0,1,0,None,Low,metoprolol,ethinylestradiol
+adult,Male,2,0,0,1,0,None,Low,metoprolol,tetryzoline
+adult,Male,5,0,0,1,0,None,Low,metoprolol,methylprednisolone
+adult,Female,6,0,0,0,1,None,Low,glipizide,amoxapine
+adult,Female,4,0,0,0,1,None,Low,glipizide,fingolimod
+adult,Female,4,0,0,0,1,None,Low,glipizide,vortioxetine
+adult,Female,4,0,0,0,1,None,Low,glipizide,encainide
+adult,Female,3,0,0,0,0,None,Low,tramadol,minaprine
+adult,Female,2,0,0,0,0,None,Low,tramadol,clobazam
+adult,Female,7,0,0,0,0,None,Low,tramadol,bepridil
+adult,Female,6,0,0,0,0,None,Low,tramadol,famciclovir
+adult,Male,6,0,0,0,1,None,Low,insulin glargine,meperidine
+adult,Male,4,0,0,0,1,None,Low,insulin glargine,levothyroxine
+adult,Male,2,0,0,1,0,None,Low,amlodipine,ipratropium
+adult,Male,7,0,0,1,0,None,Low,amlodipine,medroxyprogesterone acetate
+adult,Male,3,0,0,1,0,None,Low,amlodipine,azidocillin
+adult,Male,5,0,0,1,0,None,Low,amlodipine,dexketoprofen
+adult,Female,7,0,0,1,0,None,Low,amlodipine,ondansetron
+adult,Female,4,0,0,1,0,None,Low,amlodipine,carisoprodol
+adult,Female,3,0,0,1,0,None,Low,amlodipine,miltefosine
+adult,Female,3,0,0,1,0,None,Low,amlodipine,saquinavir
+adult,Female,3,1,0,0,1,None,Low,azithromycin,perhexiline
+adult,Female,2,1,0,0,1,None,Low,azithromycin,canagliflozin
+adult,Female,4,1,0,0,1,None,Low,azithromycin,doxepin
+adult,Female,4,1,0,0,1,None,Low,azithromycin,thiotepa
+adult,Male,7,0,0,0,0,None,Low,sertraline,orphenadrine
+adult,Male,2,0,0,0,0,None,Low,sertraline,guanabenz
+adult,Male,5,0,0,0,0,None,Low,sertraline,ximelagatran
+adult,Male,5,0,0,0,0,None,Low,sertraline,phenylpropanolamine
+adult,Female,3,0,0,0,0,None,Low,escitalopram,triamcinolone
+adult,Female,5,0,0,0,0,None,Low,escitalopram,lansoprazole
+adult,Female,7,0,0,0,0,None,Low,escitalopram,formoterol
+adult,Female,7,0,0,0,0,None,Low,escitalopram,cilnidipine
+elderly,Female,3,0,0,0,1,None,Low,insulin glargine,eszopiclone
+elderly,Female,4,0,0,0,1,None,Low,insulin glargine,zileuton
+elderly,Female,7,0,0,0,1,None,Low,insulin glargine,reserpine
+elderly,Female,6,0,0,0,1,None,Low,insulin glargine,naproxen
+adult,Female,7,0,0,1,0,None,Low,paracetamol,oxycodone
+adult,Female,6,0,0,1,0,None,Low,paracetamol,nilotinib
+adult,Male,7,0,1,0,0,None,Low,sertraline,haloprogin
+adult,Male,3,0,1,0,0,None,Low,sertraline,estrone sulfate
+adult,Female,5,1,0,1,0,None,Low,azithromycin,niflumic acid
+adult,Female,7,1,0,1,0,None,Low,azithromycin,tiotropium
+adult,Female,5,0,1,0,1,None,Low,glipizide,ketamine
+adult,Female,4,0,1,0,1,None,Low,glipizide,etofenamate
+adult,Female,2,0,1,0,1,None,Low,glipizide,isoflurane
+elderly,Female,7,0,0,0,0,None,Low,ciprofloxacin,decitabine
+elderly,Female,4,0,0,0,0,None,Low,ciprofloxacin,tipranavir
+adult,Male,2,0,0,0,1,None,Low,tramadol,halothane
+adult,Male,4,0,0,0,1,None,Low,tramadol,safinamide
+adult,Male,6,0,0,0,1,None,Low,tramadol,amodiaquine
+adult,Male,3,0,0,0,1,None,Low,tramadol,desloratadine
+adult,Male,5,0,0,0,1,None,Low,tramadol,amoxapine
+adult,Male,6,0,0,1,0,None,Low,ciprofloxacin,fluocinolone acetonide
+adult,Male,6,0,0,1,0,None,Low,ciprofloxacin,sertaconazole
+adult,Male,2,0,0,1,0,None,Low,ciprofloxacin,nitric oxide
+adult,Male,4,0,0,1,0,None,Low,ciprofloxacin,methylprednisolone
+adult,Male,6,0,0,1,0,None,Low,ciprofloxacin,verteporfin
+adult,Female,6,0,0,0,0,None,Low,tramadol,clemastine
+adult,Female,4,0,0,0,0,None,Low,tramadol,cefuroxime
+adult,Female,5,0,0,0,0,None,Low,tramadol,tapentadol
+adult,Female,6,0,0,0,0,None,Low,tramadol,dicoumarol
+elderly,Male,3,0,0,0,0,None,Low,amoxicillin,sotalol
+elderly,Male,2,0,0,0,0,None,Low,amoxicillin,tibolone
+elderly,Male,5,0,0,0,0,None,Low,amoxicillin,prednisone
+elderly,Male,4,0,0,0,0,None,Low,amoxicillin,terbinafine
+elderly,Male,5,0,0,0,0,None,Low,amoxicillin,lamotrigine
+adult,Female,4,0,0,0,0,None,Low,azithromycin,amobarbital
+adult,Female,6,0,0,0,0,None,Low,azithromycin,pimozide
+adult,Female,5,0,0,0,0,None,Low,azithromycin,cinchocaine
+adult,Female,5,0,0,0,0,None,Low,azithromycin,nitroglycerin
+adult,Female,4,0,0,0,0,None,Low,azithromycin,clenbuterol
+adult,Male,6,0,0,1,1,None,Low,amlodipine,pranlukast
+adult,Male,6,0,0,1,1,None,Low,amlodipine,ergotamine
+adult,Male,2,0,0,0,1,None,Low,glipizide,agomelatine
+adult,Male,3,0,0,0,1,None,Low,glipizide,midodrine
+adult,Male,2,0,0,0,1,None,Low,glipizide,eslicarbazepine acetate
+adult,Female,5,0,0,0,1,None,Low,amoxicillin,efavirenz
+adult,Female,7,0,0,0,1,None,Low,amoxicillin,dextromethorphan
+adult,Female,5,0,0,0,1,None,Low,amoxicillin,rimonabant
+adult,Female,6,0,0,0,1,None,Low,amoxicillin,ospemifene
+adult,Female,4,0,0,1,0,None,Low,sertraline,eribulin
+adult,Female,6,0,0,1,0,None,Low,sertraline,nadolol
+adult,Female,7,0,0,1,0,None,Low,sertraline,lanreotide
+adult,Male,5,0,0,1,1,None,Low,insulin glargine,dronabinol
+adult,Male,5,0,0,1,1,None,Low,insulin glargine,butorphanol
+adult,Female,4,0,0,0,0,None,Low,bupropion,estradiol
+adult,Female,6,0,0,0,0,None,Low,bupropion,cytarabine
+adult,Female,3,0,0,0,0,None,Low,bupropion,rilpivirine
+adult,Female,6,0,0,0,0,None,Low,bupropion,doxepin
+adult,Female,3,0,0,0,0,None,Low,bupropion,protocatechualdehyde
+elderly,Male,4,0,0,0,1,None,Low,glipizide,olsalazine
+elderly,Male,5,0,0,0,1,None,Low,glipizide,carprofen
+elderly,Female,3,1,0,0,0,None,Low,sertraline,cyclophosphamide
+elderly,Female,5,1,0,0,0,None,Low,sertraline,ritonavir
+elderly,Female,7,1,0,0,0,None,Low,sertraline,clofibrate
+elderly,Female,2,1,0,0,0,None,Low,sertraline,lumefantrine
+elderly,Female,6,1,0,0,0,None,Low,sertraline,hexetidine
+adult,Male,2,1,0,0,1,None,Low,amoxicillin,eprosartan
+adult,Male,6,1,0,0,1,None,Low,amoxicillin,loperamide
+adult,Male,4,1,0,0,1,None,Low,amoxicillin,haloprogin
+adult,Male,6,1,0,0,1,None,Low,amoxicillin,fluconazole
+adult,Male,6,1,0,0,1,None,Low,amoxicillin,telaprevir
+elderly,Male,2,0,0,0,0,None,Low,azithromycin,dactinomycin
+elderly,Male,4,0,0,0,0,None,Low,azithromycin,sulfadiazine
+elderly,Male,7,0,0,0,0,None,Low,azithromycin,levocetirizine
+elderly,Male,3,0,0,0,0,None,Low,azithromycin,atropine
+adult,Male,5,0,0,1,0,None,Low,metoprolol,velpatasvir
+adult,Male,5,0,0,1,0,None,Low,metoprolol,salicylic acid
+adult,Male,6,0,0,1,0,None,Low,metoprolol,furosemide
+adult,Male,7,0,0,1,0,None,Low,metoprolol,mecamylamine
+adult,Male,5,0,0,1,0,None,Low,metoprolol,chloral hydrate
+adult,Male,4,0,0,0,0,None,Low,sertraline,temsirolimus
+adult,Male,6,0,0,0,0,None,Low,sertraline,thiothixene
+adult,Male,6,0,0,0,0,None,Low,sertraline,rufinamide
+adult,Male,5,0,0,0,1,None,Low,ibuprofen,diazoxide
+adult,Male,6,0,0,0,1,None,Low,ibuprofen,copanlisib
+adult,Male,5,0,0,0,1,None,Low,ibuprofen,arsenic trioxide
+adult,Male,4,0,0,0,1,None,Low,ibuprofen,velpatasvir
+adult,Male,2,0,0,1,0,None,Low,metoprolol,dolasetron
+adult,Male,7,0,0,1,0,None,Low,metoprolol,tavaborole
+adult,Male,6,0,0,1,0,None,Low,metoprolol,resveratrol
+adult,Male,7,0,0,1,0,None,Low,metoprolol,acitretin
+adult,Male,5,0,0,0,0,None,Low,sertraline,iloperidone
+adult,Male,5,0,0,0,0,None,Low,sertraline,metaraminol
+adult,Male,5,0,0,0,0,None,Low,sertraline,melatonin
+adult,Male,5,0,0,0,0,None,Low,sertraline,magnesium trisilicate
+adult,Male,6,0,0,1,1,None,Low,losartan,nitrendipine
+adult,Male,2,0,0,1,1,None,Low,losartan,boceprevir
+adult,Male,2,0,0,1,1,None,Low,losartan,acitretin
+adult,Male,5,0,0,1,1,None,Low,losartan,dezocine
+adult,Female,5,1,1,0,0,None,Low,ciprofloxacin,dipotassium phosphate
+adult,Female,3,1,1,0,0,None,Low,ciprofloxacin,decitabine
+adult,Female,7,1,1,0,0,None,Low,ciprofloxacin,mebendazole
+adult,Female,2,1,1,0,0,None,Low,ciprofloxacin,oxyphenbutazone
+adult,Female,3,1,1,0,0,None,Low,ciprofloxacin,glyburide
+adult,Male,5,0,0,1,1,None,Low,bupropion,milrinone
+adult,Male,4,0,0,1,1,None,Low,bupropion,sumatriptan
+adult,Male,4,0,0,1,1,None,Low,bupropion,histrelin
+adult,Male,2,0,0,1,1,None,Low,bupropion,diflunisal
+adult,Male,4,0,0,1,1,None,Low,bupropion,alimemazine
+adult,Female,7,0,0,0,1,None,Low,amoxicillin,calcifediol
+adult,Female,5,0,0,0,1,None,Low,amoxicillin,cholic acid
+adult,Female,3,0,0,0,1,None,Low,amoxicillin,aluminum hydroxide
+adult,Female,6,0,1,1,0,None,Low,losartan,macitentan
+adult,Female,5,0,1,1,0,None,Low,losartan,toremifene
+adult,Male,2,0,0,0,1,None,Low,glipizide,terconazole
+adult,Male,5,0,0,0,1,None,Low,glipizide,rescinnamine
+adult,Male,4,0,0,0,1,None,Low,glipizide,clocortolone
+adult,Male,6,0,0,0,0,None,Low,paracetamol,fentanyl
+adult,Male,7,0,0,0,0,None,Low,paracetamol,nefazodone
+adult,Male,7,0,0,0,0,None,Low,paracetamol,ipratropium
+adult,Female,2,0,0,0,0,None,Low,escitalopram,magaldrate
+adult,Female,3,0,0,0,0,None,Low,escitalopram,conivaptan
+adult,Male,2,0,0,0,1,None,Low,ibuprofen,magnesium salicylate
+adult,Male,2,0,0,0,1,None,Low,ibuprofen,profenamine
+adult,Male,3,0,0,0,0,None,Low,amoxicillin,carprofen
+adult,Male,5,0,0,0,0,None,Low,amoxicillin,mequitazine
+elderly,Male,3,0,0,1,0,None,Low,bupropion,framycetin
+elderly,Male,5,0,0,1,0,None,Low,bupropion,streptomycin
+elderly,Male,5,0,0,1,0,None,Low,bupropion,tolazamide
+elderly,Male,2,0,0,1,0,None,Low,bupropion,imiquimod
+elderly,Male,5,0,0,1,0,None,Low,bupropion,eszopiclone
+adult,Female,7,0,1,1,0,None,Low,azithromycin,nystatin
+adult,Female,6,0,1,1,0,None,Low,azithromycin,lisdexamfetamine
+adult,Female,4,0,1,1,0,None,Low,azithromycin,ciprofloxacin
+adult,Female,2,0,1,1,0,None,Low,azithromycin,erythromycin
+adult,Female,3,0,0,0,1,None,Low,metformin,bifonazole
+adult,Female,7,0,0,0,1,None,Low,metformin,ulobetasol
+adult,Male,4,0,0,1,1,None,Low,metoprolol,vancomycin
+adult,Male,3,0,0,1,1,None,Low,metoprolol,chloral hydrate
+adult,Male,4,0,0,1,1,Pharmacokinetic,Low,metoprolol,alprenolol
+adult,Male,7,0,0,0,0,None,Low,sertraline,tedizolid phosphate
+adult,Male,4,0,0,0,0,None,Low,sertraline,suvorexant
+adult,Male,4,0,0,0,0,None,Low,sertraline,disulfiram
+adult,Male,4,0,0,0,1,None,Low,insulin glargine,tazobactam
+adult,Male,2,0,0,0,1,None,Low,insulin glargine,phenylalanine
+adult,Male,2,0,0,0,1,None,Low,insulin glargine,azidocillin
+adult,Female,3,0,0,1,0,None,Low,bupropion,allylestrenol
+adult,Female,6,0,0,1,0,None,Low,bupropion,enalaprilat
+adult,Female,7,0,0,1,0,None,Low,bupropion,rescinnamine
+adult,Female,4,0,0,1,0,None,Low,bupropion,penbutolol
+adult,Male,2,1,0,0,1,None,Low,azithromycin,diflorasone
+adult,Male,4,1,0,0,1,None,Low,azithromycin,nadolol
+elderly,Female,4,0,0,0,1,None,Low,metformin,lomefloxacin
+elderly,Female,7,0,0,0,1,None,Low,metformin,domperidone
+adult,Female,2,0,0,0,0,None,Low,tramadol,roxithromycin
+adult,Female,3,0,0,0,0,None,Low,tramadol,melatonin
+adult,Female,5,0,0,0,0,None,Low,tramadol,reboxetine
+adult,Female,5,0,0,0,0,None,Low,tramadol,arformoterol
+adult,Female,6,0,0,0,0,None,Low,tramadol,nitrofural
+elderly,Male,4,0,0,1,1,None,Low,insulin glargine,chlortetracycline
+elderly,Male,4,0,0,1,1,None,Low,insulin glargine,meprobamate
+elderly,Male,6,0,0,1,1,None,Low,insulin glargine,nepafenac
+adult,Female,7,0,0,0,0,None,Low,amoxicillin,adinazolam
+adult,Female,3,0,0,0,0,None,Low,amoxicillin,protocatechualdehyde
+adult,Female,5,0,0,0,0,Pharmacokinetic,Low,amoxicillin,stiripentol
+adult,Female,7,0,0,0,0,None,Low,amoxicillin,risperidone
+adult,Female,7,0,0,0,0,None,Low,amoxicillin,astemizole
+adult,Female,3,0,1,1,0,None,Low,azithromycin,rizatriptan
+adult,Female,7,0,1,1,0,None,Low,azithromycin,trapidil
+elderly,Female,2,0,0,0,1,None,Low,tramadol,ulipristal
+elderly,Female,4,0,0,0,1,None,Low,tramadol,primidone
+elderly,Female,5,0,0,0,1,None,Low,tramadol,naproxen
+elderly,Male,7,0,0,0,1,None,Low,glipizide,promethazine
+elderly,Male,3,0,0,0,1,None,Low,glipizide,nilvadipine
+elderly,Female,7,0,0,0,1,None,Low,azithromycin,naloxone
+elderly,Female,6,0,0,0,1,None,Low,azithromycin,levacetylmethadol
+elderly,Female,3,0,0,0,1,None,Low,azithromycin,menadione
+elderly,Female,6,0,0,0,1,None,Low,azithromycin,paramethasone
+elderly,Female,2,0,0,0,1,None,Low,azithromycin,prucalopride
+adult,Female,7,0,0,0,0,None,Low,escitalopram,tolbutamide
+adult,Female,4,0,0,0,0,None,Low,escitalopram,tioconazole
+adult,Female,7,0,0,0,0,None,Low,escitalopram,chlorzoxazone
+adult,Female,3,0,0,0,0,None,Low,escitalopram,paramethadione
+adult,Male,5,0,0,1,0,None,Low,amlodipine,quinidine
+adult,Male,2,0,0,1,0,None,Low,amlodipine,medroxyprogesterone acetate
+adult,Male,5,0,0,1,0,None,Low,losartan,propranolol
+adult,Male,5,0,0,1,0,None,Low,losartan,levorphanol
+adult,Male,2,0,0,1,1,None,Low,metoprolol,temozolomide
+adult,Male,6,0,0,1,1,None,Low,metoprolol,pirenzepine
+adult,Male,2,0,0,1,1,None,Low,metoprolol,acetyldigitoxin
+adult,Male,6,0,0,1,1,None,Low,metoprolol,orciprenaline
+adult,Male,6,0,0,1,1,None,Low,insulin glargine,iloperidone
+adult,Male,2,0,0,1,1,None,Low,insulin glargine,minoxidil
+adult,Female,6,0,0,0,0,None,Low,ibuprofen,umeclidinium
+adult,Female,2,0,0,0,0,None,Low,ibuprofen,nafamostat
+adult,Male,7,0,0,0,0,None,Low,amoxicillin,fosphenytoin
+adult,Male,3,0,0,0,0,None,Low,amoxicillin,mequitazine
+adult,Female,7,0,0,1,0,None,Low,escitalopram,romidepsin
+adult,Female,3,0,0,1,0,None,Low,escitalopram,epoprostenol
+adult,Female,3,0,0,1,0,None,Low,escitalopram,ulobetasol
+adult,Male,6,1,0,0,1,None,Low,glipizide,dienogest
+adult,Male,3,1,0,0,1,None,Low,glipizide,argatroban
+adult,Male,4,1,0,0,1,None,Low,glipizide,nitrous acid
+adult,Male,3,0,0,1,0,None,Low,metoprolol,deflazacort
+adult,Male,7,0,0,1,0,None,Low,metoprolol,eluxadoline
+adult,Male,7,0,0,1,0,None,Low,metoprolol,modafinil
+adult,Male,3,0,0,1,0,None,Low,metoprolol,atovaquone
+adult,Female,5,0,0,1,1,None,Low,insulin glargine,isavuconazonium
+adult,Female,2,0,0,1,1,None,Low,insulin glargine,pentostatin
+adult,Female,2,0,0,1,1,None,Low,insulin glargine,tolazamide
+adult,Female,3,0,0,1,1,None,Low,insulin glargine,pravastatin
+adult,Male,3,0,0,1,1,None,Low,tramadol,pregabalin
+adult,Male,4,0,0,1,1,None,Low,tramadol,lurasidone
+adult,Male,2,0,0,1,1,None,Low,tramadol,dicoumarol
+adult,Male,7,0,0,0,1,None,Low,tramadol,iloprost
+adult,Male,7,0,0,0,1,None,Low,tramadol,mometasone
+adult,Male,3,0,0,0,1,None,Low,tramadol,dexlansoprazole
+elderly,Male,4,1,1,0,0,None,Low,azithromycin,ramipril
+elderly,Male,5,1,1,0,0,None,Low,azithromycin,pipamperone
+elderly,Male,2,1,1,0,0,None,Low,azithromycin,isoflurane
+elderly,Male,2,1,1,0,0,None,Low,azithromycin,methylphenidate
+adult,Female,3,0,0,0,0,None,Low,ibuprofen,disopyramide
+adult,Female,6,0,0,0,0,None,Low,ibuprofen,carbinoxamine
+adult,Female,5,0,0,0,0,None,Low,ibuprofen,citalopram
+adult,Male,3,0,0,1,0,None,Low,tramadol,ioflupane i-123
+adult,Male,4,0,0,1,0,None,Low,tramadol,duloxetine
+adult,Male,5,0,1,0,0,None,Low,tramadol,meloxicam
+adult,Male,3,0,1,0,0,None,Low,tramadol,trihexyphenidyl
+adult,Male,4,0,1,0,0,None,Low,tramadol,fluocinolone acetonide
+adult,Male,2,0,1,0,0,None,Low,tramadol,somatostatin
+adult,Female,7,0,0,0,1,None,Low,metformin,candesartan cilexetil
+adult,Female,7,0,0,0,1,None,Low,metformin,haloperidol
+adult,Male,5,0,0,1,0,None,Low,tramadol,cabergoline
+adult,Male,2,0,0,1,0,None,Low,tramadol,naloxone
+adult,Male,6,0,0,1,0,None,Low,tramadol,agomelatine
+adult,Male,7,0,0,1,0,None,Low,tramadol,trimetrexate
+elderly,Female,6,0,0,0,0,None,Low,escitalopram,pivampicillin
+elderly,Female,7,0,0,0,0,None,Low,escitalopram,methoxamine
+elderly,Female,6,0,0,0,0,None,Low,escitalopram,pomalidomide
+elderly,Female,4,0,0,0,0,None,Low,escitalopram,halofantrine
+elderly,Female,3,0,0,0,0,None,Low,escitalopram,solifenacin
+elderly,Female,3,0,0,1,1,None,Low,metoprolol,nifedipine
+elderly,Female,3,0,0,1,1,None,Low,metoprolol,minoxidil
+elderly,Female,5,0,0,1,1,None,Low,metoprolol,ethotoin
+elderly,Female,4,0,0,1,1,None,Low,metoprolol,piroxicam
+elderly,Female,5,0,0,1,1,None,Low,metoprolol,amiodarone
+elderly,Male,7,0,0,1,0,None,Low,tramadol,bromfenac
+elderly,Male,5,0,0,1,0,None,Low,tramadol,chlorpromazine
+adult,Male,5,0,0,1,0,None,Low,amlodipine,meprobamate
+adult,Male,3,0,0,1,0,None,Low,amlodipine,cloxacillin
+adult,Male,5,0,0,1,0,None,Low,amlodipine,valbenazine
+adult,Male,7,0,0,1,0,None,Low,amlodipine,mirtazapine
+adult,Male,4,0,0,1,0,Pharmacodynamic,High,amlodipine,amphotericin b
+adult,Female,2,0,0,1,1,None,Low,insulin glargine,sildenafil
+adult,Female,3,0,0,1,1,None,Low,insulin glargine,orlistat
+adult,Female,4,0,0,1,1,None,Low,insulin glargine,diazoxide
+adult,Male,5,0,0,1,0,None,Low,losartan,nitric oxide
+adult,Male,5,0,0,1,0,None,Low,losartan,fosphenytoin
+adult,Male,2,0,0,1,0,None,Low,losartan,gliclazide
+adult,Male,2,0,0,1,0,None,Low,losartan,mefenamic acid
+adult,Female,2,0,0,0,1,None,Low,metformin,sulindac
+adult,Female,6,0,0,0,1,None,Low,metformin,flunisolide
+adult,Female,7,0,0,0,1,None,Low,metformin,flurazepam
+adult,Female,4,0,0,0,1,None,Low,metformin,methylene blue
+adult,Female,3,1,0,0,0,None,Low,escitalopram,fenoprofen
+adult,Female,5,1,0,0,0,None,Low,escitalopram,candesartan cilexetil
+adult,Female,2,1,0,0,0,None,Low,escitalopram,perflutren
+adult,Male,4,0,0,0,1,None,Low,metformin,flunisolide
+adult,Male,4,0,0,0,1,None,Low,metformin,procyclidine
+adult,Male,4,0,0,0,1,None,Low,insulin glargine,methotrimeprazine
+adult,Male,6,0,0,0,1,None,Low,insulin glargine,ambrisentan
+elderly,Male,2,0,0,1,0,None,Low,ciprofloxacin,clobazam
+elderly,Male,2,0,0,1,0,Pharmacodynamic,Medium,ciprofloxacin,olodaterol
+elderly,Male,6,0,0,1,0,None,Low,ciprofloxacin,galantamine
+elderly,Male,7,0,0,1,0,None,Low,ciprofloxacin,molsidomine
+elderly,Male,6,0,0,1,0,None,Low,ciprofloxacin,streptomycin
+adult,Female,2,0,0,0,1,None,Low,paracetamol,droxicam
+adult,Female,4,0,0,0,1,None,Low,paracetamol,thiabendazole
+adult,Female,3,0,0,0,1,None,Low,paracetamol,sulbactam
+elderly,Female,4,0,1,0,0,None,Low,tramadol,perindopril
+elderly,Female,5,0,1,0,0,None,Low,tramadol,calcitriol
+elderly,Female,5,0,1,0,0,None,Low,tramadol,clofarabine
+elderly,Female,5,0,1,0,0,None,Low,tramadol,esmolol
+elderly,Female,3,0,1,0,0,None,Low,tramadol,estrone
+adult,Female,3,0,0,0,1,None,Low,escitalopram,perhexiline
+adult,Female,4,0,0,0,1,None,Low,escitalopram,drospirenone
+adult,Male,5,0,0,0,0,None,Low,paracetamol,flumazenil
+adult,Male,7,0,0,0,0,None,Low,paracetamol,zaltoprofen
+adult,Male,7,0,0,0,0,None,Low,paracetamol,sulconazole
+adult,Male,4,0,0,0,0,None,Low,paracetamol,ritodrine
+adult,Female,5,0,0,0,0,None,Low,azithromycin,baricitinib
+adult,Female,5,0,0,0,0,None,Low,azithromycin,isoniazid
+adult,Female,2,0,0,0,0,None,Low,azithromycin,polythiazide
+adult,Female,7,0,0,0,0,None,Low,azithromycin,bismuth subcitrate potassium
+elderly,Male,4,0,0,0,0,None,Low,ibuprofen,liotrix
+elderly,Male,3,0,0,0,0,None,Low,ibuprofen,sitaxentan
+elderly,Male,6,0,0,0,0,None,Low,ibuprofen,metaraminol
+adult,Male,2,0,0,0,0,None,Low,azithromycin,icosapent ethyl
+adult,Male,5,0,0,0,0,None,Low,azithromycin,somatostatin
+adult,Male,4,0,0,0,0,None,Low,azithromycin,cinacalcet
+adult,Male,7,0,0,0,0,None,Low,sertraline,lapatinib
+adult,Male,5,0,0,0,0,None,Low,sertraline,midazolam
+adult,Male,7,0,0,0,0,None,Low,sertraline,captopril
+adult,Male,4,0,0,0,0,None,Low,sertraline,gemifloxacin
+adult,Male,4,0,0,0,0,None,Low,sertraline,aminoglutethimide
+elderly,Female,5,0,0,1,0,None,Low,losartan,bisoprolol
+elderly,Female,7,0,0,1,0,None,Low,losartan,oxaprozin
+elderly,Female,3,0,0,1,0,None,Low,losartan,proguanil
+elderly,Female,7,0,0,1,0,None,Low,losartan,tiaprofenic acid
+adult,Male,4,0,0,1,0,None,Low,bupropion,paramethasone
+adult,Male,2,0,0,1,0,None,Low,bupropion,desogestrel
+elderly,Male,2,0,0,0,0,None,Low,bupropion,mycophenolic acid
+elderly,Male,3,0,0,0,0,None,Low,bupropion,suvorexant
+elderly,Male,2,0,0,0,0,None,Low,bupropion,dorzolamide
+elderly,Male,7,0,0,0,0,None,Low,bupropion,iloperidone
+elderly,Male,2,0,0,0,0,None,Low,bupropion,ubidecarenone
+elderly,Male,4,0,0,0,1,None,Low,metformin,benzphetamine
+elderly,Male,4,0,0,0,1,None,Low,metformin,suvorexant
+elderly,Male,7,0,0,0,1,None,Low,metformin,bisoprolol
+elderly,Female,7,0,0,0,1,None,Low,insulin glargine,dantrolene
+elderly,Female,7,0,0,0,1,None,Low,insulin glargine,epoprostenol
+elderly,Female,7,0,0,0,1,None,Low,insulin glargine,irbesartan
+elderly,Female,7,0,0,0,1,None,Low,insulin glargine,fludarabine
+adult,Female,4,0,1,0,1,None,Low,glipizide,droperidol
+adult,Female,5,0,1,0,1,None,Low,glipizide,protriptyline
+adult,Female,7,0,1,0,1,None,Low,glipizide,pivampicillin
+adult,Female,7,0,0,0,1,None,Low,insulin glargine,mephentermine
+adult,Female,3,0,0,0,1,None,Low,insulin glargine,amrubicin
+adult,Female,6,0,0,0,1,None,Low,insulin glargine,aliskiren
+adult,Female,6,0,0,0,1,None,Low,insulin glargine,ruxolitinib
+adult,Female,3,0,0,0,1,None,Low,insulin glargine,nilutamide
+adult,Male,7,0,0,0,0,None,Low,azithromycin,ospemifene
+adult,Male,4,0,0,0,0,None,Low,azithromycin,metaraminol
+adult,Female,4,0,0,0,0,None,Low,tramadol,formoterol
+adult,Female,3,0,0,0,0,None,Low,tramadol,clevidipine
+adult,Female,7,0,0,0,0,None,Low,tramadol,lormetazepam
+adult,Male,4,1,0,1,0,None,Low,metoprolol,azilsartan medoxomil
+adult,Male,6,1,0,1,0,None,Low,metoprolol,mivacurium
+adult,Male,5,0,0,1,0,None,Low,sertraline,hydromorphone
+adult,Male,5,0,0,1,0,None,Low,sertraline,nelfinavir
+adult,Male,4,0,0,1,0,None,Low,sertraline,etizolam
+adult,Female,5,0,0,1,1,None,Low,ciprofloxacin,ropinirole
+adult,Female,6,0,0,1,1,None,Low,ciprofloxacin,triamterene
+adult,Female,2,0,0,1,1,None,Low,ciprofloxacin,perospirone
+adult,Female,2,0,0,1,1,None,Low,ciprofloxacin,paramethadione
+adult,Female,4,0,0,1,0,None,Low,amlodipine,irinotecan
+adult,Female,2,0,0,1,0,None,Low,amlodipine,oxaprozin
+adult,Female,6,0,0,1,0,None,Low,amlodipine,ceftizoxime
+elderly,Female,7,0,0,0,1,None,Low,azithromycin,desoximetasone
+elderly,Female,3,0,0,0,1,None,Low,azithromycin,methantheline
+elderly,Female,6,0,0,0,1,None,Low,azithromycin,orciprenaline
+elderly,Female,2,0,0,0,1,None,Low,azithromycin,lithium cation
+adult,Female,3,0,0,0,1,None,Low,ciprofloxacin,itraconazole
+adult,Female,3,0,0,0,1,None,Low,ciprofloxacin,pravastatin
+adult,Female,5,0,0,0,1,None,Low,ciprofloxacin,ranitidine
+adult,Male,5,0,1,0,0,None,Low,sertraline,vismodegib
+adult,Male,3,0,1,0,0,None,Low,sertraline,paracetamol
+adult,Male,7,0,1,0,0,None,Low,sertraline,naratriptan
+adult,Male,2,0,1,0,0,None,Low,sertraline,norgestimate
+elderly,Male,5,1,0,0,0,None,Low,ibuprofen,indacaterol
+elderly,Male,6,1,0,0,0,None,Low,ibuprofen,ulobetasol
+elderly,Male,3,1,0,0,0,None,Low,ibuprofen,crizotinib
+elderly,Male,5,1,0,0,0,None,Low,ibuprofen,morphine
+elderly,Male,6,1,0,0,0,None,Low,ibuprofen,fluconazole
+adult,Female,5,0,0,0,1,None,Low,glipizide,methsuximide
+adult,Female,3,0,0,0,1,None,Low,glipizide,domperidone
+adult,Female,7,0,0,0,0,None,Low,tramadol,enflurane
+adult,Female,7,0,0,0,0,None,Low,tramadol,venetoclax
+adult,Female,5,0,0,0,0,None,Low,tramadol,glucosamine
+adult,Female,7,0,0,0,0,None,Low,tramadol,elbasvir
+adult,Female,7,0,0,0,0,None,Low,tramadol,orciprenaline
+adult,Female,3,0,0,0,0,None,Low,escitalopram,amlodipine
+adult,Female,2,0,0,0,0,None,Low,escitalopram,clozapine
+elderly,Male,3,0,0,0,0,None,Low,bupropion,dacarbazine
+elderly,Male,4,0,0,0,0,None,Low,bupropion,benzylpenicillin
+elderly,Male,6,0,0,0,0,None,Low,bupropion,sitaxentan
+elderly,Female,7,0,0,1,0,None,Low,amlodipine,dabigatran etexilate
+elderly,Female,4,0,0,1,0,None,Low,amlodipine,edrophonium
+elderly,Female,7,0,0,1,0,None,Low,amlodipine,carbetocin
+elderly,Female,2,0,0,1,0,None,Low,amlodipine,argatroban
+elderly,Female,2,0,0,1,0,None,Low,amlodipine,difluocortolone
+adult,Female,7,0,0,0,1,Pharmacokinetic,Low,ibuprofen,dosulepin
+adult,Female,2,0,0,0,1,None,Low,ibuprofen,isavuconazonium
+adult,Male,6,0,1,0,0,None,Low,tramadol,vemurafenib
+adult,Male,7,0,1,0,0,None,Low,tramadol,mequitazine
+adult,Male,2,0,1,0,0,None,Low,tramadol,indomethacin
+adult,Male,5,0,1,0,0,None,Low,tramadol,melatonin
+adult,Male,4,0,0,0,1,None,Low,azithromycin,dextromethorphan
+adult,Male,4,0,0,0,1,None,Low,azithromycin,histamine
+adult,Male,6,0,0,0,1,None,Low,azithromycin,ivacaftor
+adult,Male,4,0,0,0,1,None,Low,azithromycin,acarbose
+adult,Female,7,0,0,0,1,None,Low,ciprofloxacin,vinblastine
+adult,Female,2,0,0,0,1,None,Low,ciprofloxacin,pipamperone
+elderly,Female,3,0,0,0,0,None,Low,ciprofloxacin,azidocillin
+elderly,Female,4,0,0,0,0,None,Low,ciprofloxacin,erythromycin
+elderly,Female,5,0,0,0,0,None,Low,ciprofloxacin,pramipexole
+elderly,Male,7,0,0,0,0,None,Low,escitalopram,prazepam
+elderly,Male,3,0,0,0,0,None,Low,escitalopram,ramipril
+elderly,Male,6,0,0,0,0,None,Low,escitalopram,nalidixic acid
+elderly,Male,3,0,0,0,0,None,Low,escitalopram,felbamate
+elderly,Male,3,0,0,0,0,None,Low,sertraline,rosiglitazone
+elderly,Male,7,0,0,0,0,None,Low,sertraline,cilazapril
+elderly,Male,6,0,0,0,0,None,Low,sertraline,oxcarbazepine
+elderly,Male,6,0,0,0,0,None,Low,sertraline,griseofulvin
+elderly,Male,2,0,0,0,0,None,Low,sertraline,trifluridine
+elderly,Female,5,0,1,1,0,None,Low,losartan,phenobarbital
+elderly,Female,7,0,1,1,0,None,Low,losartan,azathioprine
+elderly,Female,3,0,1,1,0,None,Low,losartan,fimasartan
+elderly,Female,2,0,1,1,0,None,Low,losartan,benzocaine
+elderly,Female,4,0,1,1,0,None,Low,losartan,azathioprine
+elderly,Male,5,0,0,0,0,None,Low,ciprofloxacin,levacetylmethadol
+elderly,Male,6,0,0,0,0,None,Low,ciprofloxacin,mifepristone
+elderly,Male,2,0,0,0,0,None,Low,ciprofloxacin,oxybutynin
+adult,Female,7,0,1,1,0,None,Low,bupropion,acenocoumarol
+adult,Female,5,0,1,1,0,None,Low,bupropion,brinzolamide
+elderly,Male,6,0,0,0,0,None,Low,escitalopram,butenafine
+elderly,Male,3,0,0,0,0,None,Low,escitalopram,decamethonium
+elderly,Male,7,0,0,0,0,None,Low,escitalopram,avanafil
+elderly,Male,3,0,0,0,0,None,Low,escitalopram,levocetirizine
+elderly,Male,6,0,0,0,0,None,Low,escitalopram,brinzolamide
+adult,Male,7,0,0,1,0,None,Low,losartan,citalopram
+adult,Male,3,0,0,1,0,None,Low,losartan,trimetrexate
+adult,Male,6,0,0,1,0,None,Low,losartan,rosiglitazone
+adult,Male,4,0,0,1,1,None,Low,insulin glargine,methadone
+adult,Male,4,0,0,1,1,None,Low,insulin glargine,azelnidipine
+adult,Male,7,0,0,0,0,None,Low,paracetamol,pargyline
+adult,Male,6,0,0,0,0,None,Low,paracetamol,chlorprothixene
+adult,Male,6,0,0,0,0,None,Low,paracetamol,esmolol
+elderly,Male,5,0,0,0,1,None,Low,glipizide,calcium carbonate
+elderly,Male,2,0,0,0,1,None,Low,glipizide,nitroglycerin
+elderly,Male,7,0,0,0,1,None,Low,glipizide,pentolinium
+elderly,Male,5,0,0,0,1,None,Low,glipizide,magnesium salicylate
+adult,Female,3,0,0,0,0,None,Low,azithromycin,miconazole
+adult,Female,3,0,0,0,0,None,Low,azithromycin,ciclopirox
+elderly,Male,7,0,0,1,0,None,Low,bupropion,podofilox
+elderly,Male,4,0,0,1,0,None,Low,bupropion,baricitinib
+elderly,Male,3,0,0,1,0,None,Low,losartan,dronabinol
+elderly,Male,3,0,0,1,0,None,Low,losartan,cetirizine
+elderly,Male,5,0,0,1,0,None,Low,losartan,flibanserin
+elderly,Male,2,0,0,1,0,None,Low,losartan,anagrelide
+elderly,Male,4,0,0,1,0,None,Low,losartan,dexamethasone
+adult,Male,7,0,0,1,0,None,Low,losartan,norgestrel
+adult,Male,7,0,0,1,0,None,Low,losartan,seratrodast
+adult,Male,2,0,0,1,0,None,Low,losartan,torasemide
+adult,Male,5,0,0,1,0,None,Low,losartan,linagliptin
+adult,Male,4,0,0,1,0,None,Low,losartan,ramipril
+elderly,Male,2,0,0,0,0,None,Low,tramadol,vemurafenib
+elderly,Male,5,0,0,0,0,None,Low,tramadol,carfilzomib
+elderly,Male,7,0,0,0,0,None,Low,tramadol,pentaerythritol tetranitrate
+elderly,Male,4,0,0,0,0,None,Low,tramadol,arotinolol
+elderly,Male,2,0,0,0,1,None,Low,metformin,phentolamine
+elderly,Male,5,0,0,0,1,None,Low,metformin,estramustine
+elderly,Male,5,0,0,0,1,None,Low,metformin,normethadone
+elderly,Male,4,0,0,0,1,None,Low,metformin,vemurafenib
+elderly,Male,3,0,0,0,1,None,Low,metformin,nabilone
+adult,Female,2,0,0,0,0,None,Low,ibuprofen,etizolam
+adult,Female,7,0,0,0,0,None,Low,ibuprofen,ritodrine
+adult,Female,7,0,0,0,0,None,Low,ibuprofen,letrozole
+adult,Male,6,0,0,0,0,None,Low,escitalopram,quinidine
+adult,Male,3,0,0,0,0,None,Low,escitalopram,ulipristal
+adult,Male,6,0,0,0,0,None,Low,escitalopram,mesoridazine
+adult,Male,2,0,0,0,1,None,Low,ibuprofen,ipratropium
+adult,Male,5,0,0,0,1,None,Low,ibuprofen,bosutinib
+adult,Male,6,0,0,0,1,None,Low,ibuprofen,lipoic acid
+adult,Male,2,0,0,0,1,None,Low,ibuprofen,ketorolac
+elderly,Female,2,1,0,1,0,None,Low,losartan,bacitracin
+elderly,Female,4,1,0,1,0,None,Low,losartan,methylphenobarbital
+elderly,Female,3,1,0,1,0,None,Low,losartan,isoniazid
+elderly,Female,4,1,0,1,0,None,Low,losartan,quazepam
+adult,Male,3,0,0,1,0,None,Low,losartan,rasagiline
+adult,Male,6,0,0,1,0,None,Low,losartan,hydrocortisone
+adult,Male,6,0,0,1,0,None,Low,losartan,liotrix
+adult,Male,7,0,0,1,0,None,Low,losartan,tedizolid phosphate
+adult,Male,5,0,0,1,0,None,Low,losartan,trichlormethiazide
+adult,Female,2,0,0,0,1,None,Low,amoxicillin,idarubicin
+adult,Female,6,0,0,0,1,None,Low,amoxicillin,prilocaine
+adult,Female,5,0,0,0,1,None,Low,amoxicillin,clindamycin
+adult,Female,3,0,0,0,1,None,Low,amoxicillin,methysergide
+adult,Male,6,0,0,1,0,None,Low,amoxicillin,carbinoxamine
+adult,Male,4,0,0,1,0,None,Low,amoxicillin,cyclacillin
+adult,Male,7,0,0,1,0,None,Low,amoxicillin,clofarabine
+adult,Male,5,0,0,1,0,None,Low,amoxicillin,hexetidine
+adult,Female,3,0,0,0,1,None,Low,metformin,griseofulvin
+adult,Female,2,0,0,0,1,None,Low,metformin,desonide
+adult,Female,2,0,0,0,1,None,Low,metformin,dronedarone
+adult,Female,3,0,0,0,1,None,Low,metformin,levobunolol
+adult,Female,5,0,0,0,1,None,Low,metformin,buprenorphine
+adult,Female,2,0,0,0,1,None,Low,tramadol,vinorelbine
+adult,Female,2,0,0,0,1,None,Low,tramadol,cobicistat
+adult,Female,5,0,0,0,1,None,Low,tramadol,dexbrompheniramine
+adult,Female,5,0,0,0,1,None,Low,tramadol,azidocillin
+adult,Female,5,0,0,0,1,None,Low,tramadol,cefuroxime
+elderly,Female,5,0,0,0,1,None,Low,escitalopram,droperidol
+elderly,Female,3,0,0,0,1,None,Low,escitalopram,disulfiram
+adult,Male,4,0,0,0,0,None,Low,amoxicillin,isoconazole
+adult,Male,6,0,0,0,0,None,Low,amoxicillin,salicylic acid
+adult,Male,6,0,0,0,0,None,Low,amoxicillin,phenobarbital
+elderly,Female,3,0,0,0,0,None,Low,paracetamol,phenoxybenzamine
+elderly,Female,6,0,0,0,0,None,Low,paracetamol,aprindine
+elderly,Female,2,0,0,0,0,None,Low,paracetamol,ranolazine
+elderly,Female,6,0,0,0,0,None,Low,paracetamol,cefoperazone
+adult,Male,5,1,0,0,0,None,Low,azithromycin,flumazenil
+adult,Male,5,1,0,0,0,None,Low,azithromycin,diazoxide
+adult,Male,5,1,0,0,0,None,Low,azithromycin,zaleplon
+adult,Male,2,1,0,0,0,None,Low,azithromycin,eliglustat
+adult,Male,3,1,0,0,0,None,Low,azithromycin,estrone sulfate
+adult,Male,5,0,0,0,0,None,Low,ibuprofen,diamorphine
+adult,Male,7,0,0,0,0,None,Low,ibuprofen,methylergometrine
+adult,Male,3,0,0,0,0,None,Low,ibuprofen,tioguanine
+adult,Male,6,0,0,0,0,None,Low,ibuprofen,methscopolamine
+adult,Female,5,0,0,0,1,None,Low,insulin glargine,pentoxifylline
+adult,Female,5,0,0,0,1,None,Low,insulin glargine,lithium cation
+adult,Female,5,0,0,0,1,None,Low,insulin glargine,oxprenolol
+adult,Female,7,0,0,0,1,None,Low,insulin glargine,protriptyline
+adult,Female,3,0,0,0,1,None,Low,insulin glargine,darifenacin
+adult,Female,5,0,0,1,0,None,Low,bupropion,dexlansoprazole
+adult,Female,4,0,0,1,0,None,Low,bupropion,astemizole
+adult,Female,3,0,0,1,0,None,Low,bupropion,lacosamide
+adult,Female,3,0,0,1,0,None,Low,bupropion,ibutilide
+adult,Male,5,0,0,0,0,None,Low,paracetamol,butabarbital
+adult,Male,4,0,0,0,0,None,Low,paracetamol,piroxicam
+adult,Male,5,0,0,0,0,None,Low,paracetamol,piracetam
+adult,Male,2,0,0,0,0,None,Low,paracetamol,palonosetron
+adult,Male,5,0,0,0,0,None,Low,paracetamol,histrelin
+elderly,Male,3,0,0,0,1,None,Low,paracetamol,rolapitant
+elderly,Male,2,0,0,0,1,None,Low,paracetamol,ramipril
+elderly,Male,3,0,0,0,1,None,Low,paracetamol,norethisterone
+elderly,Male,7,0,0,0,1,None,Low,paracetamol,zalcitabine
+adult,Male,7,0,0,1,0,None,Low,ibuprofen,pimozide
+adult,Male,4,0,0,1,0,None,Low,ibuprofen,gliclazide
+adult,Male,2,0,0,1,0,None,Low,ibuprofen,ribostamycin
+elderly,Female,6,0,0,0,1,None,Low,tramadol,levosimendan
+elderly,Female,5,0,0,0,1,None,Low,tramadol,oxybutynin
+elderly,Female,5,0,0,0,1,None,Low,tramadol,propacetamol
+elderly,Female,2,0,0,0,1,None,Low,tramadol,dasatinib
+elderly,Female,2,0,0,0,1,None,Low,tramadol,tolbutamide
+elderly,Male,5,0,0,1,0,None,Low,amlodipine,cobicistat
+elderly,Male,5,0,0,1,0,None,Low,amlodipine,triprolidine
+adult,Female,2,0,0,1,1,None,Low,losartan,isoniazid
+adult,Female,5,0,0,1,1,None,Low,losartan,clonidine
+adult,Female,2,0,0,1,1,None,Low,losartan,isoprenaline
+adult,Female,2,0,0,1,1,None,Low,losartan,thiotepa
+adult,Male,6,0,0,0,0,None,Low,ibuprofen,gallamine triethiodide
+adult,Male,3,0,0,0,0,None,Low,ibuprofen,daunorubicin
+adult,Male,5,0,0,0,0,None,Low,ibuprofen,hydroxyprogesterone caproate
+adult,Male,2,0,0,0,0,None,Low,amoxicillin,betamethasone
+adult,Male,6,0,0,0,0,None,Low,amoxicillin,balsalazide
+adult,Male,5,0,0,0,0,None,Low,amoxicillin,scopolamine
+adult,Female,2,0,0,0,1,None,Low,ciprofloxacin,bupivacaine
+adult,Female,2,0,0,0,1,None,Low,ciprofloxacin,metamfetamine
+adult,Female,5,0,0,0,1,None,Low,ciprofloxacin,balsalazide
+adult,Female,6,0,0,0,1,None,Low,ciprofloxacin,ethyl loflazepate
+adult,Female,2,0,0,0,1,None,Low,ciprofloxacin,rasagiline
+elderly,Female,4,0,0,0,1,None,Low,metformin,ambenonium
+elderly,Female,4,0,0,0,1,None,Low,metformin,debrisoquine
+adult,Female,3,1,0,1,0,None,Low,escitalopram,tianeptine
+adult,Female,3,1,0,1,0,None,Low,escitalopram,rupatadine
+adult,Female,7,1,0,1,0,None,Low,escitalopram,tasimelteon
+adult,Female,4,1,0,1,0,None,Low,escitalopram,calcium carbonate
+adult,Female,6,1,0,1,0,None,Low,escitalopram,boceprevir
+adult,Male,3,0,0,0,0,None,Low,amoxicillin,tramadol
+adult,Male,5,0,0,0,0,None,Low,amoxicillin,rilpivirine
+adult,Male,2,0,0,0,0,None,Low,amoxicillin,mesalazine
+adult,Male,7,0,0,0,0,None,Low,amoxicillin,reserpine
+adult,Male,5,0,0,0,0,None,Low,amoxicillin,flucytosine
+adult,Female,7,0,0,1,1,None,Low,metoprolol,tipiracil
+adult,Female,2,0,0,1,1,None,Low,metoprolol,tolfenamic acid
+adult,Female,6,0,0,1,1,None,Low,metoprolol,clotiazepam
+adult,Female,2,0,0,1,1,None,Low,metoprolol,ethyl loflazepate
+adult,Male,2,1,1,0,0,None,Low,azithromycin,verteporfin
+adult,Male,5,1,1,0,0,None,Low,azithromycin,pipamperone
+adult,Male,6,1,0,1,1,None,Low,metformin,fentanyl
+adult,Male,2,1,0,1,1,None,Low,metformin,halothane
+adult,Male,6,1,0,1,1,None,Low,metformin,nafamostat
+adult,Male,2,1,0,1,1,None,Low,metformin,clofibrate
+adult,Female,6,0,0,0,0,None,Low,bupropion,naproxen
+adult,Female,2,0,0,0,0,None,Low,bupropion,prazosin
+adult,Female,5,0,0,0,0,None,Low,bupropion,estramustine
+elderly,Male,5,0,0,1,0,None,Low,metoprolol,norgestrel
+elderly,Male,6,0,0,1,0,None,Low,metoprolol,pyridoxine
+elderly,Male,4,0,0,1,0,None,Low,metoprolol,dexmedetomidine
+adult,Male,5,0,0,0,0,None,Low,tramadol,chlortetracycline
+adult,Male,6,0,0,0,0,None,Low,tramadol,meloxicam
+adult,Male,5,0,0,0,0,None,Low,tramadol,artemether
+adult,Female,3,0,0,1,0,None,Low,amlodipine,estazolam
+adult,Female,2,0,0,1,0,None,Low,amlodipine,trimethobenzamide
+adult,Female,4,0,0,1,0,None,Low,amlodipine,methyltestosterone
+adult,Female,7,0,0,1,0,None,Low,amlodipine,vilanterol
+adult,Female,2,0,0,1,0,None,Low,amlodipine,stiripentol
+adult,Female,7,0,0,0,0,None,Low,bupropion,pimecrolimus
+adult,Female,6,0,0,0,0,None,Low,bupropion,normethadone
+adult,Female,7,0,0,0,0,None,Low,bupropion,diflorasone
+adult,Female,5,0,0,0,0,None,Low,bupropion,nafcillin
+adult,Female,2,0,0,0,0,None,Low,bupropion,triazolam
+adult,Male,2,0,0,0,0,None,Low,sertraline,spirapril
+adult,Male,3,0,0,0,0,None,Low,sertraline,warfarin
+adult,Male,7,0,0,0,0,None,Low,sertraline,naproxen
+adult,Male,3,0,0,0,0,None,Low,sertraline,ponatinib
+adult,Male,6,0,0,0,0,None,Low,sertraline,cholecalciferol
+adult,Male,2,0,0,1,0,None,Low,metoprolol,tolbutamide
+adult,Male,6,0,0,1,0,None,Low,metoprolol,norgestimate
+elderly,Male,5,0,0,1,0,None,Low,losartan,methyl salicylate
+elderly,Male,5,0,0,1,0,None,Low,losartan,sulindac
+elderly,Female,7,0,0,0,0,None,Low,ibuprofen,gabapentin
+elderly,Female,2,0,0,0,0,None,Low,ibuprofen,magnesium hydroxide
+elderly,Female,7,0,0,0,0,None,Low,ibuprofen,loratadine
+elderly,Female,3,0,0,0,0,None,Low,ibuprofen,terbinafine
+elderly,Female,7,0,0,0,0,None,Low,ibuprofen,citalopram
+adult,Male,2,0,0,1,0,None,Low,metoprolol,spironolactone
+adult,Male,3,0,0,1,0,None,Low,metoprolol,dopamine
+adult,Male,7,0,0,1,0,None,Low,metoprolol,vancomycin
+adult,Female,2,0,1,1,0,None,Low,paracetamol,magnesium salicylate
+adult,Female,6,0,1,1,0,None,Low,paracetamol,bacitracin
+adult,Female,4,1,0,0,1,None,Low,ibuprofen,amlodipine
+adult,Female,5,1,0,0,1,None,Low,ibuprofen,procaine
+adult,Female,7,1,0,0,1,None,Low,ibuprofen,icatibant
+adult,Male,3,0,0,1,1,None,Low,amlodipine,acetyldigitoxin
+adult,Male,3,0,0,1,1,None,Low,amlodipine,zaltoprofen
+adult,Male,4,0,0,1,1,None,Low,amlodipine,pyridoxine
+adult,Male,4,0,0,1,1,None,Low,amlodipine,chlordiazepoxide
+adult,Male,5,0,0,1,1,None,Low,amlodipine,pasireotide
+adult,Male,7,0,1,0,1,None,Low,insulin glargine,nimesulide
+adult,Male,7,0,1,0,1,None,Low,insulin glargine,ranitidine
+adult,Male,7,0,1,0,1,None,Low,insulin glargine,lesinurad
+adult,Male,6,0,1,0,1,None,Low,insulin glargine,nystatin
+adult,Male,3,0,0,0,1,None,Low,metformin,methimazole
+adult,Male,5,0,0,0,1,None,Low,metformin,nitrous oxide
+adult,Male,6,0,0,0,1,None,Low,metformin,oxaprozin
+adult,Male,4,0,0,0,1,None,Low,metformin,toremifene
+adult,Male,3,0,0,0,1,None,Low,metformin,dobutamine
+adult,Female,7,0,0,1,1,None,Low,amlodipine,tedizolid phosphate
+adult,Female,5,0,0,1,1,None,Low,amlodipine,eribulin
+adult,Female,7,0,0,1,1,None,Low,amlodipine,fleroxacin
+adult,Female,4,0,0,1,0,None,Low,losartan,enoxacin
+adult,Female,3,0,0,1,0,None,Low,losartan,tianeptine
+adult,Female,5,0,0,1,0,None,Low,losartan,flumazenil
+adult,Male,4,0,0,1,1,None,Low,losartan,flurandrenolide
+adult,Male,7,0,0,1,1,None,Low,losartan,dimenhydrinate
+adult,Male,4,0,0,1,1,None,Low,losartan,cocaine
+adult,Male,3,0,0,1,1,None,Low,losartan,levofloxacin
+adult,Female,2,1,0,1,0,None,Low,amlodipine,plicamycin
+adult,Female,5,1,0,1,0,None,Low,amlodipine,roxatidine acetate
+adult,Male,7,0,0,0,0,None,Low,ciprofloxacin,sunitinib
+adult,Male,4,0,0,0,0,None,Low,ciprofloxacin,adapalene
+adult,Male,5,0,0,0,0,None,Low,ciprofloxacin,dofetilide
+adult,Male,5,0,0,0,0,Pharmacodynamic,Medium,ciprofloxacin,procainamide
+adult,Female,4,0,0,1,0,None,Low,losartan,saquinavir
+adult,Female,5,0,0,1,0,None,Low,losartan,codeine
+adult,Female,3,0,0,1,0,None,Low,losartan,nitrous oxide
+adult,Female,2,0,0,1,0,None,Low,losartan,amikacin
+adult,Female,3,1,0,0,0,None,Low,amoxicillin,tolazoline
+adult,Female,5,1,0,0,0,None,Low,amoxicillin,rifabutin
+adult,Female,3,1,0,0,0,None,Low,amoxicillin,cytarabine
+adult,Female,7,1,0,0,0,None,Low,amoxicillin,cefuroxime
+adult,Female,2,1,0,0,0,None,Low,amoxicillin,ferric pyrophosphate
+adult,Male,5,0,0,1,1,None,Low,paracetamol,isoxsuprine
+adult,Male,5,0,0,1,1,None,Low,paracetamol,oxtriphylline
+adult,Male,2,0,0,1,1,None,Low,paracetamol,molsidomine
+adult,Male,2,0,1,0,1,None,Low,glipizide,dexchlorpheniramine maleate
+adult,Male,5,0,1,0,1,None,Low,glipizide,niclosamide
+adult,Male,6,0,1,0,1,None,Low,glipizide,oxybutynin
+adult,Male,6,0,1,0,1,None,Low,glipizide,prednicarbate
+adult,Female,6,0,1,0,1,None,Low,insulin glargine,ivacaftor
+adult,Female,3,0,1,0,1,None,Low,insulin glargine,molsidomine
+adult,Female,4,0,1,0,1,None,Low,insulin glargine,flurandrenolide
+adult,Female,7,0,1,0,1,None,Low,insulin glargine,prednisolone
+adult,Female,6,0,1,0,1,None,Low,insulin glargine,delavirdine
+elderly,Female,4,0,0,0,1,None,Low,metformin,riociguat
+elderly,Female,6,0,0,0,1,None,Low,metformin,temozolomide
+elderly,Female,3,0,0,0,1,None,Low,metformin,rosiglitazone
+elderly,Female,3,0,0,0,1,None,Low,metformin,rifaximin
+elderly,Female,2,0,0,0,1,None,Low,metformin,doxercalciferol
+adult,Female,2,0,1,1,1,None,Low,insulin glargine,lomitapide
+adult,Female,3,0,1,1,1,None,Low,insulin glargine,idelalisib
+adult,Female,2,0,1,1,1,None,Low,insulin glargine,gemfibrozil
+elderly,Female,2,0,0,0,1,None,Low,insulin glargine,sonidegib
+elderly,Female,5,0,0,0,1,None,Low,insulin glargine,prednisone
+elderly,Female,4,0,0,0,1,None,Low,insulin glargine,clofazimine
+elderly,Female,2,0,0,0,1,None,Low,insulin glargine,nilvadipine
+adult,Male,7,0,0,0,1,None,Low,glipizide,propacetamol
+adult,Male,7,0,0,0,1,None,Low,glipizide,moclobemide
+adult,Female,7,0,1,0,1,None,Low,glipizide,lisdexamfetamine
+adult,Female,5,0,1,0,1,None,Low,glipizide,paclitaxel
+adult,Female,7,0,1,0,1,None,Low,glipizide,demecarium
+adult,Male,3,0,0,0,0,None,Low,tramadol,methylprednisolone
+adult,Male,4,0,0,0,0,None,Low,tramadol,ribostamycin
+adult,Male,3,0,0,0,0,None,Low,tramadol,pirbuterol
+adult,Male,3,0,0,0,0,None,Low,tramadol,chlortetracycline
+adult,Male,7,0,0,0,0,None,Low,tramadol,biperiden
+adult,Female,4,1,0,1,1,None,Low,metoprolol,allopurinol
+adult,Female,6,1,0,1,1,None,Low,metoprolol,ioflupane i-123
+adult,Female,4,0,0,0,0,None,Low,bupropion,lanreotide
+adult,Female,6,0,0,0,0,None,Low,bupropion,cimetidine
+adult,Female,6,0,0,0,0,None,Low,bupropion,desonide
+adult,Female,6,0,0,0,0,None,Low,bupropion,aceprometazine
+adult,Female,7,0,0,0,0,None,Low,bupropion,ciprofloxacin
+adult,Female,6,0,0,0,0,None,Low,amoxicillin,mequitazine
+adult,Female,4,0,0,0,0,None,Low,amoxicillin,meclizine
+adult,Female,3,0,0,0,0,None,Low,amoxicillin,methylphenidate
+adult,Female,6,0,0,0,0,None,Low,amoxicillin,hexetidine
+elderly,Male,3,0,0,0,0,None,Low,escitalopram,dolasetron
+elderly,Male,6,0,0,0,0,None,Low,escitalopram,niflumic acid
+elderly,Male,5,0,0,0,0,None,Low,escitalopram,flurazepam
+elderly,Male,2,0,0,0,0,None,Low,escitalopram,fentanyl
+adult,Male,6,1,0,0,0,None,Low,sertraline,acebutolol
+adult,Male,4,1,0,0,0,None,Low,sertraline,gallamine triethiodide
+adult,Male,5,1,0,0,0,None,Low,sertraline,deutetrabenazine
+adult,Male,4,1,0,0,0,None,Low,sertraline,lorazepam
+adult,Male,2,0,0,1,0,None,Low,metoprolol,ajmaline
+adult,Male,3,0,0,1,0,None,Low,metoprolol,everolimus
+adult,Male,3,0,0,1,0,None,Low,metoprolol,pancuronium
+adult,Male,4,0,0,1,0,None,Low,metoprolol,thioridazine
+adult,Male,7,0,0,1,0,None,Low,metoprolol,cyproheptadine
+elderly,Female,7,0,0,1,1,None,Low,losartan,fluocortolone
+elderly,Female,5,0,0,1,1,None,Low,losartan,pirenzepine
+elderly,Female,5,0,0,1,1,None,Low,losartan,chloroxine
+elderly,Female,3,0,0,1,1,None,Low,losartan,resveratrol
+elderly,Female,5,0,0,1,1,None,Low,losartan,imidafenacin
+elderly,Male,3,0,0,1,0,None,Low,losartan,cinoxacin
+elderly,Male,4,0,0,1,0,None,Low,losartan,nizatidine
+elderly,Male,7,0,0,1,0,None,Low,losartan,desipramine
+elderly,Male,4,0,0,1,0,None,Low,losartan,ethosuximide
+elderly,Male,7,0,0,1,0,None,Low,losartan,ramipril
+elderly,Male,6,0,0,1,1,None,Low,metformin,etoposide
+elderly,Male,5,0,0,1,1,None,Low,metformin,mexiletine
+elderly,Male,4,0,0,1,1,None,Low,metformin,metipranolol
+elderly,Male,4,0,0,1,1,None,Low,metformin,buprenorphine
+elderly,Female,4,1,0,0,0,None,Low,paracetamol,grazoprevir
+elderly,Female,4,1,0,0,0,None,Low,paracetamol,melperone
+elderly,Female,4,1,0,0,0,None,Low,paracetamol,tedizolid phosphate
+elderly,Female,2,1,0,0,0,None,Low,paracetamol,pyrazinamide
+elderly,Female,2,1,0,0,0,None,Low,paracetamol,barnidipine
+elderly,Male,3,0,0,0,1,None,Low,metformin,meticillin
+elderly,Male,3,0,0,0,1,None,Low,metformin,pyrazinamide
+elderly,Male,5,0,0,0,1,None,Low,metformin,hydroxyamphetamine
+adult,Female,2,0,0,1,1,None,Low,ibuprofen,lacosamide
+adult,Female,7,0,0,1,1,None,Low,ibuprofen,lormetazepam
+adult,Female,3,0,0,1,1,None,Low,ibuprofen,dinoprostone
+adult,Female,6,0,0,1,1,None,Low,ibuprofen,carboplatin
+adult,Female,7,0,0,0,0,None,Low,tramadol,demeclocycline
+adult,Female,6,0,0,0,0,None,Low,tramadol,ethosuximide
+adult,Female,5,0,0,0,0,None,Low,tramadol,magaldrate
+elderly,Male,2,0,0,0,0,None,Low,escitalopram,pipotiazine
+elderly,Male,3,0,0,0,0,None,Low,escitalopram,vismodegib
+elderly,Male,7,0,0,0,0,None,Low,escitalopram,tolvaptan
+elderly,Male,5,0,0,0,0,None,Low,escitalopram,vernakalant
+elderly,Male,4,0,0,0,0,None,Low,escitalopram,decitabine
+elderly,Female,7,1,0,0,0,None,Low,sertraline,etidocaine
+elderly,Female,4,1,0,0,0,None,Low,sertraline,trazodone
+adult,Female,4,0,1,0,1,None,Low,tramadol,doxylamine
+adult,Female,4,0,1,0,1,None,Low,tramadol,delafloxacin
+adult,Female,5,0,1,0,1,None,Low,tramadol,glycopyrronium
+adult,Female,7,0,1,0,1,None,Low,tramadol,dicyclomine
+adult,Female,6,0,1,0,1,None,Low,tramadol,sulfinpyrazone
+adult,Female,5,0,0,1,1,None,Low,glipizide,salsalate
+adult,Female,2,0,0,1,1,None,Low,glipizide,ramelteon
+adult,Female,4,0,0,1,1,None,Low,glipizide,lamotrigine
+adult,Female,7,0,0,0,1,None,Low,insulin glargine,tobramycin
+adult,Female,7,0,0,0,1,None,Low,insulin glargine,triptorelin
+adult,Female,7,0,0,0,1,None,Low,insulin glargine,tibolone
+adult,Female,3,0,0,0,1,None,Low,insulin glargine,cyclopentolate
+adult,Female,2,0,0,0,1,None,Low,insulin glargine,glutamic acid
+elderly,Male,2,0,0,0,0,None,Low,sertraline,amiloride
+elderly,Male,4,0,0,0,0,None,Low,sertraline,simvastatin
+elderly,Male,6,0,0,1,0,None,Low,metoprolol,mitomycin
+elderly,Male,2,0,0,1,0,None,Low,metoprolol,eluxadoline
+elderly,Male,2,0,0,1,0,None,Low,metoprolol,gabapentin
+elderly,Male,5,0,0,1,0,None,Low,metoprolol,fenoldopam
+elderly,Male,6,0,0,1,0,None,Low,metoprolol,eletriptan
+adult,Male,7,0,0,0,0,None,Low,ibuprofen,erythromycin
+adult,Male,2,0,0,0,0,None,Low,ibuprofen,diflorasone
+adult,Male,2,0,0,0,0,None,Low,ibuprofen,cobicistat
+adult,Male,6,0,0,0,0,None,Low,ibuprofen,pimozide
+adult,Female,6,0,0,1,1,None,Low,insulin glargine,methyldopa
+adult,Female,4,0,0,1,1,None,Low,insulin glargine,elbasvir
+adult,Female,2,0,0,0,0,Pharmacodynamic,High,sertraline,ethotoin
+adult,Female,7,0,0,0,0,None,Low,sertraline,tobramycin
+adult,Female,7,0,0,0,0,None,Low,sertraline,quazepam
+adult,Female,6,0,0,0,0,None,Low,sertraline,metronidazole
+adult,Male,5,0,0,0,1,None,Low,glipizide,nepafenac
+adult,Male,3,0,0,0,1,None,Low,glipizide,cariprazine
+adult,Male,4,0,0,0,1,None,Low,glipizide,paclitaxel
+adult,Male,7,0,0,0,1,None,Low,glipizide,paramethasone
+adult,Female,6,0,0,0,1,None,Low,paracetamol,melperone
+adult,Female,4,0,0,0,1,None,Low,paracetamol,brotizolam
+adult,Male,2,0,0,1,1,None,Low,amlodipine,cladribine
+adult,Male,7,0,0,1,1,None,Low,amlodipine,flupentixol
+adult,Female,7,0,0,1,0,None,Low,ciprofloxacin,captopril
+adult,Female,3,0,0,1,0,None,Low,ciprofloxacin,dicoumarol
+adult,Female,3,0,0,1,0,None,Low,ciprofloxacin,sibutramine
+adult,Female,4,0,0,1,0,None,Low,ciprofloxacin,everolimus
+elderly,Male,5,0,0,0,0,None,Low,sertraline,cefacetrile
+elderly,Male,7,0,0,0,0,None,Low,sertraline,iloperidone
+elderly,Male,3,0,0,0,1,None,Low,insulin glargine,sapropterin
+elderly,Male,5,0,0,0,1,None,Low,insulin glargine,bisoprolol
+elderly,Male,4,0,0,0,1,None,Low,insulin glargine,empagliflozin
+elderly,Male,5,0,0,0,1,None,Low,insulin glargine,procaine
+adult,Female,6,0,0,0,1,None,Low,sertraline,thymol
+adult,Female,2,0,0,0,1,None,Low,sertraline,molindone
+adult,Female,6,0,0,0,1,None,Low,sertraline,oxybutynin
+adult,Female,3,0,0,0,1,None,Low,sertraline,trospium
+adult,Male,2,0,0,0,1,None,Low,paracetamol,fluticasone furoate
+adult,Male,6,0,0,0,1,None,Low,paracetamol,clonidine
+adult,Male,5,0,0,0,1,None,Low,paracetamol,apomorphine
+adult,Male,5,0,0,0,1,None,Low,paracetamol,sertindole
+elderly,Male,2,0,0,1,0,None,Low,ciprofloxacin,bromazepam
+elderly,Male,6,0,0,1,0,None,Low,ciprofloxacin,tramadol
+adult,Female,7,0,0,0,0,None,Low,azithromycin,formestane
+adult,Female,7,0,0,0,0,None,Low,azithromycin,calcium glubionate anhydrous
+adult,Female,5,0,0,0,0,None,Low,azithromycin,plicamycin
+adult,Female,6,0,0,0,0,None,Low,azithromycin,tenofovir disoproxil
+adult,Female,6,0,0,0,0,None,Low,azithromycin,vortioxetine
+elderly,Male,4,0,1,0,0,None,Low,amoxicillin,sulfacytine
+elderly,Male,3,0,1,0,0,None,Low,amoxicillin,cefoperazone
+adult,Male,5,0,0,0,1,None,Low,ibuprofen,desflurane
+adult,Male,2,0,0,0,1,None,Low,ibuprofen,protriptyline
+adult,Male,4,0,0,0,1,None,Low,ibuprofen,aceprometazine
+adult,Male,4,0,0,0,1,None,Low,ibuprofen,ixabepilone
+adult,Female,6,0,0,0,1,None,Low,glipizide,reserpine
+adult,Female,6,0,0,0,1,None,Low,glipizide,ixabepilone
+adult,Female,4,0,0,0,1,None,Low,glipizide,difluocortolone
+adult,Female,3,0,0,0,1,None,Low,glipizide,pirbuterol
+adult,Female,6,0,0,1,1,None,Low,insulin glargine,calcium lactate
+adult,Female,2,0,0,1,1,None,Low,insulin glargine,allylestrenol
+adult,Female,2,0,0,1,1,None,Low,insulin glargine,bicalutamide
+adult,Female,4,0,0,1,1,None,Low,insulin glargine,codeine
+adult,Male,7,0,0,0,0,None,Low,bupropion,oxetacaine
+adult,Male,6,0,0,0,0,Pharmacokinetic,Low,bupropion,dabrafenib
+adult,Female,3,1,0,1,0,None,Low,amlodipine,trandolapril
+adult,Female,5,1,0,1,0,None,Low,amlodipine,olsalazine
+adult,Female,2,1,0,1,0,None,Low,amlodipine,vorapaxar
+elderly,Male,7,0,0,0,1,None,Low,sertraline,chlorothiazide
+elderly,Male,5,0,0,0,1,None,Low,sertraline,torasemide
+adult,Male,2,0,0,0,0,None,Low,tramadol,droxicam
+adult,Male,6,0,0,0,0,None,Low,tramadol,pipotiazine
+adult,Male,7,0,0,0,0,None,Low,tramadol,rabeprazole
+adult,Male,5,0,0,0,0,None,Low,tramadol,lisinopril
+adult,Female,2,0,0,0,1,None,Low,bupropion,edrophonium
+adult,Female,3,0,0,0,1,None,Low,bupropion,rimexolone
+adult,Female,7,0,0,0,1,None,Low,bupropion,argatroban
+adult,Female,2,0,0,0,1,None,Low,bupropion,ethynodiol diacetate
+adult,Female,3,0,0,0,1,None,Low,bupropion,oxymetazoline
+adult,Male,2,0,0,0,0,None,Low,escitalopram,prucalopride
+adult,Male,6,0,0,0,0,None,Low,escitalopram,dicyclomine
+adult,Male,4,0,0,0,1,None,Low,ciprofloxacin,nabilone
+adult,Male,5,0,0,0,1,None,Low,ciprofloxacin,atomoxetine
+adult,Male,5,0,0,0,1,None,Low,ciprofloxacin,montelukast
+adult,Female,5,0,0,0,0,None,Low,azithromycin,penbutolol
+adult,Female,7,0,0,0,0,None,Low,azithromycin,isoxsuprine
+adult,Male,7,0,0,1,0,None,Low,metoprolol,crizotinib
+adult,Male,5,0,0,1,0,None,Low,metoprolol,dronabinol
+elderly,Male,2,0,0,1,0,None,Low,losartan,ivermectin
+elderly,Male,7,0,0,1,0,None,Low,losartan,clotiazepam
+elderly,Male,5,0,0,1,0,None,Low,losartan,methysergide
+adult,Male,5,1,0,0,1,None,Low,glipizide,almasilate
+adult,Male,7,1,0,0,1,None,Low,glipizide,ofloxacin
+adult,Male,2,1,0,0,1,None,Low,glipizide,barnidipine
+adult,Male,6,1,0,0,1,None,Low,glipizide,fentanyl
+adult,Male,3,1,0,0,1,None,Low,glipizide,methyl salicylate
+elderly,Female,2,0,0,0,0,None,Low,amoxicillin,nabumetone
+elderly,Female,6,0,0,0,0,None,Low,amoxicillin,dihydrocodeine
+elderly,Female,2,0,0,0,0,None,Low,amoxicillin,trifluoperazine
+adult,Male,3,0,0,0,0,None,Low,tramadol,triflusal
+adult,Male,5,0,0,0,0,None,Low,tramadol,tretinoin
+adult,Male,2,0,0,0,0,None,Low,tramadol,dolasetron
+adult,Male,7,0,0,0,0,None,Low,tramadol,methotrexate
+adult,Female,7,0,0,1,1,None,Low,amoxicillin,irinotecan
+adult,Female,6,0,0,1,1,None,Low,amoxicillin,lisdexamfetamine
+adult,Female,3,0,0,0,1,None,Low,tramadol,roxatidine acetate
+adult,Female,7,0,0,0,1,None,Low,tramadol,bosentan
+adult,Female,2,0,0,0,1,None,Low,tramadol,trifluridine
+adult,Male,3,0,0,0,1,None,Low,tramadol,ciclopirox
+adult,Male,3,0,0,0,1,None,Low,tramadol,sitagliptin
+adult,Male,6,0,0,0,1,None,Low,tramadol,insulin glargine
+adult,Male,3,0,0,0,1,None,Low,tramadol,periciazine
+adult,Female,7,0,0,0,0,None,Low,paracetamol,ramipril
+adult,Female,3,0,0,0,0,None,Low,paracetamol,butenafine
+adult,Female,6,0,0,0,0,None,Low,paracetamol,molindone
+adult,Female,7,0,0,0,0,None,Low,paracetamol,methazolamide
+adult,Male,7,0,0,1,0,None,Low,paracetamol,chloroquine
+adult,Male,3,0,0,1,0,None,Low,paracetamol,bupivacaine
+elderly,Female,3,0,0,0,1,None,Low,metformin,carboplatin
+elderly,Female,2,0,0,0,1,None,Low,metformin,tianeptine
+elderly,Female,4,0,0,0,1,None,Low,metformin,phenylpropanolamine
+adult,Female,3,0,0,1,0,None,Low,losartan,zonisamide
+adult,Female,4,0,0,1,0,None,Low,losartan,etomidate
+elderly,Male,3,0,0,0,0,None,Low,escitalopram,bethanidine
+elderly,Male,3,0,0,0,0,None,Low,escitalopram,dapiprazole
+elderly,Male,3,0,0,0,0,None,Low,escitalopram,alimemazine
+elderly,Male,6,0,0,0,0,None,Low,escitalopram,nintedanib
+elderly,Male,3,0,0,0,0,None,Low,escitalopram,ticlopidine
+adult,Female,4,0,0,1,0,None,Low,metoprolol,calcium acetate
+adult,Female,3,0,0,1,0,None,Low,metoprolol,epirubicin
+adult,Female,5,0,0,1,0,None,Low,metoprolol,midazolam
+adult,Female,7,0,0,1,0,None,Low,metoprolol,econazole
+adult,Female,2,0,1,0,0,None,Low,paracetamol,diclofenac
+adult,Female,4,0,1,0,0,None,Low,paracetamol,fluphenazine
+adult,Female,6,0,1,0,0,None,Low,paracetamol,finasteride
+adult,Female,6,0,1,0,0,None,Low,paracetamol,ethanol
+adult,Female,2,0,0,0,1,None,Low,metformin,metocurine
+adult,Female,6,0,0,0,1,None,Low,metformin,levosimendan
+adult,Female,7,0,0,1,0,None,Low,ciprofloxacin,chlorpropamide
+adult,Female,5,0,0,1,0,None,Low,ciprofloxacin,cyclothiazide
+adult,Female,5,0,0,1,0,None,Low,ciprofloxacin,gallamine triethiodide
+adult,Female,3,0,0,0,1,None,Low,glipizide,esmolol
+adult,Female,6,0,0,0,1,None,Low,glipizide,vorapaxar
+adult,Female,6,0,0,0,1,None,Low,glipizide,benzphetamine
+adult,Female,5,0,0,0,1,None,Low,glipizide,efinaconazole
+elderly,Female,6,0,0,1,0,None,Low,paracetamol,varenicline
+elderly,Female,6,0,0,1,0,None,Low,paracetamol,amobarbital
+adult,Female,5,1,0,1,1,None,Low,insulin glargine,topotecan
+adult,Female,6,1,0,1,1,None,Low,insulin glargine,torasemide
+adult,Female,4,1,0,1,1,None,Low,insulin glargine,diazoxide
+elderly,Female,6,0,0,0,1,None,Low,insulin glargine,yohimbine
+elderly,Female,3,0,0,0,1,None,Low,insulin glargine,ixabepilone
+elderly,Female,5,0,0,0,1,None,Low,insulin glargine,brimonidine
+elderly,Female,4,0,0,0,1,None,Low,insulin glargine,rimonabant
+elderly,Female,7,0,0,0,1,None,Low,insulin glargine,pipotiazine
+adult,Male,7,0,0,0,1,None,Low,metformin,imidafenacin
+adult,Male,6,0,0,0,1,None,Low,metformin,mefloquine
+elderly,Male,6,0,0,0,0,None,Low,escitalopram,amsacrine
+elderly,Male,5,0,0,0,0,None,Low,escitalopram,riociguat
+adult,Female,7,0,0,0,0,None,Low,escitalopram,droxidopa
+adult,Female,6,0,0,0,0,None,Low,escitalopram,conivaptan
+adult,Female,5,1,0,0,1,None,Low,glipizide,nitrazepam
+adult,Female,5,1,0,0,1,None,Low,glipizide,chlorpromazine
+adult,Female,3,1,0,0,1,None,Low,glipizide,dronabinol
+adult,Male,3,0,0,0,0,None,Low,paracetamol,glyburide
+adult,Male,3,0,0,0,0,None,Low,paracetamol,niacin
+adult,Male,3,0,0,0,0,None,Low,paracetamol,pentosan polysulfate
+adult,Male,5,0,0,0,0,None,Low,paracetamol,talniflumate
+adult,Male,4,0,0,0,0,None,Low,paracetamol,remifentanil
+adult,Male,7,0,0,0,0,None,Low,escitalopram,isoxsuprine
+adult,Male,3,0,0,0,0,None,Low,escitalopram,tramadol
+adult,Male,7,0,0,0,0,None,Low,escitalopram,brivaracetam
+adult,Male,4,0,0,0,0,None,Low,escitalopram,alfentanil
+adult,Male,5,0,0,0,0,None,Low,escitalopram,loperamide
+adult,Female,6,0,0,0,0,None,Low,azithromycin,acebutolol
+adult,Female,5,0,0,0,0,None,Low,azithromycin,tenoxicam
+adult,Female,2,0,0,0,0,None,Low,azithromycin,imiquimod
+elderly,Female,6,0,0,0,1,None,Low,glipizide,chlormezanone
+elderly,Female,6,0,0,0,1,None,Low,glipizide,oxycodone
+elderly,Female,4,0,1,0,0,None,Low,amoxicillin,nafcillin
+elderly,Female,5,0,1,0,0,None,Low,amoxicillin,sertaconazole
+elderly,Female,3,0,1,0,0,None,Low,amoxicillin,sulfinpyrazone
+adult,Male,3,0,0,1,0,None,Low,losartan,nimodipine
+adult,Male,4,0,0,1,0,None,Low,losartan,ampicillin
+adult,Male,3,0,0,1,0,None,Low,losartan,citric acid
+adult,Female,4,0,0,0,0,None,Low,escitalopram,ambrisentan
+adult,Female,2,0,0,0,0,None,Low,escitalopram,diamorphine
+adult,Female,3,0,0,1,1,None,Low,insulin glargine,loratadine
+adult,Female,4,0,0,1,1,None,Low,insulin glargine,sotalol
+adult,Female,6,0,0,0,0,None,Low,tramadol,ibrutinib
+adult,Female,6,0,0,0,0,None,Low,tramadol,amiloride
+adult,Male,3,0,0,0,1,None,Low,insulin glargine,bacampicillin
+adult,Male,4,0,0,0,1,None,Low,insulin glargine,disulfiram
+adult,Female,7,0,0,0,0,None,Low,tramadol,deflazacort
+adult,Female,7,0,0,0,0,None,Low,tramadol,trimetrexate
+adult,Female,6,0,0,0,0,None,Low,tramadol,eribulin
+adult,Female,3,0,0,0,0,None,Low,tramadol,cladribine
+adult,Female,7,0,0,0,0,None,Low,tramadol,metolazone
+adult,Female,2,1,0,1,1,None,Low,insulin glargine,zolpidem
+adult,Female,3,1,0,1,1,None,Low,insulin glargine,phenoxybenzamine
+adult,Female,4,1,0,1,1,None,Low,insulin glargine,salmeterol
+adult,Female,3,1,0,1,1,None,Low,insulin glargine,mometasone
+adult,Female,3,0,0,0,0,None,Low,amoxicillin,butorphanol
+adult,Female,3,0,0,0,0,None,Low,amoxicillin,eliglustat
+adult,Female,6,0,0,0,0,None,Low,amoxicillin,dorzolamide
+adult,Female,2,0,0,0,0,None,Low,amoxicillin,proparacaine
+adult,Male,5,0,0,0,1,None,Low,amoxicillin,tramadol
+adult,Male,2,0,0,0,1,None,Low,amoxicillin,permethrin
+adult,Male,6,0,0,0,1,None,Low,amoxicillin,diazoxide
+adult,Female,5,0,0,1,0,None,Low,losartan,ruxolitinib
+adult,Female,3,0,0,1,0,None,Low,losartan,trichloroethylene
+adult,Female,7,0,0,1,0,None,Low,losartan,indinavir
+adult,Female,4,0,0,1,0,None,Low,losartan,acetazolamide
+elderly,Female,4,0,0,0,0,None,Low,paracetamol,ambenonium
+elderly,Female,6,0,0,0,0,None,Low,paracetamol,repaglinide
+elderly,Female,7,0,0,1,1,None,Low,azithromycin,etodolac
+elderly,Female,3,0,0,1,1,None,Low,azithromycin,telithromycin
+elderly,Female,4,0,0,1,1,None,Low,azithromycin,secobarbital
+elderly,Female,6,0,0,1,1,None,Low,azithromycin,procaine
+elderly,Male,7,0,0,1,0,None,Low,amlodipine,progesterone
+elderly,Male,7,0,0,1,0,None,Low,amlodipine,daclatasvir
+adult,Female,2,1,0,0,0,None,Low,ibuprofen,tolazoline
+adult,Female,6,1,0,0,0,None,Low,ibuprofen,methyl aminolevulinate
+adult,Female,2,1,0,0,0,None,Low,ibuprofen,nepafenac
+adult,Male,5,1,0,0,1,None,Low,insulin glargine,amphotericin b
+adult,Male,7,1,0,0,1,None,Low,insulin glargine,ethinylestradiol
+adult,Male,4,1,0,0,1,None,Low,insulin glargine,methscopolamine bromide
+adult,Male,6,1,0,0,1,None,Low,insulin glargine,acetaminophen
+adult,Female,6,0,1,1,0,None,Low,amlodipine,tranilast
+adult,Female,2,0,1,1,0,None,Low,amlodipine,guanfacine
+elderly,Male,5,0,0,0,1,None,Low,escitalopram,fluphenazine
+elderly,Male,3,0,0,0,1,None,Low,escitalopram,diamorphine
+elderly,Male,5,0,0,0,1,None,Low,escitalopram,sulbactam
+adult,Male,4,0,0,1,0,None,Low,losartan,mepivacaine
+adult,Male,4,0,0,1,0,None,Low,losartan,ciclesonide
+adult,Male,7,0,0,1,0,None,Low,amlodipine,methscopolamine
+adult,Male,4,0,0,1,0,None,Low,amlodipine,glimepiride
+adult,Male,2,0,0,1,0,Pharmacokinetic,Low,amlodipine,nilotinib
+adult,Male,4,0,0,1,0,None,Low,amlodipine,tobramycin
+adult,Male,7,0,0,1,0,None,Low,amlodipine,cortisone acetate
+adult,Male,4,0,0,0,1,None,Low,glipizide,selegiline
+adult,Male,7,0,0,0,1,None,Low,glipizide,phenylalanine
+adult,Female,7,0,0,0,0,None,Low,amoxicillin,eplerenone
+adult,Female,2,0,0,0,0,None,Low,amoxicillin,meclizine
+adult,Female,2,0,0,0,0,None,Low,amoxicillin,lumacaftor
+adult,Female,6,0,0,0,0,None,Low,amoxicillin,repaglinide
+adult,Female,4,0,0,0,0,None,Low,amoxicillin,isoniazid
+elderly,Female,3,0,0,0,0,None,Low,amoxicillin,ridogrel
+elderly,Female,6,0,0,0,0,None,Low,amoxicillin,nalbuphine
+adult,Male,4,1,0,1,0,None,Low,metoprolol,sonidegib
+adult,Male,2,1,0,1,0,None,Low,metoprolol,triazolam
+adult,Male,4,1,0,1,0,None,Low,metoprolol,etodolac
+adult,Male,6,1,0,1,0,None,Low,metoprolol,irinotecan
+adult,Male,7,0,0,0,0,None,Low,ibuprofen,tedizolid phosphate
+adult,Male,6,0,0,0,0,None,Low,ibuprofen,guanfacine
+adult,Male,7,0,0,0,0,None,Low,ibuprofen,nilvadipine
+adult,Male,3,0,0,0,0,None,Low,ibuprofen,dihydroergotamine
+adult,Male,4,0,0,1,0,None,Low,escitalopram,grazoprevir
+adult,Male,7,0,0,1,0,None,Low,escitalopram,chlorothiazide
+adult,Female,2,0,0,1,1,None,Low,metformin,indinavir
+adult,Female,2,0,0,1,1,None,Low,metformin,mefloquine
+adult,Male,4,0,0,0,0,None,Low,bupropion,sertraline
+adult,Male,6,0,0,0,0,None,Low,bupropion,cortisone acetate
+adult,Male,7,0,0,0,0,None,Low,ciprofloxacin,metyrosine
+adult,Male,4,0,0,0,0,None,Low,ciprofloxacin,mometasone
+elderly,Female,6,0,0,0,1,None,Low,metformin,paclitaxel
+elderly,Female,2,0,0,0,1,None,Low,metformin,sodium bicarbonate
+elderly,Female,5,0,0,0,1,None,Low,metformin,tazarotene
+elderly,Female,7,0,0,0,1,None,Low,metformin,molsidomine
+elderly,Female,3,0,0,0,1,None,Low,metformin,glimepiride
+adult,Male,5,0,0,0,0,None,Low,paracetamol,pancuronium
+adult,Male,4,0,0,0,0,None,Low,paracetamol,verapamil
+adult,Male,4,0,0,0,0,None,Low,paracetamol,pentolinium
+adult,Male,3,0,0,0,0,None,Low,paracetamol,pergolide
+adult,Male,7,0,0,0,0,None,Low,paracetamol,clofazimine
+adult,Male,7,0,0,1,0,None,Low,metoprolol,tofacitinib
+adult,Male,6,0,0,1,0,None,Low,metoprolol,nicotinamide
+adult,Male,7,0,0,1,0,None,Low,metoprolol,biperiden
+elderly,Female,2,1,0,0,0,None,Low,tramadol,disulfiram
+elderly,Female,7,1,0,0,0,None,Low,tramadol,teriflunomide
+elderly,Female,3,1,0,0,0,None,Low,tramadol,salmeterol
+elderly,Female,6,1,0,0,0,None,Low,tramadol,pipotiazine
+elderly,Female,2,1,0,0,0,None,Low,tramadol,lisdexamfetamine
+elderly,Male,4,0,0,0,0,None,Low,escitalopram,sulfasalazine
+elderly,Male,3,0,0,0,0,None,Low,escitalopram,nepafenac
+elderly,Male,6,0,0,0,0,None,Low,escitalopram,itraconazole
+elderly,Male,7,0,0,0,0,None,Low,escitalopram,fluorouracil
+adult,Male,5,1,0,0,0,None,Low,ibuprofen,trandolapril
+adult,Male,2,1,0,0,0,None,Low,ibuprofen,sorafenib
+adult,Male,5,1,0,0,0,None,Low,ibuprofen,piroxicam
+adult,Male,5,1,0,0,0,None,Low,ibuprofen,bopindolol
+adult,Male,5,0,0,1,0,None,Low,metoprolol,azidocillin
+adult,Male,3,0,0,1,0,None,Low,metoprolol,voxilaprevir
+adult,Male,6,0,0,1,0,None,Low,losartan,tinidazole
+adult,Male,6,0,0,1,0,None,Low,losartan,roflumilast
+adult,Male,6,0,0,1,0,None,Low,losartan,flurandrenolide
+adult,Male,3,0,0,0,0,None,Low,tramadol,prasugrel
+adult,Male,6,0,0,0,0,None,Low,tramadol,mecamylamine
+adult,Male,4,1,0,0,0,None,Low,ibuprofen,fluocinonide
+adult,Male,2,1,0,0,0,None,Low,ibuprofen,tolterodine
+adult,Male,2,1,0,0,0,None,Low,ibuprofen,lenvatinib
+adult,Male,7,1,0,0,0,None,Low,ibuprofen,oxazepam
+adult,Male,6,1,0,0,0,None,Low,ibuprofen,anastrozole
+adult,Male,6,0,1,0,0,None,Low,escitalopram,cefpodoxime
+adult,Male,6,0,1,0,0,None,Low,escitalopram,orphenadrine
+adult,Male,7,0,1,0,0,None,Low,escitalopram,aminophylline
+adult,Male,4,0,1,0,0,None,Low,escitalopram,ambrisentan
+adult,Female,6,0,0,0,0,None,Low,amoxicillin,deflazacort
+adult,Female,6,0,0,0,0,None,Low,amoxicillin,darunavir
+adult,Female,4,0,0,0,0,None,Low,amoxicillin,diphenhydramine
+adult,Female,7,0,0,0,0,None,Low,amoxicillin,cevimeline
+adult,Female,5,0,0,0,0,None,Low,ciprofloxacin,niclosamide
+adult,Female,6,0,0,0,0,None,Low,ciprofloxacin,riociguat
+adult,Female,7,0,0,0,0,None,Low,ciprofloxacin,bopindolol
+adult,Female,3,0,0,0,0,None,Low,ciprofloxacin,enasidenib
+elderly,Male,4,0,0,0,0,None,Low,ibuprofen,fludarabine
+elderly,Male,6,0,0,0,0,None,Low,ibuprofen,difluprednate
+elderly,Male,6,0,0,0,0,None,Low,ibuprofen,dimenhydrinate
+elderly,Male,4,0,0,0,0,None,Low,ibuprofen,ioflupane i-123
+elderly,Male,6,0,0,0,0,None,Low,ibuprofen,niflumic acid
+elderly,Female,6,0,0,1,0,None,Low,ciprofloxacin,trimipramine
+elderly,Female,6,0,0,1,0,None,Low,ciprofloxacin,metoprolol
+adult,Male,3,0,0,1,0,None,Low,amlodipine,paramethadione
+adult,Male,4,0,0,1,0,None,Low,amlodipine,nilutamide
+adult,Male,4,0,0,1,0,None,Low,amlodipine,hexetidine
+adult,Male,7,0,0,1,0,None,Low,ibuprofen,hydrocodone
+adult,Male,5,0,0,1,0,None,Low,ibuprofen,atazanavir
+adult,Male,3,0,0,1,0,None,Low,ibuprofen,tipranavir
+adult,Male,6,0,0,1,0,None,Low,ibuprofen,clozapine
+adult,Male,2,0,0,1,0,None,Low,ibuprofen,pimecrolimus
+elderly,Male,5,0,0,0,0,None,Low,tramadol,bupropion
+elderly,Male,3,0,0,0,0,None,Low,tramadol,bupropion
+elderly,Male,7,0,0,0,0,None,Low,tramadol,fluocinolone acetonide
+adult,Female,2,0,0,0,0,None,Low,bupropion,trichloroethylene
+adult,Female,3,0,0,0,0,None,Low,bupropion,dezocine
+adult,Male,4,0,0,0,0,None,Low,tramadol,permethrin
+adult,Male,5,0,0,0,0,None,Low,tramadol,nateglinide
+adult,Male,7,0,0,0,1,None,Low,insulin glargine,milnacipran
+adult,Male,7,0,0,0,1,None,Low,insulin glargine,memantine
+adult,Male,2,0,0,0,1,None,Low,insulin glargine,verapamil
+adult,Male,2,0,0,0,1,None,Low,insulin glargine,pirenzepine
+adult,Male,4,0,0,0,1,None,Low,insulin glargine,hydroxyprogesterone caproate
+adult,Female,7,0,0,1,1,None,Low,losartan,terazosin
+adult,Female,4,0,0,1,1,None,Low,losartan,risperidone
+adult,Female,6,0,0,0,0,None,Low,ciprofloxacin,norepinephrine
+adult,Female,2,0,0,0,0,None,Low,ciprofloxacin,chlorthalidone
+adult,Female,4,0,0,0,0,None,Low,paracetamol,netupitant
+adult,Female,2,0,0,0,0,None,Low,paracetamol,trovafloxacin
+adult,Female,2,0,0,0,0,None,Low,paracetamol,prochlorperazine
+adult,Female,2,0,0,0,1,None,Low,glipizide,alfentanil
+adult,Female,4,0,0,0,1,None,Low,glipizide,chlordiazepoxide
+adult,Female,5,0,0,0,1,None,Low,glipizide,rotigotine
+adult,Female,3,0,0,0,1,None,Low,glipizide,lormetazepam
+adult,Female,3,0,0,1,0,None,Low,amoxicillin,spirapril
+adult,Female,5,0,0,1,0,None,Low,amoxicillin,ritonavir
+adult,Female,3,0,0,1,0,None,Low,amoxicillin,nortriptyline
+adult,Female,3,0,0,1,0,None,Low,amoxicillin,dihydrocodeine
+adult,Female,7,0,0,1,0,None,Low,amoxicillin,propranolol
+adult,Female,2,0,0,1,0,None,Low,losartan,progesterone
+adult,Female,6,0,0,1,0,None,Low,losartan,icotinib
+adult,Male,6,0,0,0,0,None,Low,bupropion,methylergometrine
+adult,Male,7,0,0,0,0,None,Low,bupropion,allopurinol
+adult,Male,4,0,0,0,0,None,Low,azithromycin,lisinopril
+adult,Male,6,0,0,0,0,None,Low,azithromycin,bacitracin
+adult,Male,6,0,0,0,0,None,Low,azithromycin,bacitracin
+adult,Male,6,0,0,0,0,None,Low,azithromycin,ketamine
+adult,Male,4,0,0,0,0,None,Low,azithromycin,fenoterol
+adult,Male,5,0,0,0,0,None,Low,azithromycin,terlipressin
+adult,Male,5,0,0,0,0,None,Low,azithromycin,ximelagatran
+adult,Male,5,0,0,0,0,None,Low,azithromycin,astemizole
+elderly,Male,5,1,0,0,0,None,Low,bupropion,gadobenic acid
+elderly,Male,3,1,0,0,0,None,Low,bupropion,amiodarone
+elderly,Male,2,1,0,0,0,None,Low,bupropion,gefitinib
+elderly,Male,6,1,0,0,0,None,Low,bupropion,moxifloxacin
+elderly,Female,2,0,1,0,0,None,Low,azithromycin,theophylline
+elderly,Female,6,0,1,0,0,None,Low,azithromycin,sulindac
+elderly,Female,2,0,1,0,0,None,Low,azithromycin,silodosin
+elderly,Female,4,0,1,0,0,None,Low,azithromycin,olanzapine
+elderly,Female,6,0,1,0,0,None,Low,azithromycin,arbekacin
+adult,Male,6,0,0,1,0,None,Low,losartan,diphenoxylate
+adult,Male,5,0,0,1,0,None,Low,losartan,fluvoxamine
+adult,Male,6,0,0,1,0,None,Low,losartan,quetiapine
+adult,Male,7,0,0,1,0,None,Low,losartan,lacosamide
+adult,Female,7,0,0,1,0,None,Low,losartan,ubidecarenone
+adult,Female,6,0,0,1,0,None,Low,losartan,celiprolol
+adult,Female,2,0,0,1,0,None,Low,losartan,oxymetazoline
+adult,Male,3,0,0,0,0,None,Low,escitalopram,calcium citrate
+adult,Male,5,0,0,0,0,None,Low,escitalopram,ambenonium
+elderly,Male,7,0,0,0,0,None,Low,tramadol,irbesartan
+elderly,Male,2,0,0,0,0,None,Low,tramadol,ceritinib
+elderly,Male,7,0,0,0,0,None,Low,tramadol,remifentanil
+elderly,Male,3,0,0,0,0,None,Low,tramadol,afatinib
+elderly,Male,6,0,0,0,0,None,Low,tramadol,dextromethorphan
+adult,Male,4,0,0,1,1,None,Low,insulin glargine,chloroxine
+adult,Male,2,0,0,1,1,None,Low,insulin glargine,tolbutamide
+adult,Male,4,0,0,1,1,None,Low,insulin glargine,ibutilide
+adult,Male,7,0,0,1,1,None,Low,insulin glargine,histrelin
+adult,Male,4,0,0,1,1,None,Low,insulin glargine,saxagliptin
+adult,Male,5,0,0,1,0,None,Low,paracetamol,paracetamol
+adult,Male,4,0,0,1,0,None,Low,paracetamol,trabectedin
+adult,Male,5,0,0,1,0,None,Low,paracetamol,dezocine
+adult,Male,7,0,0,1,0,None,Low,paracetamol,olmesartan
+elderly,Female,4,0,0,0,0,None,Low,ciprofloxacin,atazanavir
+elderly,Female,3,0,0,0,0,None,Low,ciprofloxacin,brinzolamide
+elderly,Female,6,0,0,0,0,None,Low,ciprofloxacin,guanethidine
+elderly,Female,3,0,0,0,0,None,Low,ciprofloxacin,perphenazine
+elderly,Female,2,0,0,0,0,None,Low,ciprofloxacin,histamine
+adult,Male,4,1,0,0,1,None,Low,bupropion,caffeine
+adult,Male,2,1,0,0,1,None,Low,bupropion,ibrutinib
+adult,Male,7,1,0,0,1,None,Low,bupropion,pravastatin
+adult,Male,4,1,0,0,1,None,Low,bupropion,dextroamphetamine
+adult,Male,6,1,0,0,1,None,Low,bupropion,methenamine
+adult,Female,7,0,0,0,0,None,Low,sertraline,indomethacin
+adult,Female,5,0,0,0,0,None,Low,sertraline,procyclidine
+adult,Female,7,0,0,0,0,None,Low,sertraline,vortioxetine
+elderly,Male,7,0,0,0,1,None,Low,glipizide,clemastine
+elderly,Male,4,0,0,0,1,None,Low,glipizide,minoxidil
+elderly,Male,4,0,0,0,1,None,Low,glipizide,imatinib
+elderly,Male,4,0,0,0,1,None,Low,glipizide,tolperisone
+elderly,Male,6,0,0,0,1,Pharmacokinetic,Low,glipizide,histrelin
+elderly,Female,4,1,0,1,0,None,Low,losartan,domperidone
+elderly,Female,7,1,0,1,0,None,Low,losartan,levorphanol
+adult,Female,3,0,0,1,1,None,Low,metformin,hyoscyamine
+adult,Female,6,0,0,1,1,None,Low,metformin,cinoxacin
+elderly,Male,7,0,0,1,0,None,Low,amoxicillin,phenylpropanolamine
+elderly,Male,5,0,0,1,0,None,Low,amoxicillin,sacubitril
+adult,Female,4,0,0,1,0,None,Low,losartan,desvenlafaxine
+adult,Female,2,0,0,1,0,Pharmacodynamic,Medium,losartan,quinine
+adult,Male,3,0,0,0,1,None,Low,glipizide,calcium glubionate anhydrous
+adult,Male,6,0,0,0,1,None,Low,glipizide,fulvestrant
+adult,Female,3,0,0,0,0,None,Low,ibuprofen,methoxsalen
+adult,Female,4,0,0,0,0,None,Low,ibuprofen,metoprolol
+adult,Female,3,0,0,0,0,None,Low,ibuprofen,benzocaine
+adult,Female,7,0,0,0,0,None,Low,ibuprofen,diazepam
+adult,Female,4,0,0,0,0,None,Low,ibuprofen,vilazodone
+adult,Female,3,0,0,0,0,None,Low,ibuprofen,afatinib
+adult,Male,2,0,0,0,0,None,Low,amoxicillin,trichlormethiazide
+adult,Male,2,0,0,0,0,None,Low,amoxicillin,lomefloxacin
+adult,Male,2,0,0,0,0,None,Low,amoxicillin,avanafil
+adult,Male,4,0,0,0,0,None,Low,amoxicillin,ambroxol
+adult,Male,7,0,0,0,0,None,Low,amoxicillin,perhexiline
+adult,Male,2,0,0,0,1,None,Low,tramadol,yohimbine
+adult,Male,6,0,0,0,1,None,Low,tramadol,balsalazide
+adult,Male,4,0,0,0,1,None,Low,tramadol,phentolamine
+adult,Male,5,0,0,0,1,None,Low,tramadol,miltefosine
+adult,Female,5,0,0,1,1,None,Low,metformin,ouabain
+adult,Female,7,0,0,1,1,None,Low,metformin,imidafenacin
+adult,Female,7,0,0,1,1,None,Low,metformin,edetic acid
+elderly,Male,6,0,0,0,0,None,Low,paracetamol,dinoprostone
+elderly,Male,7,0,0,0,0,None,Low,paracetamol,ribostamycin
+elderly,Male,3,0,0,0,0,None,Low,paracetamol,sitagliptin
+elderly,Male,6,0,0,0,0,None,Low,paracetamol,proguanil
+elderly,Male,7,0,0,0,0,None,Low,paracetamol,nilvadipine
+adult,Male,2,0,1,1,1,None,Low,losartan,tolazamide
+adult,Male,4,0,1,1,1,None,Low,losartan,torasemide
+adult,Male,7,0,1,1,1,None,Low,losartan,prednisolone
+adult,Male,6,0,1,1,1,None,Low,losartan,boceprevir
+adult,Male,4,0,1,1,1,None,Low,losartan,halothane
+adult,Female,5,0,0,0,0,None,Low,ciprofloxacin,physostigmine
+adult,Female,3,0,0,0,0,None,Low,ciprofloxacin,daclatasvir
+adult,Female,5,0,0,0,0,None,Low,ciprofloxacin,elbasvir
+adult,Female,5,0,0,0,0,None,Low,ciprofloxacin,cisapride
+adult,Male,3,0,0,0,0,None,Low,amoxicillin,eslicarbazepine acetate
+adult,Male,3,0,0,0,0,None,Low,amoxicillin,metipranolol
+adult,Male,2,0,0,0,0,None,Low,amoxicillin,unoprostone
+adult,Male,7,0,0,0,0,None,Low,amoxicillin,tolterodine
+adult,Male,5,0,0,0,0,None,Low,amoxicillin,anastrozole
+adult,Female,7,0,0,0,1,None,Low,metformin,alendronic acid
+adult,Female,3,0,0,0,1,None,Low,metformin,primidone
+adult,Female,4,0,0,0,1,None,Low,metformin,adapalene
+adult,Female,5,0,0,0,1,None,Low,metformin,cariprazine
+adult,Male,3,0,0,1,1,None,Low,metoprolol,colistimethate
+adult,Male,3,0,0,1,1,None,Low,metoprolol,salmeterol
+adult,Male,5,0,0,1,1,None,Low,metoprolol,pirfenidone
+adult,Male,6,0,0,1,1,None,Low,metoprolol,nintedanib
+adult,Male,5,0,0,1,1,None,Low,metoprolol,bepridil
+adult,Male,5,0,0,0,1,None,Low,metformin,naratriptan
+adult,Male,2,0,0,0,1,None,Low,metformin,butamben
+elderly,Female,3,0,0,0,1,None,Low,sertraline,paroxetine
+elderly,Female,6,0,0,0,1,None,Low,sertraline,flecainide
+elderly,Female,4,0,0,0,1,None,Low,sertraline,fluspirilene
+elderly,Female,4,0,0,0,1,None,Low,sertraline,salmeterol
+elderly,Female,4,0,0,0,1,None,Low,sertraline,parecoxib
+adult,Female,5,0,0,1,1,None,Low,metformin,tiapride
+adult,Female,6,0,0,1,1,None,Low,metformin,posaconazole
+adult,Female,7,0,0,1,1,None,Low,metformin,terbinafine
+adult,Female,3,0,0,1,1,None,Low,metformin,aceprometazine
+adult,Female,2,0,0,1,1,None,Low,metformin,lapatinib
+elderly,Male,4,1,0,0,1,None,Low,insulin glargine,hesperetin
+elderly,Male,3,1,0,0,1,None,Low,insulin glargine,clobetasone
+elderly,Male,5,1,0,0,1,None,Low,insulin glargine,silodosin
+elderly,Male,6,1,0,0,1,None,Low,insulin glargine,bupranolol
+elderly,Male,7,0,0,1,1,None,Low,metformin,tedizolid phosphate
+elderly,Male,6,0,0,1,1,None,Low,metformin,udenafil
+elderly,Male,7,0,0,1,1,None,Low,metformin,terazosin
+elderly,Male,4,0,0,1,1,None,Low,metformin,masoprocol
+elderly,Male,7,0,0,1,1,None,Low,metformin,ipratropium
+elderly,Male,4,0,0,1,1,None,Low,amlodipine,degarelix
+elderly,Male,5,0,0,1,1,None,Low,amlodipine,trimethaphan
+elderly,Male,3,0,0,1,1,None,Low,amlodipine,histrelin
+elderly,Male,2,0,0,1,1,None,Low,amlodipine,nitrendipine
+adult,Female,4,0,0,0,1,None,Low,insulin glargine,ketazolam
+adult,Female,2,0,0,0,1,None,Low,insulin glargine,methysergide
+elderly,Female,6,0,0,0,0,None,Low,paracetamol,fenbufen
+elderly,Female,3,0,0,0,0,None,Low,paracetamol,itraconazole
+elderly,Female,2,0,0,0,0,None,Low,paracetamol,phentermine
+adult,Female,4,0,1,1,0,None,Low,bupropion,lansoprazole
+adult,Female,7,0,1,1,0,None,Low,bupropion,meloxicam
+adult,Female,4,0,1,1,0,None,Low,bupropion,tasimelteon
+adult,Female,7,0,1,1,0,None,Low,bupropion,levobupivacaine
+elderly,Female,3,0,0,1,0,None,Low,amlodipine,eribulin
+elderly,Female,6,0,0,1,0,None,Low,amlodipine,telaprevir
+elderly,Female,3,0,0,1,0,None,Low,amlodipine,lenvatinib
+elderly,Female,6,0,0,1,0,None,Low,amlodipine,estrone
+adult,Male,7,0,0,1,1,None,Low,losartan,sulfinpyrazone
+adult,Male,3,0,0,1,1,None,Low,losartan,barnidipine
+adult,Male,3,0,0,1,0,None,Low,amlodipine,flumazenil
+adult,Male,7,0,0,1,0,None,Low,amlodipine,chlorpheniramine
+adult,Male,3,0,0,1,0,None,Low,amlodipine,conivaptan
+adult,Male,6,0,0,1,0,None,Low,amlodipine,eplerenone
+adult,Female,6,0,0,0,0,None,Low,bupropion,hydroxyamphetamine
+adult,Female,3,0,0,0,0,None,Low,bupropion,echothiophate
+elderly,Female,7,0,1,0,0,None,Low,ciprofloxacin,dasabuvir
+elderly,Female,3,0,1,0,0,None,Low,ciprofloxacin,histamine
+elderly,Female,7,0,1,0,0,None,Low,ciprofloxacin,propofol
+elderly,Female,2,0,1,0,0,None,Low,ciprofloxacin,nicergoline
+elderly,Female,5,0,1,0,0,None,Low,ciprofloxacin,pargyline
+adult,Male,4,0,0,1,0,None,Low,amoxicillin,elvitegravir
+adult,Male,5,0,0,1,0,None,Low,amoxicillin,fluphenazine
+adult,Male,3,0,0,1,0,None,Low,amoxicillin,epoprostenol
+elderly,Female,4,0,0,1,0,None,Low,losartan,sacubitril
+elderly,Female,7,0,0,1,0,None,Low,losartan,bumetanide
+elderly,Female,6,0,0,1,0,None,Low,losartan,masoprocol
+adult,Female,3,0,0,1,1,None,Low,insulin glargine,toloxatone
+adult,Female,2,0,0,1,1,None,Low,insulin glargine,iron sucrose
+adult,Female,5,0,0,1,1,None,Low,insulin glargine,verteporfin
+adult,Female,7,0,0,0,1,None,Low,glipizide,chloral hydrate
+adult,Female,2,0,0,0,1,None,Low,glipizide,butoconazole
+adult,Female,5,0,0,0,1,None,Low,glipizide,trandolapril
+adult,Female,6,0,0,0,1,None,Low,glipizide,polythiazide
+adult,Female,4,0,0,0,1,None,Low,glipizide,paritaprevir
+elderly,Male,6,0,0,0,1,None,Low,metformin,chloroxine
+elderly,Male,5,0,0,0,1,Pharmacodynamic,Medium,metformin,fleroxacin
+elderly,Male,7,0,0,0,1,None,Low,metformin,bosentan
+elderly,Male,2,0,0,0,1,None,Low,metformin,droxidopa
+elderly,Female,2,0,0,1,0,None,Low,metoprolol,imidafenacin
+elderly,Female,5,0,0,1,0,None,Low,metoprolol,captopril
+elderly,Female,6,0,0,1,0,None,Low,metoprolol,methantheline
+adult,Male,5,0,0,1,1,None,Low,losartan,bupivacaine
+adult,Male,6,0,0,1,1,None,Low,losartan,dimenhydrinate
+adult,Male,6,0,0,1,1,None,Low,losartan,levofloxacin
+adult,Male,7,0,0,1,1,None,Low,metoprolol,nitroglycerin
+adult,Male,2,0,0,1,1,None,Low,metoprolol,tibolone
+adult,Male,6,0,0,1,0,None,Low,amlodipine,ibutilide
+adult,Male,5,0,0,1,0,None,Low,amlodipine,doxylamine
+adult,Female,6,0,0,0,0,None,Low,ciprofloxacin,temazepam
+adult,Female,7,0,0,0,0,None,Low,ciprofloxacin,losartan
+adult,Female,6,0,0,0,0,None,Low,ciprofloxacin,molindone
+adult,Female,7,0,0,0,0,None,Low,ciprofloxacin,mercaptopurine
+adult,Female,4,0,0,0,0,None,Low,ciprofloxacin,chlorothiazide
+adult,Female,5,0,0,1,0,None,Low,metoprolol,flurbiprofen
+adult,Female,7,0,0,1,0,None,Low,metoprolol,trolamine salicylate
+adult,Female,7,0,0,0,0,None,Low,azithromycin,brinzolamide
+adult,Female,6,0,0,0,0,None,Low,azithromycin,alclometasone
+adult,Female,7,0,0,0,0,None,Low,azithromycin,secobarbital
+adult,Female,3,0,0,0,0,None,Low,azithromycin,clenbuterol
+adult,Female,7,0,0,0,0,None,Low,azithromycin,pranlukast
+adult,Male,5,0,0,1,0,None,Low,ciprofloxacin,enflurane
+adult,Male,4,0,0,1,0,None,Low,ciprofloxacin,benidipine
+adult,Male,4,0,0,1,0,None,Low,ciprofloxacin,sonidegib
+adult,Male,5,0,0,1,0,None,Low,ciprofloxacin,dexamethasone
+adult,Male,7,0,0,1,0,None,Low,ciprofloxacin,tavaborole
+adult,Female,4,0,0,1,0,None,Low,losartan,phenylephrine
+adult,Female,4,0,0,1,0,None,Low,losartan,difluprednate
+adult,Female,7,0,0,1,0,None,Low,losartan,icosapent ethyl
+adult,Female,3,0,0,1,0,None,Low,losartan,amodiaquine
+elderly,Male,6,0,0,0,0,None,Low,bupropion,ledipasvir
+elderly,Male,7,0,0,0,0,None,Low,bupropion,tolcapone
+elderly,Male,2,0,0,0,0,None,Low,bupropion,sitagliptin
+elderly,Male,5,0,0,0,0,None,Low,bupropion,escitalopram
+adult,Male,7,0,0,0,0,None,Low,paracetamol,calcifediol
+adult,Male,7,0,0,0,0,None,Low,paracetamol,vismodegib
+adult,Male,6,0,0,0,0,None,Low,paracetamol,bopindolol
+adult,Male,6,0,0,0,0,None,Low,paracetamol,cyclosporine
+adult,Male,6,0,0,0,0,None,Low,paracetamol,ecabet
+adult,Male,4,0,0,0,1,None,Low,metformin,cefacetrile
+adult,Male,7,0,0,0,1,None,Low,metformin,efavirenz
+adult,Male,2,0,0,0,1,None,Low,metformin,trimethadione
+adult,Male,3,0,0,0,1,None,Low,metformin,eribulin
+adult,Male,3,0,0,0,1,None,Low,amoxicillin,pindolol
+adult,Male,4,0,0,0,1,None,Low,amoxicillin,ulipristal
+adult,Male,4,0,0,0,1,None,Low,amoxicillin,trabectedin
+adult,Male,6,0,0,0,1,None,Low,amoxicillin,carprofen
+elderly,Female,6,0,0,1,1,None,Low,tramadol,clenbuterol
+elderly,Female,6,0,0,1,1,None,Low,tramadol,trabectedin
+elderly,Female,3,0,0,1,1,None,Low,tramadol,bendroflumethiazide
+elderly,Female,4,0,0,1,1,None,Low,tramadol,erythromycin
+adult,Female,6,1,0,0,1,None,Low,insulin glargine,tixocortol
+adult,Female,4,1,0,0,1,None,Low,insulin glargine,cortisone acetate
+adult,Male,2,0,0,0,1,None,Low,ciprofloxacin,chlorzoxazone
+adult,Male,3,0,0,0,1,None,Low,ciprofloxacin,saquinavir
+adult,Male,2,0,0,0,1,None,Low,ciprofloxacin,phenylpropanolamine
+adult,Male,7,0,0,0,1,None,Low,ciprofloxacin,methotrimeprazine
+adult,Male,7,0,0,0,1,None,Low,ciprofloxacin,kanamycin
+elderly,Female,6,0,0,1,0,None,Low,metoprolol,diflunisal
+elderly,Female,6,0,0,1,0,None,Low,metoprolol,ofloxacin
+elderly,Female,4,0,0,1,0,None,Low,metoprolol,acitretin
+elderly,Female,3,0,0,1,0,None,Low,metoprolol,benzylpenicillin
+elderly,Female,6,0,0,1,0,None,Low,metoprolol,clenbuterol
+elderly,Female,5,0,0,0,0,None,Low,escitalopram,lomitapide
+elderly,Female,7,0,0,0,0,None,Low,escitalopram,guanfacine
+elderly,Female,4,0,0,0,0,None,Low,escitalopram,gestodene
+elderly,Female,6,0,0,0,0,None,Low,escitalopram,topotecan
+adult,Male,7,0,0,0,0,None,Low,azithromycin,fenofibrate
+adult,Male,2,0,0,0,0,None,Low,azithromycin,pasireotide
+adult,Male,4,0,0,0,0,None,Low,azithromycin,mexiletine
+adult,Male,7,0,0,0,0,None,Low,azithromycin,flunarizine
+adult,Male,6,0,0,0,0,None,Low,bupropion,beclomethasone dipropionate
+adult,Male,7,0,0,0,0,None,Low,bupropion,terlipressin
+adult,Male,7,0,0,0,0,None,Low,bupropion,mirtazapine
+adult,Male,7,0,0,1,0,Pharmacokinetic,Medium,amlodipine,pazopanib
+adult,Male,2,0,0,1,0,None,Low,amlodipine,flecainide
+adult,Male,2,0,0,1,0,None,Low,amlodipine,promethazine
+adult,Male,6,0,0,1,0,None,Low,amlodipine,glutamic acid
+adult,Male,2,0,0,1,0,None,Low,amlodipine,gabapentin
+adult,Female,2,0,0,1,0,None,Low,amlodipine,sodium bicarbonate
+adult,Female,4,0,0,1,0,None,Low,amlodipine,triflupromazine
+elderly,Male,3,0,0,1,1,None,Low,azithromycin,baclofen
+elderly,Male,7,0,0,1,1,None,Low,azithromycin,lansoprazole
+elderly,Male,7,0,0,1,1,None,Low,azithromycin,dezocine
+elderly,Male,7,0,0,1,1,None,Low,azithromycin,acetylsalicylic acid
+adult,Female,2,0,0,1,0,None,Low,losartan,lenvatinib
+adult,Female,4,0,0,1,0,None,Low,losartan,chlorpropamide
+adult,Female,5,0,0,1,0,None,Low,losartan,polythiazide
+elderly,Male,7,0,0,1,1,None,Low,metformin,pimozide
+elderly,Male,2,0,0,1,1,None,Low,metformin,citric acid
+elderly,Male,3,0,0,1,1,None,Low,metformin,rotigotine
+elderly,Female,5,0,0,1,1,None,Low,azithromycin,imiquimod
+elderly,Female,7,0,0,1,1,None,Low,azithromycin,clorazepic acid
+elderly,Female,4,0,0,1,1,None,Low,azithromycin,masoprocol
+elderly,Female,6,0,0,1,1,None,Low,azithromycin,delavirdine
+adult,Male,3,0,0,0,0,None,Low,sertraline,bexarotene
+adult,Male,5,0,0,0,0,None,Low,sertraline,butamben
+adult,Male,3,0,0,0,0,None,Low,sertraline,cilostazol
+adult,Male,5,0,0,0,0,None,Low,sertraline,pirfenidone
+adult,Male,5,0,0,0,0,None,Low,sertraline,nisoldipine
+adult,Female,3,0,1,1,0,None,Low,tramadol,molsidomine
+adult,Female,3,0,1,1,0,None,Low,tramadol,alosetron
+adult,Male,5,0,0,0,0,None,Low,azithromycin,panobinostat
+adult,Male,3,0,0,0,0,None,Low,azithromycin,nadolol
+elderly,Male,2,0,0,1,0,None,Low,losartan,flunisolide
+elderly,Male,6,0,0,1,0,None,Low,losartan,fondaparinux
+elderly,Male,7,0,0,1,0,None,Low,losartan,glisoxepide
+elderly,Male,4,0,0,1,0,None,Low,losartan,latanoprost
+adult,Female,5,0,0,1,0,None,Low,metoprolol,indomethacin
+adult,Female,4,0,0,1,0,None,Low,metoprolol,levofloxacin
+adult,Female,3,0,0,1,0,None,Low,metoprolol,gentamicin
+adult,Female,7,0,0,1,0,None,Low,metoprolol,mebendazole
+adult,Male,4,0,0,1,0,None,Low,losartan,cyclobenzaprine
+adult,Male,7,0,0,1,0,None,Low,losartan,lapatinib
+adult,Female,7,0,0,1,0,None,Low,escitalopram,lomitapide
+adult,Female,5,0,0,1,0,None,Low,escitalopram,levosimendan
+elderly,Female,6,0,0,0,0,None,Low,paracetamol,methylprednisolone
+elderly,Female,5,0,0,0,0,None,Low,paracetamol,drospirenone
+elderly,Female,4,0,0,0,0,None,Low,paracetamol,clotiazepam
+elderly,Female,6,0,0,0,0,None,Low,paracetamol,cyclopentolate
+adult,Female,7,1,0,1,1,None,Low,insulin glargine,escitalopram
+adult,Female,7,1,0,1,1,None,Low,insulin glargine,saquinavir
+adult,Female,6,1,0,1,1,None,Low,insulin glargine,cabergoline
+adult,Female,2,1,0,1,1,None,Low,insulin glargine,abacavir
+elderly,Female,3,0,0,0,0,None,Low,bupropion,pimozide
+elderly,Female,7,0,0,0,0,None,Low,bupropion,alprazolam
+elderly,Female,3,0,0,0,0,None,Low,bupropion,atenolol
+elderly,Female,7,0,0,0,0,None,Low,bupropion,mestranol
+elderly,Female,6,0,0,0,0,None,Low,bupropion,venetoclax
+elderly,Male,5,1,0,0,0,None,Low,sertraline,roflumilast
+elderly,Male,5,1,0,0,0,None,Low,sertraline,fludiazepam
+elderly,Male,3,1,0,0,0,None,Low,sertraline,insulin glargine
+elderly,Male,3,1,0,0,0,None,Low,sertraline,guanethidine
+elderly,Male,6,1,0,0,0,None,Low,sertraline,piroxicam
+adult,Male,7,1,0,1,1,None,Low,amlodipine,halazepam
+adult,Male,7,1,0,1,1,None,Low,amlodipine,tolcapone
+adult,Male,3,1,0,1,1,None,Low,amlodipine,benzoic acid
+adult,Male,6,1,0,1,1,None,Low,amlodipine,oxymetazoline
+adult,Male,5,0,0,0,0,None,Low,sertraline,pilocarpine
+adult,Male,3,0,0,0,0,None,Low,sertraline,saquinavir
+adult,Male,4,0,0,0,0,None,Low,sertraline,glipizide
+adult,Male,7,0,0,0,0,None,Low,sertraline,zidovudine
+adult,Male,3,0,0,0,0,None,Low,sertraline,atenolol
+elderly,Female,3,0,0,1,1,None,Low,metformin,cefpodoxime
+elderly,Female,7,0,0,1,1,None,Low,metformin,dienogest
+elderly,Female,7,0,0,1,1,None,Low,metformin,nicotinamide
+elderly,Female,2,0,0,1,1,None,Low,metformin,nelfinavir
+elderly,Female,2,0,0,1,1,None,Low,metformin,tiludronic acid
+adult,Male,3,0,0,0,0,None,Low,paracetamol,bexarotene
+adult,Male,3,0,0,0,0,None,Low,paracetamol,lidocaine
+adult,Male,6,0,0,0,0,None,Low,paracetamol,temazepam
+adult,Female,2,0,0,0,1,None,Low,azithromycin,insulin glargine
+adult,Female,7,0,0,0,1,None,Low,azithromycin,pentamidine
+adult,Female,2,0,0,0,1,None,Low,azithromycin,bismuth subcitrate potassium
+adult,Female,5,0,0,0,1,None,Low,azithromycin,teniposide
+adult,Female,3,0,0,0,1,None,Low,azithromycin,prednisone
+elderly,Female,6,0,1,0,1,None,Low,glipizide,nicergoline
+elderly,Female,5,0,1,0,1,None,Low,glipizide,yohimbine
+adult,Male,3,1,1,1,0,None,Low,losartan,ibudilast
+adult,Male,7,1,1,1,0,None,Low,losartan,gatifloxacin
+adult,Male,5,1,1,1,0,None,Low,losartan,epirubicin
+adult,Male,7,1,1,1,0,None,Low,losartan,aprepitant
+adult,Male,6,1,1,1,0,None,Low,losartan,fenoldopam
+adult,Female,2,0,0,0,0,None,Low,tramadol,mitotane
+adult,Female,3,0,0,0,0,None,Low,tramadol,isavuconazonium
+adult,Female,2,0,0,0,0,None,Low,tramadol,guanethidine
+adult,Female,3,0,0,0,0,None,Low,tramadol,pivmecillinam
+elderly,Male,4,0,0,0,0,None,Low,amoxicillin,polythiazide
+elderly,Male,3,0,0,0,0,None,Low,amoxicillin,articaine
+elderly,Male,2,0,0,0,0,None,Low,amoxicillin,nitroglycerin
+adult,Female,2,0,0,0,1,None,Low,insulin glargine,nimesulide
+adult,Female,5,0,0,0,1,None,Low,insulin glargine,sitaxentan
+adult,Female,4,0,0,0,1,None,Low,insulin glargine,midodrine
+adult,Female,3,0,0,0,1,None,Low,insulin glargine,flecainide
+adult,Female,2,0,0,0,1,None,Low,insulin glargine,pirenzepine
+adult,Male,5,0,0,1,0,None,Low,azithromycin,butenafine
+adult,Male,5,0,0,1,0,None,Low,azithromycin,ixabepilone
+adult,Male,7,0,0,1,0,None,Low,azithromycin,glipizide
+adult,Female,7,0,0,0,0,None,Low,ibuprofen,spectinomycin
+adult,Female,7,0,0,0,0,None,Low,ibuprofen,trabectedin
+adult,Female,7,0,0,0,0,Pharmacodynamic,Medium,ibuprofen,phenprocoumon
+adult,Female,7,0,0,0,0,None,Low,ibuprofen,tetryzoline
+adult,Female,4,0,0,1,0,None,Low,paracetamol,halcinonide
+adult,Female,2,0,0,1,0,None,Low,paracetamol,protocatechualdehyde
+adult,Female,6,0,0,1,0,None,Low,paracetamol,magnesium oxide
+adult,Female,3,0,0,1,0,None,Low,paracetamol,furazolidone
+elderly,Male,5,0,0,0,0,None,Low,bupropion,dihydroergotamine
+elderly,Male,3,0,0,0,0,None,Low,bupropion,bopindolol
+adult,Male,3,0,0,0,1,None,Low,insulin glargine,dobutamine
+adult,Male,2,0,0,0,1,None,Low,insulin glargine,tiotropium
+adult,Male,2,0,0,0,1,None,Low,insulin glargine,megestrol acetate
+adult,Male,6,0,0,1,0,None,Low,paracetamol,bopindolol
+adult,Male,5,0,0,1,0,None,Low,paracetamol,mestranol
+adult,Male,5,0,0,1,0,None,Low,paracetamol,carteolol
+adult,Male,4,0,0,1,0,None,Low,paracetamol,somatostatin
+adult,Male,6,0,0,1,0,None,Low,paracetamol,metrizamide
+adult,Male,5,1,0,0,1,None,Low,escitalopram,cilazapril
+adult,Male,5,1,0,0,1,None,Low,escitalopram,phenoxybenzamine
+adult,Male,7,1,0,0,1,None,Low,escitalopram,latanoprost
+adult,Female,6,0,0,1,0,None,Low,sertraline,doxycycline
+adult,Female,4,0,0,1,0,None,Low,sertraline,efonidipine
+adult,Female,7,0,0,1,0,None,Low,sertraline,fluorouracil
+adult,Female,5,0,0,1,0,None,Low,sertraline,barnidipine
+elderly,Male,5,0,0,0,0,None,Low,amoxicillin,nicotine
+elderly,Male,3,0,0,0,0,None,Low,amoxicillin,butoconazole
+adult,Male,3,0,0,0,1,None,Low,azithromycin,irbesartan
+adult,Male,6,0,0,0,1,None,Low,azithromycin,dezocine
+adult,Male,7,0,0,0,1,None,Low,azithromycin,calcium phosphate
+adult,Male,6,0,0,0,1,None,Low,azithromycin,prochlorperazine
+adult,Male,2,0,0,1,0,None,Low,sertraline,letrozole
+adult,Male,5,0,0,1,0,None,Low,sertraline,quinacrine
+adult,Male,5,0,0,1,0,None,Low,sertraline,etonogestrel
+adult,Male,2,0,0,1,0,None,Low,sertraline,sumatriptan
+elderly,Male,5,0,0,1,0,None,Low,ciprofloxacin,cimetidine
+elderly,Male,2,0,0,1,0,None,Low,ciprofloxacin,moxifloxacin
+elderly,Male,4,0,0,1,0,None,Low,ciprofloxacin,moxifloxacin
+adult,Female,2,0,0,0,0,None,Low,paracetamol,orlistat
+adult,Female,5,0,0,0,0,None,Low,paracetamol,triptorelin
+adult,Female,4,0,0,0,0,None,Low,paracetamol,propacetamol
+adult,Female,3,0,0,1,0,None,Low,metoprolol,metrizamide
+adult,Female,4,0,0,1,0,None,Low,metoprolol,goserelin
+adult,Female,4,0,0,1,0,None,Low,metoprolol,alprazolam
+adult,Female,6,0,0,1,0,None,Low,metoprolol,hyoscyamine
+adult,Female,5,0,0,1,0,None,Low,metoprolol,ambrisentan
+adult,Male,2,0,0,1,0,None,Low,tramadol,flumethasone
+adult,Male,2,0,0,1,0,None,Low,tramadol,quetiapine
+adult,Male,5,0,0,1,0,None,Low,tramadol,testosterone
+adult,Male,4,0,0,1,0,None,Low,tramadol,tobramycin
+adult,Male,7,0,0,1,0,None,Low,bupropion,molindone
+adult,Male,6,0,0,1,0,None,Low,bupropion,milnacipran
+adult,Male,3,0,0,0,0,None,Low,escitalopram,tixocortol
+adult,Male,2,0,0,0,0,None,Low,escitalopram,fluconazole
+adult,Male,4,0,0,0,0,None,Low,escitalopram,teriflunomide
+elderly,Male,2,0,0,0,0,None,Low,tramadol,secobarbital
+elderly,Male,3,0,0,0,0,None,Low,tramadol,nateglinide
+elderly,Male,6,0,0,0,0,None,Low,tramadol,metoclopramide
+elderly,Male,5,0,0,0,0,None,Low,tramadol,naproxen
+elderly,Male,2,0,0,0,0,None,Low,tramadol,phenindione
+adult,Male,4,0,1,0,1,None,Low,azithromycin,dexmedetomidine
+adult,Male,3,0,1,0,1,None,Low,azithromycin,ethyl loflazepate
+adult,Male,4,0,1,0,1,None,Low,azithromycin,fenoldopam
+adult,Male,7,0,1,0,1,None,Low,azithromycin,desoximetasone
+adult,Male,3,0,1,0,1,None,Low,azithromycin,paritaprevir
+adult,Female,2,0,0,0,0,None,Low,amoxicillin,oxycodone
+adult,Female,7,0,0,0,0,None,Low,amoxicillin,memantine
+adult,Female,6,0,0,0,0,None,Low,amoxicillin,tobramycin
+adult,Female,5,0,0,0,0,None,Low,amoxicillin,fesoterodine
+adult,Female,7,0,0,0,0,None,Low,amoxicillin,isocarboxazid
+elderly,Male,2,0,1,1,0,None,Low,sertraline,flibanserin
+elderly,Male,3,0,1,1,0,None,Low,sertraline,etizolam
+elderly,Male,3,0,1,1,0,None,Low,sertraline,thymol
+adult,Female,6,0,0,0,0,None,Low,amoxicillin,gamma-hydroxybutyric acid
+adult,Female,5,0,0,0,0,None,Low,amoxicillin,bisoprolol
+adult,Female,6,0,0,0,0,None,Low,amoxicillin,guanadrel
+adult,Female,6,0,0,0,0,None,Low,amoxicillin,cortisone acetate
+adult,Female,3,0,0,0,0,None,Low,amoxicillin,yohimbine
+adult,Male,3,0,0,0,0,None,Low,tramadol,oxymetazoline
+adult,Male,5,0,0,0,0,None,Low,tramadol,cefpodoxime
+adult,Male,7,0,0,0,0,None,Low,tramadol,quinethazone
+adult,Male,4,0,0,0,0,None,Low,tramadol,busulfan
+adult,Male,5,0,0,0,0,None,Low,tramadol,pentamidine
+adult,Male,2,0,0,0,1,Pharmacokinetic,Medium,azithromycin,acetyldigitoxin
+adult,Male,2,0,0,0,1,None,Low,azithromycin,perindopril
+elderly,Female,5,0,0,0,0,None,Low,ciprofloxacin,mestranol
+elderly,Female,3,0,0,0,0,None,Low,ciprofloxacin,pipotiazine
+elderly,Female,6,0,0,0,0,None,Low,ciprofloxacin,dopamine
+elderly,Female,7,0,0,0,0,None,Low,ciprofloxacin,imiquimod
+elderly,Female,6,0,0,0,0,None,Low,ciprofloxacin,saquinavir
+adult,Male,5,0,0,0,1,None,Low,tramadol,carisoprodol
+adult,Male,5,0,0,0,1,None,Low,tramadol,metaxalone
+adult,Male,6,0,0,0,1,None,Low,tramadol,chlordiazepoxide
+adult,Male,5,0,0,0,1,None,Low,tramadol,sildenafil
+adult,Male,7,0,0,0,1,None,Low,tramadol,zolmitriptan
+adult,Male,7,0,1,1,0,None,Low,sertraline,norgestimate
+adult,Male,3,0,1,1,0,None,Low,sertraline,nalbuphine
+adult,Male,2,0,0,0,1,None,Low,glipizide,miglitol
+adult,Male,4,0,0,0,1,None,Low,glipizide,miconazole
+adult,Male,2,0,0,0,1,None,Low,glipizide,benidipine
+adult,Male,7,0,0,0,1,None,Low,glipizide,clobazam
+elderly,Male,3,0,0,0,1,None,Low,insulin glargine,polythiazide
+elderly,Male,7,0,0,0,1,None,Low,insulin glargine,biperiden
+elderly,Male,7,0,0,0,1,None,Low,insulin glargine,etidocaine
+elderly,Male,4,0,0,0,1,None,Low,insulin glargine,cytarabine
+elderly,Male,5,0,0,0,1,None,Low,insulin glargine,nabumetone
+adult,Female,4,0,0,0,1,None,Low,glipizide,glimepiride
+adult,Female,2,0,0,0,1,None,Low,glipizide,deutetrabenazine
+adult,Female,6,0,0,0,1,None,Low,glipizide,naphazoline
+adult,Female,4,0,0,0,1,None,Low,glipizide,ditazole
+adult,Female,2,0,0,0,1,None,Low,glipizide,rivaroxaban
+adult,Female,2,0,0,1,0,None,Low,metoprolol,ribociclib
+adult,Female,5,0,0,1,0,None,Low,metoprolol,afatinib
+adult,Female,7,0,0,1,0,None,Low,metoprolol,profenamine
+adult,Male,2,0,1,1,0,None,Low,azithromycin,ticagrelor
+adult,Male,2,0,1,1,0,None,Low,azithromycin,ramipril
+adult,Male,7,0,1,1,0,None,Low,azithromycin,bedaquiline
+adult,Male,4,0,1,1,0,None,Low,azithromycin,tobramycin
+adult,Male,4,0,1,1,0,None,Low,azithromycin,doxycycline
+adult,Male,2,0,0,1,1,None,Low,metformin,butobarbital
+adult,Male,6,0,0,1,1,None,Low,metformin,vigabatrin
+adult,Male,2,0,0,1,1,None,Low,metformin,profenamine
+elderly,Female,7,0,0,1,0,None,Low,metoprolol,rifabutin
+elderly,Female,6,0,0,1,0,None,Low,metoprolol,zopiclone
+adult,Female,4,0,0,0,0,None,Low,sertraline,chloroxine
+adult,Female,7,0,0,0,0,None,Low,sertraline,metyrosine
+adult,Female,4,0,0,0,0,None,Low,sertraline,aminoglutethimide
+adult,Female,2,0,0,0,0,None,Low,sertraline,ticlopidine
+adult,Female,2,0,0,0,0,None,Low,sertraline,triazolam
+adult,Male,2,0,0,0,0,None,Low,paracetamol,eplerenone
+adult,Male,2,0,0,0,0,None,Low,paracetamol,dinoprostone
+adult,Male,3,0,0,0,0,None,Low,paracetamol,medrysone
+adult,Male,6,0,0,0,0,None,Low,paracetamol,thioproperazine
+adult,Male,3,0,0,0,0,None,Low,paracetamol,rolapitant
+adult,Female,3,0,0,0,1,None,Low,glipizide,donepezil
+adult,Female,3,0,0,0,1,None,Low,glipizide,thiamylal
+adult,Female,2,0,0,0,1,None,Low,glipizide,sulfisoxazole
+adult,Female,6,0,0,1,0,None,Low,amlodipine,temazepam
+adult,Female,2,0,0,1,0,None,Low,amlodipine,nevirapine
+adult,Male,7,0,0,1,1,None,Low,glipizide,gatifloxacin
+adult,Male,4,0,0,1,1,None,Low,glipizide,quinacrine
+adult,Male,3,0,0,1,1,None,Low,glipizide,clonidine
+adult,Male,4,0,0,1,1,None,Low,glipizide,fenbufen
+adult,Male,7,0,0,1,1,None,Low,glipizide,cocaine
+elderly,Female,3,0,0,0,0,None,Low,azithromycin,enalapril
+elderly,Female,3,0,0,0,0,None,Low,azithromycin,empagliflozin
+adult,Male,3,0,0,0,1,None,Low,insulin glargine,etravirine
+adult,Male,4,0,0,0,1,None,Low,insulin glargine,pirbuterol
+adult,Male,2,0,0,0,1,None,Low,insulin glargine,calcifediol
+adult,Female,6,0,0,0,0,None,Low,tramadol,flucytosine
+adult,Female,6,0,0,0,0,None,Low,tramadol,melperone
+adult,Female,2,0,0,0,0,None,Low,tramadol,artemether
+adult,Female,4,0,0,0,0,None,Low,tramadol,ixazomib
+adult,Female,4,0,0,0,1,None,Low,ibuprofen,levonordefrin
+adult,Female,6,0,0,0,1,None,Low,ibuprofen,domperidone
+adult,Female,4,0,0,0,1,None,Low,ibuprofen,ciclesonide
+adult,Female,5,0,0,0,1,None,Low,ibuprofen,topiramate
+adult,Female,4,0,0,0,1,None,Low,ibuprofen,trabectedin
+elderly,Female,6,0,0,1,0,None,Low,losartan,cyclopentolate
+elderly,Female,5,0,0,1,0,None,Low,losartan,methohexital
+elderly,Female,4,0,0,1,0,None,Low,losartan,sonidegib
+elderly,Female,2,0,0,1,0,None,Low,losartan,valproic acid
+adult,Male,7,0,0,0,1,None,Low,paracetamol,epinastine
+adult,Male,3,0,0,0,1,None,Low,paracetamol,bethanidine
+adult,Male,6,0,0,0,1,None,Low,paracetamol,paricalcitol
+adult,Male,4,0,0,0,1,None,Low,paracetamol,acetylcholine
+adult,Female,3,0,0,1,1,None,Low,azithromycin,chlorpropamide
+adult,Female,4,0,0,1,1,None,Low,azithromycin,lomitapide
+adult,Female,3,0,0,1,1,None,Low,azithromycin,floctafenine
+adult,Female,2,0,0,1,1,None,Low,azithromycin,milrinone
+adult,Female,4,0,0,1,1,None,Low,azithromycin,roxatidine acetate
+adult,Female,3,0,0,0,0,None,Low,amoxicillin,hydroxyurea
+adult,Female,6,0,0,0,0,None,Low,amoxicillin,levonorgestrel
+adult,Female,5,0,0,0,0,None,Low,amoxicillin,glycopyrronium
+adult,Female,2,0,0,0,0,None,Low,amoxicillin,meprobamate
+adult,Female,6,1,0,1,0,None,Low,ciprofloxacin,loperamide
+adult,Female,2,1,0,1,0,None,Low,ciprofloxacin,difluocortolone
+adult,Female,3,1,0,1,0,None,Low,ciprofloxacin,zaltoprofen
+adult,Female,7,1,0,1,0,None,Low,ciprofloxacin,medrogestone
+elderly,Female,7,1,0,0,0,None,Low,ibuprofen,fesoterodine
+elderly,Female,7,1,0,0,0,None,Low,ibuprofen,valsartan
+elderly,Female,7,1,0,0,0,None,Low,ibuprofen,atomoxetine
+elderly,Female,2,1,0,0,0,None,Low,ibuprofen,thiopental
+elderly,Female,2,1,0,0,0,None,Low,ibuprofen,sonidegib
+adult,Male,5,0,0,1,1,None,Low,amlodipine,apremilast
+adult,Male,5,0,0,1,1,None,Low,amlodipine,nelarabine
+adult,Male,5,0,0,1,1,None,Low,amlodipine,framycetin
+adult,Male,5,0,0,1,1,None,Low,amlodipine,chloral hydrate
+adult,Male,7,0,0,1,1,None,Low,amlodipine,riluzole
+elderly,Male,7,1,0,1,1,None,Low,metformin,molsidomine
+elderly,Male,7,1,0,1,1,None,Low,metformin,iron
+adult,Male,6,1,1,1,0,None,Low,amlodipine,levocetirizine
+adult,Male,3,1,1,1,0,None,Low,amlodipine,isoflurane
+adult,Male,3,1,1,1,0,None,Low,amlodipine,oxiconazole
+adult,Male,2,1,1,1,0,None,Low,amlodipine,paramethasone
+adult,Female,7,0,0,1,1,None,Low,insulin glargine,clonazepam
+adult,Female,7,0,0,1,1,None,Low,insulin glargine,phenprocoumon
+adult,Female,4,0,0,0,1,None,Low,insulin glargine,bacitracin
+adult,Female,7,0,0,0,1,None,Low,insulin glargine,vincristine
+adult,Female,5,0,0,0,1,None,Low,insulin glargine,cinacalcet
+adult,Female,7,0,0,0,1,None,Low,insulin glargine,mivacurium
+adult,Female,6,0,0,1,1,None,Low,losartan,dexmethylphenidate
+adult,Female,5,0,0,1,1,None,Low,losartan,carprofen
+adult,Female,3,0,0,1,1,None,Low,losartan,pipamperone
+adult,Male,2,0,0,0,0,None,Low,ciprofloxacin,salmeterol
+adult,Male,5,0,0,0,0,None,Low,ciprofloxacin,amisulpride
+adult,Female,5,0,0,1,1,None,Low,glipizide,latanoprost
+adult,Female,3,0,0,1,1,None,Low,glipizide,pipotiazine
+elderly,Female,2,0,0,1,0,None,Low,metoprolol,lumacaftor
+elderly,Female,7,0,0,1,0,None,Low,metoprolol,ticagrelor
+elderly,Female,3,0,0,1,0,None,Low,metoprolol,metyrosine
+elderly,Female,4,0,0,1,0,None,Low,metoprolol,dobutamine
+elderly,Female,5,0,0,1,0,None,Low,metoprolol,rilpivirine
+adult,Female,4,0,0,0,1,None,Low,glipizide,topiramate
+adult,Female,6,0,0,0,1,None,Low,glipizide,eszopiclone
+adult,Female,2,0,0,0,1,None,Low,glipizide,eluxadoline
+elderly,Female,2,0,0,0,1,None,Low,bupropion,riluzole
+elderly,Female,2,0,0,0,1,None,Low,bupropion,nizatidine
+adult,Male,3,0,0,0,0,None,Low,azithromycin,tiaprofenic acid
+adult,Male,3,0,0,0,0,None,Low,azithromycin,moxonidine
+adult,Male,7,0,0,0,0,None,Low,azithromycin,lovastatin
+adult,Male,5,0,0,0,0,None,Low,azithromycin,dyclonine
+elderly,Female,6,0,0,0,1,None,Low,insulin glargine,milrinone
+elderly,Female,2,0,0,0,1,None,Low,insulin glargine,procyclidine
+elderly,Female,5,0,0,0,1,None,Low,insulin glargine,ledipasvir
+elderly,Female,3,0,0,0,1,None,Low,insulin glargine,escitalopram
+elderly,Female,6,0,0,0,1,None,Low,insulin glargine,omeprazole
+elderly,Female,6,0,0,0,1,None,Low,escitalopram,ethinylestradiol
+elderly,Female,4,0,0,0,1,None,Low,escitalopram,pentaerythritol tetranitrate
+elderly,Female,4,0,0,0,1,None,Low,escitalopram,diltiazem
+elderly,Female,4,0,0,0,1,None,Low,escitalopram,ibrutinib
+adult,Female,4,0,0,0,0,None,Low,ibuprofen,histrelin
+adult,Female,4,0,0,0,0,None,Low,ibuprofen,silodosin
+adult,Female,5,0,0,0,0,None,Low,ibuprofen,pomalidomide
+adult,Female,2,0,0,0,0,None,Low,ibuprofen,letermovir
+adult,Female,4,0,0,0,0,None,Low,ibuprofen,desloratadine
+adult,Female,2,0,0,0,0,None,Low,ibuprofen,clorazepic acid
+adult,Female,5,0,0,0,0,None,Low,ibuprofen,moclobemide
+adult,Female,6,0,0,0,0,None,Low,ibuprofen,olodaterol
+adult,Male,5,0,0,0,1,None,Low,glipizide,ranolazine
+adult,Male,6,0,0,0,1,None,Low,glipizide,saquinavir
+adult,Male,4,0,0,0,1,None,Low,glipizide,medrogestone
+adult,Male,4,0,0,0,1,None,Low,glipizide,medrysone
+adult,Male,5,0,0,1,0,None,Low,losartan,remikiren
+adult,Male,4,0,0,1,0,None,Low,losartan,niacin
+adult,Male,5,0,0,1,0,None,Low,losartan,gallamine triethiodide
+adult,Male,6,0,0,1,0,None,Low,losartan,lomefloxacin
+adult,Male,4,0,0,1,0,None,Low,losartan,pimozide
+adult,Female,7,0,0,0,1,None,Low,metformin,methylphenobarbital
+adult,Female,7,0,0,0,1,None,Low,metformin,citric acid
+adult,Male,6,0,1,0,0,None,Low,escitalopram,calcium glubionate anhydrous
+adult,Male,6,0,1,0,0,None,Low,escitalopram,fosinopril
+adult,Female,6,0,0,0,0,None,Low,ibuprofen,diacerein
+adult,Female,3,0,0,0,0,None,Low,ibuprofen,ximelagatran
+adult,Female,5,0,0,0,0,None,Low,ibuprofen,daclatasvir
+adult,Female,7,0,0,0,0,None,Low,ibuprofen,lumefantrine
+adult,Male,3,0,0,0,1,None,Low,glipizide,methimazole
+adult,Male,6,0,0,0,1,None,Low,glipizide,abemaciclib
+adult,Male,4,0,0,0,1,None,Low,glipizide,vilazodone
+adult,Male,7,0,0,0,1,None,Low,glipizide,glyburide
+adult,Male,7,0,0,0,1,None,Low,glipizide,granisetron
+adult,Female,3,0,0,1,0,Pharmacodynamic,Medium,amlodipine,tamsulosin
+adult,Female,5,0,0,1,0,None,Low,amlodipine,lisinopril
+adult,Female,2,0,0,1,0,None,Low,amlodipine,tolterodine
+adult,Female,4,0,0,1,0,None,Low,amlodipine,alimemazine
+adult,Female,7,0,0,1,0,None,Low,amlodipine,desoximetasone
+adult,Male,7,0,0,0,1,None,Low,insulin glargine,enasidenib
+adult,Male,7,0,0,0,1,None,Low,insulin glargine,remoxipride
+adult,Male,2,0,0,0,1,None,Low,azithromycin,procaine benzylpenicillin
+adult,Male,5,0,0,0,1,None,Low,azithromycin,atropine
+adult,Male,6,0,0,0,1,None,Low,azithromycin,amoxicillin
+adult,Male,6,0,0,0,1,None,Low,azithromycin,oxaliplatin
+adult,Female,3,0,0,1,0,None,Low,amlodipine,degarelix
+adult,Female,2,0,0,1,0,None,Low,amlodipine,etodolac
+adult,Female,2,0,0,1,0,None,Low,bupropion,dihydrocodeine
+adult,Female,7,0,0,1,0,None,Low,bupropion,varenicline
+adult,Male,2,0,1,0,0,None,Low,ibuprofen,cyproterone acetate
+adult,Male,7,0,1,0,0,None,Low,ibuprofen,ceftizoxime
+adult,Male,3,0,1,0,0,None,Low,ibuprofen,tiapride
+adult,Female,3,0,0,0,1,None,Low,metformin,estramustine
+adult,Female,5,0,0,0,1,None,Low,metformin,trimetrexate
+adult,Female,3,0,0,0,1,None,Low,metformin,sulfadiazine
+adult,Female,5,0,0,0,1,None,Low,metformin,arotinolol
+adult,Female,2,0,0,0,1,None,Low,metformin,furazolidone
+elderly,Male,4,0,0,0,0,None,Low,amoxicillin,betahistine
+elderly,Male,5,0,0,0,0,None,Low,amoxicillin,pentamidine
+elderly,Male,6,0,0,0,0,None,Low,amoxicillin,bacitracin
+elderly,Female,3,0,0,1,1,None,Low,losartan,calcipotriol
+elderly,Female,7,0,0,1,1,None,Low,losartan,ethyl loflazepate
+elderly,Female,6,0,0,1,1,None,Low,losartan,imipramine
+elderly,Female,6,0,0,1,1,None,Low,losartan,equilin
+adult,Male,4,0,0,0,0,None,Low,escitalopram,unoprostone
+adult,Male,2,0,0,0,0,None,Low,escitalopram,triflusal
+adult,Male,2,0,0,0,0,None,Low,escitalopram,enzalutamide
+adult,Female,2,0,0,0,0,None,Low,ibuprofen,bosentan
+adult,Female,7,0,0,0,0,None,Low,ibuprofen,diltiazem
+adult,Male,5,0,0,0,0,None,Low,escitalopram,regorafenib
+adult,Male,2,0,0,0,0,None,Low,escitalopram,panobinostat
+adult,Male,2,0,0,0,0,None,Low,escitalopram,efavirenz
+adult,Male,4,0,0,0,0,None,Low,escitalopram,sonidegib
+adult,Male,6,0,0,0,0,None,Low,escitalopram,zonisamide
+adult,Male,2,0,0,1,1,None,Low,metformin,methscopolamine bromide
+adult,Male,6,0,0,1,1,None,Low,metformin,glisoxepide
+adult,Male,6,0,0,1,1,None,Low,metformin,palonosetron
+adult,Male,4,0,0,1,1,None,Low,metformin,brinzolamide
+adult,Male,4,0,0,1,1,None,Low,metformin,cinnarizine
+adult,Male,6,0,0,1,0,None,Low,metoprolol,butorphanol
+adult,Male,5,0,0,1,0,None,Low,metoprolol,paraldehyde
+adult,Male,4,0,0,1,0,None,Low,metoprolol,flurandrenolide
+adult,Male,3,0,0,1,0,None,Low,metoprolol,histrelin
+adult,Male,4,0,0,1,0,None,Low,metoprolol,amsacrine
+adult,Male,7,1,0,0,0,None,Low,ciprofloxacin,ivabradine
+adult,Male,7,1,0,0,0,None,Low,ciprofloxacin,ajmaline
+adult,Female,7,0,0,0,0,None,Low,ciprofloxacin,indapamide
+adult,Female,3,0,0,0,0,None,Low,ciprofloxacin,flupentixol
+adult,Female,2,0,0,0,0,None,Low,ciprofloxacin,nitroprusside
+adult,Female,3,0,0,0,0,None,Low,ciprofloxacin,moxonidine
+adult,Female,4,0,0,0,0,None,Low,ciprofloxacin,brigatinib
+adult,Male,5,0,0,1,1,None,Low,amlodipine,daclatasvir
+adult,Male,7,0,0,1,1,None,Low,amlodipine,protocatechualdehyde
+adult,Male,4,0,0,1,1,Pharmacodynamic,High,amlodipine,methyldopa
+adult,Female,7,0,0,1,1,None,Low,metoprolol,flurbiprofen
+adult,Female,7,0,0,1,1,None,Low,metoprolol,vildagliptin
+adult,Female,2,0,0,1,1,None,Low,metoprolol,phenelzine
+elderly,Male,6,0,0,0,1,None,Low,insulin glargine,amlodipine
+elderly,Male,5,0,0,0,1,None,Low,insulin glargine,panobinostat
+adult,Male,3,0,0,0,1,None,Low,sertraline,trabectedin
+adult,Male,3,0,0,0,1,None,Low,sertraline,calcifediol
+adult,Male,7,0,0,0,1,None,Low,sertraline,ridogrel
+adult,Male,3,0,0,0,1,None,Low,sertraline,cinnarizine
+elderly,Male,3,0,0,1,1,None,Low,amoxicillin,oxtriphylline
+elderly,Male,4,0,0,1,1,None,Low,amoxicillin,pravastatin
+elderly,Male,5,0,0,1,1,None,Low,amoxicillin,methscopolamine
+adult,Female,7,0,0,0,0,None,Low,escitalopram,biperiden
+adult,Female,7,0,0,0,0,None,Low,escitalopram,norfloxacin
+adult,Female,3,0,0,0,0,None,Low,escitalopram,acarbose
+adult,Female,6,0,0,0,0,None,Low,escitalopram,tamoxifen
+adult,Female,6,1,0,0,1,None,Low,glipizide,tubocurarine
+adult,Female,3,1,0,0,1,None,Low,glipizide,bisoprolol
+adult,Female,2,1,0,0,1,None,Low,glipizide,malathion
+adult,Female,6,1,0,0,1,None,Low,glipizide,fluocinonide
+adult,Female,4,1,0,0,1,None,Low,glipizide,prazosin
+elderly,Female,2,0,0,0,1,None,Low,amoxicillin,risedronic acid
+elderly,Female,5,0,0,0,1,None,Low,amoxicillin,lofexidine
+elderly,Female,6,0,0,1,0,None,Low,amlodipine,masoprocol
+elderly,Female,7,0,0,1,0,None,Low,amlodipine,aceclofenac
+elderly,Female,2,0,0,1,0,None,Low,amlodipine,iobenguane
+elderly,Female,2,0,0,1,0,None,Low,amlodipine,iloperidone
+elderly,Male,7,1,0,1,1,None,Low,losartan,masoprocol
+elderly,Male,6,1,0,1,1,None,Low,losartan,fesoterodine
+elderly,Male,5,1,0,1,1,None,Low,losartan,fenoterol
+elderly,Male,6,1,0,1,1,None,Low,losartan,pivmecillinam
+elderly,Male,7,1,0,1,1,None,Low,losartan,olanzapine
+adult,Male,7,0,0,0,0,None,Low,escitalopram,sodium bicarbonate
+adult,Male,2,0,0,0,0,None,Low,escitalopram,celecoxib
+adult,Male,7,0,0,0,0,None,Low,escitalopram,phenobarbital
+adult,Female,5,0,1,0,0,None,Low,ibuprofen,isosorbide dinitrate
+adult,Female,6,0,1,0,0,None,Low,ibuprofen,calcitriol
+adult,Female,3,0,1,0,0,None,Low,ibuprofen,gadobenic acid
+elderly,Female,4,0,1,0,1,None,Low,paracetamol,memantine
+elderly,Female,7,0,1,0,1,None,Low,paracetamol,bezafibrate
+elderly,Female,2,0,1,0,1,None,Low,paracetamol,troleandomycin
+adult,Male,2,0,1,1,1,None,Low,glipizide,topiramate
+adult,Male,6,0,1,1,1,None,Low,glipizide,methyltestosterone
+adult,Male,5,0,1,1,1,None,Low,glipizide,dicyclomine
+adult,Male,6,0,1,1,1,None,Low,glipizide,copanlisib
+adult,Male,6,0,1,1,1,None,Low,glipizide,nicotinamide
+adult,Male,4,0,0,0,1,None,Low,metformin,erythromycin
+adult,Male,2,0,0,0,1,None,Low,metformin,rimonabant
+adult,Male,3,0,0,0,1,None,Low,metformin,desoximetasone
+adult,Male,3,1,0,0,0,None,Low,ciprofloxacin,pantoprazole
+adult,Male,3,1,0,0,0,None,Low,ciprofloxacin,butamben
+adult,Male,3,1,0,0,0,None,Low,ciprofloxacin,thiothixene
+elderly,Female,3,0,0,0,0,None,Low,tramadol,olanzapine
+elderly,Female,4,0,0,0,0,None,Low,tramadol,methoxamine
+elderly,Female,4,0,0,0,0,None,Low,tramadol,thalidomide
+elderly,Female,5,0,0,0,0,None,Low,amoxicillin,dextroamphetamine
+elderly,Female,3,0,0,0,0,None,Low,amoxicillin,ciclopirox
+elderly,Female,5,0,0,0,0,None,Low,amoxicillin,cholic acid
+elderly,Female,4,0,0,0,0,None,Low,amoxicillin,aprindine
+adult,Male,3,0,0,1,0,None,Low,metoprolol,nicergoline
+adult,Male,7,0,0,1,0,None,Low,metoprolol,lumacaftor
+adult,Male,6,0,0,1,0,None,Low,metoprolol,clofibrate
+adult,Female,6,0,0,1,0,None,Low,ibuprofen,oxiconazole
+adult,Female,7,0,0,1,0,None,Low,ibuprofen,morphine
+adult,Female,2,0,0,1,0,None,Low,ibuprofen,methyl salicylate
+adult,Female,6,0,0,1,0,None,Low,ibuprofen,bupropion
+adult,Female,5,0,0,0,1,None,Low,bupropion,benazepril
+adult,Female,6,0,0,0,1,None,Low,bupropion,diazoxide
+adult,Female,2,0,0,0,1,None,Low,bupropion,fondaparinux
+adult,Male,6,0,1,1,0,None,Low,losartan,griseofulvin
+adult,Male,5,0,1,1,0,None,Low,losartan,pirenzepine
+adult,Male,4,0,1,1,0,None,Low,losartan,sulfathiazole
+adult,Male,6,0,1,1,0,None,Low,losartan,isoflurane
+adult,Male,7,1,0,1,0,None,Low,losartan,hydromorphone
+adult,Male,7,1,0,1,0,None,Low,losartan,arotinolol
+adult,Male,2,1,0,1,0,None,Low,losartan,sildenafil
+adult,Male,7,1,0,1,0,Pharmacodynamic,Medium,losartan,drospirenone
+adult,Male,3,1,0,1,0,None,Low,losartan,levonordefrin
+elderly,Female,3,0,0,1,0,None,Low,metoprolol,ospemifene
+elderly,Female,2,0,0,1,0,None,Low,metoprolol,levetiracetam
+elderly,Female,2,0,0,1,0,None,Low,metoprolol,pindolol
+elderly,Female,7,0,0,1,0,None,Low,metoprolol,prasugrel
+elderly,Female,4,0,0,1,0,None,Low,metoprolol,disulfiram
+adult,Female,5,0,0,0,0,None,Low,paracetamol,enalapril
+adult,Female,7,0,0,0,0,None,Low,paracetamol,calcitriol
+elderly,Female,2,0,0,0,1,None,Low,ciprofloxacin,encainide
+elderly,Female,3,0,0,0,1,None,Low,ciprofloxacin,pramipexole
+adult,Female,4,0,0,0,0,None,Low,paracetamol,yohimbine
+adult,Female,6,0,0,0,0,None,Low,paracetamol,amodiaquine
+elderly,Male,7,0,1,0,1,None,Low,insulin glargine,ropinirole
+elderly,Male,2,0,1,0,1,None,Low,insulin glargine,oxaliplatin
+adult,Female,3,1,0,0,0,None,Low,amoxicillin,histrelin
+adult,Female,3,1,0,0,0,None,Low,amoxicillin,tiotropium
+adult,Female,6,1,0,0,0,None,Low,amoxicillin,azelaic acid
+adult,Male,5,0,0,0,0,None,Low,paracetamol,amcinonide
+adult,Male,5,0,0,0,0,None,Low,paracetamol,montelukast
+adult,Male,3,0,0,0,0,None,Low,paracetamol,nitroprusside
+adult,Male,4,0,0,0,0,None,Low,paracetamol,ibrutinib
+adult,Female,5,0,0,0,1,None,Low,bupropion,prasugrel
+adult,Female,5,0,0,0,1,None,Low,bupropion,methylprednisolone
+adult,Female,7,0,0,0,1,None,Low,bupropion,oxymetazoline
+adult,Female,2,0,0,0,1,None,Low,bupropion,propofol
+adult,Female,4,0,0,0,1,None,Low,bupropion,olopatadine
+adult,Male,2,0,0,0,1,None,Low,bupropion,dapiprazole
+adult,Male,3,0,0,0,1,None,Low,bupropion,levocetirizine
+adult,Male,5,0,0,0,1,None,Low,bupropion,ibutilide
+elderly,Female,4,0,0,0,0,None,Low,ciprofloxacin,sunitinib
+elderly,Female,5,0,0,0,0,None,Low,ciprofloxacin,citalopram
+elderly,Male,5,0,0,0,1,None,Low,metformin,calcium glubionate anhydrous
+elderly,Male,2,0,0,0,1,None,Low,metformin,warfarin
+elderly,Male,2,0,0,0,1,None,Low,metformin,pentaerythritol tetranitrate
+elderly,Male,2,0,0,0,1,None,Low,metformin,clemastine
+elderly,Male,7,0,0,0,1,None,Low,metformin,iobenguane
+adult,Female,5,0,1,0,1,None,Low,bupropion,chlordiazepoxide
+adult,Female,3,0,1,0,1,None,Low,bupropion,atracurium besylate
+adult,Female,2,0,0,0,0,None,Low,ibuprofen,echothiophate
+adult,Female,5,0,0,0,0,None,Low,ibuprofen,nepafenac
+adult,Female,2,0,0,0,0,None,Low,ibuprofen,linezolid
+adult,Female,7,0,0,0,0,None,Low,ibuprofen,bromazepam
+adult,Female,6,0,0,0,0,None,Low,ibuprofen,haloprogin
+adult,Male,4,0,0,0,1,None,Low,metformin,ergocalciferol
+adult,Male,2,0,0,0,1,None,Low,metformin,alfentanil
+adult,Male,7,0,0,0,1,None,Low,metformin,ambenonium
+adult,Male,4,0,0,0,1,None,Low,metformin,felodipine
+adult,Male,6,0,0,1,0,None,Low,metoprolol,chenodeoxycholic acid
+adult,Male,7,0,0,1,0,None,Low,metoprolol,copanlisib
+adult,Male,2,0,0,1,0,None,Low,metoprolol,remoxipride
+adult,Female,4,0,0,1,1,None,Low,glipizide,bopindolol
+adult,Female,2,0,0,1,1,None,Low,glipizide,levomilnacipran
+adult,Female,5,0,0,1,1,None,Low,glipizide,sufentanil
+adult,Female,3,0,0,1,1,None,Low,glipizide,glycopyrronium
+adult,Female,6,0,0,1,1,None,Low,glipizide,deutetrabenazine
+elderly,Female,3,0,0,0,0,None,Low,tramadol,calcifediol
+elderly,Female,2,0,0,0,0,None,Low,tramadol,procainamide
+elderly,Female,3,0,0,0,0,None,Low,tramadol,exemestane
+elderly,Female,3,0,0,0,0,None,Low,tramadol,lumiracoxib
+elderly,Male,2,0,0,0,0,None,Low,paracetamol,nilotinib
+elderly,Male,3,0,0,0,0,None,Low,paracetamol,estradiol
+elderly,Male,7,0,0,0,0,None,Low,paracetamol,pancuronium
+adult,Male,3,0,0,1,1,None,Low,ciprofloxacin,phenindione
+adult,Male,6,0,0,1,1,None,Low,ciprofloxacin,beclomethasone dipropionate
+adult,Male,3,0,0,1,1,None,Low,ciprofloxacin,piperazine
+adult,Male,2,0,0,0,0,None,Low,ciprofloxacin,tinidazole
+adult,Male,7,0,0,0,0,None,Low,ciprofloxacin,quinine
+adult,Female,3,0,0,0,1,None,Low,metformin,brompheniramine
+adult,Female,6,0,0,0,1,None,Low,metformin,deslanoside
+adult,Female,4,0,0,0,1,None,Low,metformin,atenolol
+adult,Male,7,0,0,1,0,None,Low,tramadol,niflumic acid
+adult,Male,7,0,0,1,0,None,Low,tramadol,mezlocillin
+adult,Male,6,0,0,1,0,None,Low,tramadol,phenylbutazone
+adult,Male,4,0,0,1,0,None,Low,tramadol,temsirolimus
+adult,Male,4,0,0,1,0,None,Low,tramadol,gamma-hydroxybutyric acid
+adult,Male,5,0,0,1,0,None,Low,amlodipine,ifenprodil
+adult,Male,6,0,0,1,0,None,Low,amlodipine,lornoxicam
+adult,Male,5,0,0,1,0,None,Low,amlodipine,haloprogin
+adult,Male,3,0,0,1,0,None,Low,amlodipine,fentanyl
+adult,Male,2,0,0,1,0,None,Low,amlodipine,flupentixol
+elderly,Male,6,0,0,1,0,None,Low,ibuprofen,halazepam
+elderly,Male,4,0,0,1,0,None,Low,ibuprofen,dexketoprofen
+adult,Female,7,0,0,0,0,None,Low,ibuprofen,mepivacaine
+adult,Female,6,0,0,0,0,None,Low,ibuprofen,ferric pyrophosphate
+adult,Female,7,0,1,1,0,None,Low,ciprofloxacin,gemfibrozil
+adult,Female,4,0,1,1,0,None,Low,ciprofloxacin,lumacaftor
+adult,Male,2,0,0,0,0,None,Low,ibuprofen,vortioxetine
+adult,Male,3,0,0,0,0,None,Low,ibuprofen,insulin glargine
+adult,Male,6,0,0,0,0,None,Low,bupropion,aminosalicylic acid
+adult,Male,2,0,0,0,0,None,Low,bupropion,mifepristone
+adult,Female,3,0,0,0,0,None,Low,amoxicillin,ixabepilone
+adult,Female,5,0,0,0,0,None,Low,amoxicillin,regorafenib
+adult,Male,5,0,0,0,0,None,Low,ibuprofen,lomitapide
+adult,Male,2,0,0,0,0,None,Low,ibuprofen,nylidrin
+adult,Male,5,0,0,0,0,None,Low,ibuprofen,epoprostenol
+adult,Male,4,0,0,0,0,None,Low,ibuprofen,ibrutinib
+adult,Male,7,0,0,0,0,None,Low,ibuprofen,magnesium trisilicate
+adult,Female,6,0,0,0,0,None,Low,ibuprofen,adapalene
+adult,Female,3,0,0,0,0,None,Low,ibuprofen,ethotoin
+adult,Female,3,0,0,0,0,None,Low,ibuprofen,cevimeline
+elderly,Male,4,0,0,1,0,None,Low,amlodipine,sodium bicarbonate
+elderly,Male,4,0,0,1,0,None,Low,amlodipine,phentermine
+elderly,Male,4,0,0,1,0,None,Low,amlodipine,loxoprofen
+elderly,Male,3,0,0,1,0,None,Low,amlodipine,scopolamine
+adult,Female,6,1,0,1,1,None,Low,metoprolol,clozapine
+adult,Female,2,1,0,1,1,None,Low,metoprolol,tolcapone
+adult,Female,6,1,0,1,1,None,Low,metoprolol,vardenafil
+adult,Female,6,1,0,1,1,None,Low,metoprolol,phenobarbital
+adult,Female,3,0,1,0,0,Pharmacokinetic,Medium,ibuprofen,ranolazine
+adult,Female,4,0,1,0,0,None,Low,ibuprofen,sorafenib
+adult,Female,2,0,1,0,0,None,Low,ibuprofen,dasatinib
+adult,Female,6,0,1,0,0,None,Low,ibuprofen,domperidone
+adult,Female,6,0,1,0,0,None,Low,ibuprofen,clonazepam
+elderly,Female,7,0,1,1,0,None,Low,metoprolol,clozapine
+elderly,Female,3,0,1,1,0,None,Low,metoprolol,cinacalcet
+elderly,Female,5,0,1,1,0,None,Low,metoprolol,spectinomycin
+elderly,Female,3,0,1,1,0,None,Low,metoprolol,baricitinib
+adult,Female,2,0,0,0,0,None,Low,azithromycin,dyphylline
+adult,Female,5,0,0,0,0,None,Low,azithromycin,piroxicam
+adult,Male,5,0,1,1,0,None,Low,ibuprofen,vortioxetine
+adult,Male,6,0,1,1,0,None,Low,ibuprofen,sertraline
+adult,Male,2,0,1,1,0,None,Low,ibuprofen,gabapentin
+adult,Male,6,0,1,1,0,None,Low,ibuprofen,lorazepam
+adult,Female,6,0,0,1,1,None,Low,insulin glargine,sorafenib
+adult,Female,5,0,0,1,1,None,Low,insulin glargine,voxilaprevir
+adult,Female,7,0,0,1,1,None,Low,insulin glargine,pentamidine
+adult,Female,6,0,0,1,1,None,Low,insulin glargine,clofazimine
+adult,Female,5,0,0,1,1,None,Low,insulin glargine,arformoterol
+elderly,Female,4,1,0,0,0,None,Low,azithromycin,nevirapine
+elderly,Female,3,1,0,0,0,None,Low,azithromycin,linagliptin
+elderly,Male,2,1,0,0,0,None,Low,tramadol,simeprevir
+elderly,Male,3,1,0,0,0,None,Low,tramadol,bezafibrate
+elderly,Male,5,1,0,0,0,None,Low,tramadol,roxatidine acetate
+elderly,Female,7,0,0,0,0,None,Low,ciprofloxacin,epinephrine
+elderly,Female,5,0,0,0,0,None,Low,ciprofloxacin,norepinephrine
+adult,Female,6,0,0,0,1,None,Low,metformin,trihexyphenidyl
+adult,Female,4,0,0,0,1,None,Low,metformin,clofazimine
+adult,Female,6,0,0,0,1,None,Low,metformin,mephentermine
+adult,Male,6,0,0,1,1,None,Low,amlodipine,sitaxentan
+adult,Male,4,0,0,1,1,None,Low,amlodipine,diamorphine
+adult,Female,7,0,0,0,1,None,Low,glipizide,tedizolid phosphate
+adult,Female,6,0,0,0,1,None,Low,glipizide,clodronic acid
+adult,Female,5,0,0,0,1,None,Low,glipizide,pyridostigmine
+adult,Female,3,0,0,0,1,None,Low,glipizide,morphine
+adult,Female,3,0,0,0,1,None,Low,glipizide,lesinurad
+adult,Male,2,0,0,1,0,None,Low,escitalopram,clemastine
+adult,Male,4,0,0,1,0,None,Low,escitalopram,methylphenidate
+adult,Male,5,0,0,1,0,None,Low,escitalopram,dosulepin
+adult,Male,3,0,0,1,0,None,Low,escitalopram,etoricoxib
+adult,Male,7,0,0,1,0,None,Low,escitalopram,candesartan cilexetil
+elderly,Female,3,1,0,1,1,None,Low,metoprolol,mycophenolic acid
+elderly,Female,2,1,0,1,1,None,Low,metoprolol,oxyphenbutazone
+elderly,Female,4,1,0,1,1,None,Low,metoprolol,desonide
+elderly,Female,5,1,0,1,1,None,Low,metoprolol,theobromine
+elderly,Male,7,0,0,1,1,None,Low,amlodipine,prednicarbate
+elderly,Male,3,0,0,1,1,None,Low,amlodipine,ifosfamide
+elderly,Male,6,0,0,1,1,None,Low,amlodipine,aminophylline
+elderly,Male,2,0,0,1,1,None,Low,amlodipine,midostaurin
+elderly,Male,6,0,0,1,1,None,Low,amlodipine,aminophenazone
+adult,Female,2,0,0,0,0,None,Low,escitalopram,mercaptopurine
+adult,Female,4,0,0,0,0,None,Low,escitalopram,fexofenadine
+adult,Female,6,0,0,0,0,None,Low,escitalopram,calcipotriol
+adult,Female,5,0,0,0,0,None,Low,escitalopram,timolol
+adult,Female,2,0,0,0,1,None,Low,tramadol,calcipotriol
+adult,Female,2,0,0,0,1,None,Low,tramadol,nabumetone
+adult,Female,6,0,0,0,1,None,Low,tramadol,levofloxacin
+adult,Female,3,0,0,0,1,None,Low,tramadol,cefuroxime
+adult,Female,2,0,0,0,1,None,Low,tramadol,vitamin a
+adult,Male,3,0,0,1,1,None,Low,ibuprofen,mebendazole
+adult,Male,2,0,0,1,1,None,Low,ibuprofen,menadione
+adult,Male,4,0,0,1,1,None,Low,ibuprofen,azelastine
+adult,Male,4,0,0,1,1,None,Low,ibuprofen,penbutolol
+adult,Male,4,0,0,1,1,None,Low,ibuprofen,ponatinib
+adult,Female,3,0,0,1,0,None,Low,sertraline,calcium carbonate
+adult,Female,7,0,0,1,0,Pharmacokinetic,Low,sertraline,doxorubicin
+adult,Male,4,0,0,0,0,None,Low,ibuprofen,clorazepic acid
+adult,Male,5,0,0,0,0,None,Low,ibuprofen,bosentan
+adult,Male,4,0,0,0,0,None,Low,ibuprofen,galantamine
+adult,Male,5,0,0,0,0,None,Low,ibuprofen,propiverine
+adult,Male,4,0,1,0,0,None,Low,ciprofloxacin,buspirone
+adult,Male,2,0,1,0,0,None,Low,ciprofloxacin,montelukast
+adult,Male,7,0,1,0,0,None,Low,ciprofloxacin,fluocortolone
+adult,Male,4,0,1,0,0,None,Low,ciprofloxacin,indomethacin
+adult,Male,6,0,1,0,0,None,Low,ciprofloxacin,levosimendan
+adult,Female,2,0,0,0,0,None,Low,paracetamol,amphotericin b
+adult,Female,3,0,0,0,0,None,Low,paracetamol,gabapentin
+adult,Female,2,0,0,0,0,None,Low,paracetamol,naloxone
+adult,Female,3,0,0,0,0,None,Low,paracetamol,trapidil
+adult,Male,3,0,0,1,1,None,Low,glipizide,brexpiprazole
+adult,Male,4,0,0,1,1,None,Low,glipizide,fludrocortisone
+adult,Male,5,0,0,1,1,None,Low,glipizide,bisoprolol
+adult,Male,4,0,0,1,1,None,Low,paracetamol,isoniazid
+adult,Male,4,0,0,1,1,None,Low,paracetamol,acetylcholine
+adult,Male,3,0,0,1,1,None,Low,paracetamol,guanfacine
+adult,Male,6,0,0,1,0,None,Low,losartan,modafinil
+adult,Male,2,0,0,1,0,None,Low,losartan,atorvastatin
+adult,Male,7,0,0,0,0,None,Low,bupropion,sulfathiazole
+adult,Male,3,0,0,0,0,None,Low,bupropion,melatonin
+elderly,Male,5,0,0,0,1,None,Low,insulin glargine,iloperidone
+elderly,Male,4,0,0,0,1,None,Low,insulin glargine,chloroprocaine
+elderly,Male,7,0,0,0,1,None,Low,insulin glargine,lurasidone
+adult,Male,2,0,0,0,0,None,Low,sertraline,chlorthalidone
+adult,Male,3,0,0,0,0,None,Low,sertraline,etravirine
+adult,Male,4,0,0,0,0,None,Low,sertraline,triamcinolone
+adult,Male,2,0,0,0,0,None,Low,sertraline,rosuvastatin
+adult,Female,5,0,1,1,0,None,Low,amlodipine,dicyclomine
+adult,Female,6,0,1,1,0,None,Low,amlodipine,plicamycin
+adult,Female,7,0,1,1,0,Pharmacokinetic,Low,amlodipine,nilotinib
+adult,Female,4,0,1,1,0,None,Low,amlodipine,xylometazoline
+adult,Female,3,1,0,0,0,None,Low,amoxicillin,elvitegravir
+adult,Female,6,1,0,0,0,None,Low,amoxicillin,netupitant
+adult,Female,3,1,0,0,0,None,Low,amoxicillin,nitrofural
+adult,Female,4,0,0,0,1,None,Low,sertraline,ampicillin
+adult,Female,2,0,0,0,1,None,Low,sertraline,nisoldipine
+elderly,Male,3,1,0,0,1,None,Low,glipizide,fencamfamin
+elderly,Male,5,1,0,0,1,None,Low,glipizide,trandolapril
+elderly,Male,4,1,0,0,1,None,Low,glipizide,bendamustine
+elderly,Male,5,1,0,0,1,None,Low,glipizide,paritaprevir
+adult,Male,6,0,0,0,1,None,Low,escitalopram,trihexyphenidyl
+adult,Male,4,0,0,0,1,None,Low,escitalopram,dexmedetomidine
+elderly,Female,3,0,0,1,1,None,Low,glipizide,prednicarbate
+elderly,Female,6,0,0,1,1,None,Low,glipizide,aluminum hydroxide
+adult,Male,6,1,0,0,1,None,Low,insulin glargine,lorcaserin
+adult,Male,7,1,0,0,1,None,Low,insulin glargine,nelarabine
+adult,Male,6,1,0,0,1,None,Low,insulin glargine,scopolamine
+adult,Male,4,1,0,0,1,None,Low,insulin glargine,flunisolide
+adult,Male,6,1,0,0,1,None,Low,insulin glargine,hydroxyzine
+adult,Male,2,1,0,1,1,None,Low,insulin glargine,hyoscyamine
+adult,Male,5,1,0,1,1,None,Low,insulin glargine,procaine
+adult,Male,5,0,0,1,0,None,Low,losartan,isosorbide dinitrate
+adult,Male,2,0,0,1,0,None,Low,losartan,venetoclax
+adult,Male,5,0,0,1,0,None,Low,losartan,oxtriphylline
+adult,Male,3,0,0,1,0,None,Low,losartan,nitrofural
+adult,Male,7,0,1,0,1,None,Low,insulin glargine,dezocine
+adult,Male,6,0,1,0,1,None,Low,insulin glargine,pipamperone
+adult,Male,3,0,1,0,1,None,Low,insulin glargine,estriol
+adult,Male,4,0,1,0,1,None,Low,insulin glargine,sugammadex
+elderly,Female,4,0,0,1,0,None,Low,amlodipine,abiraterone
+elderly,Female,4,0,0,1,0,None,Low,amlodipine,itraconazole
+elderly,Female,3,0,0,1,0,None,Low,amlodipine,lacidipine
+adult,Male,4,0,0,0,0,None,Low,tramadol,prazosin
+adult,Male,2,0,0,0,0,None,Low,tramadol,melperone
+adult,Male,4,0,0,0,0,None,Low,tramadol,decitabine
+adult,Male,5,0,0,0,0,None,Low,tramadol,ketorolac
+adult,Male,4,0,0,0,0,None,Low,tramadol,metaxalone
+adult,Male,4,0,0,1,0,None,Low,metoprolol,ramelteon
+adult,Male,6,0,0,1,0,None,Low,metoprolol,milrinone
+adult,Male,5,0,0,1,0,None,Low,metoprolol,ketoprofen
+adult,Female,2,0,0,0,0,None,Low,amoxicillin,busulfan
+adult,Female,5,0,0,0,0,None,Low,amoxicillin,lanreotide
+elderly,Female,2,0,1,0,0,None,Low,tramadol,etidocaine
+elderly,Female,6,0,1,0,0,None,Low,tramadol,etoricoxib
+elderly,Female,2,0,1,0,0,None,Low,tramadol,benzatropine
+elderly,Female,2,0,1,0,0,None,Low,tramadol,bifonazole
+adult,Female,2,0,0,0,0,None,Low,bupropion,ledipasvir
+adult,Female,6,0,0,0,0,None,Low,bupropion,theobromine
+adult,Female,6,0,0,0,1,None,Low,sertraline,triflusal
+adult,Female,3,0,0,0,1,None,Low,sertraline,penbutolol
+adult,Female,2,0,0,0,1,None,Low,sertraline,streptomycin
+adult,Female,6,0,0,1,1,None,Low,metoprolol,carisoprodol
+adult,Female,6,0,0,1,1,None,Low,metoprolol,methylphenidate
+adult,Female,3,0,0,1,1,None,Low,metoprolol,ethynodiol diacetate
+adult,Female,6,0,0,1,1,None,Low,metoprolol,diazepam
+adult,Female,4,0,0,1,1,None,Low,metoprolol,metolazone
+adult,Male,7,0,0,1,0,None,Low,losartan,benidipine
+adult,Male,7,0,0,1,0,None,Low,losartan,alprazolam
+adult,Male,3,0,0,1,0,None,Low,losartan,trandolapril
+adult,Male,5,0,0,1,0,None,Low,losartan,phenytoin
+adult,Male,7,0,0,1,0,None,Low,losartan,valrubicin
+adult,Male,3,0,0,0,0,None,Low,amoxicillin,succinylcholine
+adult,Male,7,0,0,0,0,None,Low,amoxicillin,quinidine
+adult,Male,7,0,0,0,0,None,Low,amoxicillin,decamethonium
+adult,Male,5,0,0,0,0,None,Low,amoxicillin,amobarbital
+adult,Male,6,0,0,0,0,None,Low,amoxicillin,pregabalin
+adult,Male,4,0,0,0,0,None,Low,ciprofloxacin,flurandrenolide
+adult,Male,7,0,0,0,0,None,Low,ciprofloxacin,cilnidipine
+adult,Male,6,0,0,0,0,None,Low,ciprofloxacin,vancomycin
+adult,Male,7,0,0,0,1,None,Low,metformin,eluxadoline
+adult,Male,3,0,0,0,1,None,Low,metformin,solifenacin
+adult,Male,3,0,0,0,1,None,Low,metformin,protocatechualdehyde
+elderly,Female,5,0,0,0,1,None,Low,azithromycin,mephentermine
+elderly,Female,2,0,0,0,1,None,Low,azithromycin,halofantrine
+adult,Female,7,0,0,0,1,None,Low,glipizide,etacrynic acid
+adult,Female,5,0,0,0,1,None,Low,glipizide,canagliflozin
+adult,Female,7,0,0,0,1,None,Low,glipizide,daclatasvir
+adult,Female,5,0,0,0,1,None,Low,glipizide,oxaprozin
+adult,Female,2,0,0,0,1,None,Low,glipizide,glutethimide
+elderly,Male,5,0,0,1,1,None,Low,amlodipine,dienestrol
+elderly,Male,7,0,0,1,1,None,Low,amlodipine,irbesartan
+elderly,Male,3,0,0,1,1,None,Low,amlodipine,pivampicillin
+elderly,Male,4,0,0,1,1,None,Low,amlodipine,ouabain
+elderly,Male,7,0,0,1,1,None,Low,amlodipine,varenicline
+adult,Male,3,0,0,0,0,None,Low,paracetamol,oxycodone
+adult,Male,7,0,0,0,0,None,Low,paracetamol,methazolamide
+elderly,Female,5,0,0,0,0,None,Low,azithromycin,menadione
+elderly,Female,6,0,0,0,0,None,Low,azithromycin,cephalexin
+adult,Male,4,0,0,0,0,None,Low,paracetamol,bumetanide
+adult,Male,5,0,0,0,0,None,Low,paracetamol,propranolol
+adult,Male,5,0,0,0,0,None,Low,paracetamol,lithium cation
+adult,Male,2,0,0,0,0,None,Low,paracetamol,idelalisib
+adult,Male,4,0,0,0,0,None,Low,paracetamol,pirfenidone
+adult,Male,3,0,0,0,0,None,Low,paracetamol,oxacillin
+adult,Male,4,0,0,0,0,None,Low,paracetamol,testosterone
+adult,Male,5,0,0,0,0,None,Low,paracetamol,amprenavir
+adult,Male,7,0,0,0,0,None,Low,paracetamol,sulfamethoxazole
+elderly,Male,3,0,0,0,0,None,Low,ciprofloxacin,zidovudine
+elderly,Male,2,0,0,0,0,None,Low,ciprofloxacin,toloxatone
+elderly,Male,4,0,0,0,0,None,Low,ciprofloxacin,droperidol
+elderly,Male,7,0,0,0,0,None,Low,ciprofloxacin,benzylpenicillin
+adult,Female,3,0,0,1,1,None,Low,sertraline,lipoic acid
+adult,Female,4,0,0,1,1,None,Low,sertraline,pirbuterol
+elderly,Female,3,0,0,0,1,None,Low,insulin glargine,nitrofural
+elderly,Female,7,0,0,0,1,None,Low,insulin glargine,trimipramine
+elderly,Female,7,0,0,0,1,None,Low,insulin glargine,octreotide
+elderly,Female,3,0,0,0,1,None,Low,insulin glargine,promazine
+adult,Female,5,0,0,1,0,None,Low,tramadol,cytarabine
+adult,Female,2,0,0,1,0,None,Low,tramadol,metrizamide
+adult,Female,4,0,0,1,0,None,Low,tramadol,pralatrexate
+elderly,Male,3,0,0,0,0,None,Low,bupropion,doxercalciferol
+elderly,Male,6,0,0,0,0,None,Low,bupropion,anidulafungin
+elderly,Male,4,0,0,0,0,None,Low,bupropion,vincristine
+elderly,Male,2,0,0,0,0,None,Low,bupropion,sorafenib
+elderly,Male,7,0,0,0,0,None,Low,bupropion,valrubicin
+elderly,Male,4,0,0,0,1,None,Low,escitalopram,olaparib
+elderly,Male,7,0,0,0,1,None,Low,escitalopram,flurandrenolide
+elderly,Male,6,0,0,0,1,None,Low,escitalopram,rivastigmine
+adult,Male,6,0,0,0,1,None,Low,amoxicillin,flurazepam
+adult,Male,2,0,0,0,1,None,Low,amoxicillin,tubocurarine
+adult,Male,5,0,0,0,1,None,Low,amoxicillin,sulfamoxole
+adult,Male,4,0,0,0,1,None,Low,amoxicillin,etodolac
+adult,Female,5,0,0,0,0,None,Low,bupropion,efavirenz
+adult,Female,5,0,0,0,0,None,Low,bupropion,bacampicillin
+adult,Female,4,0,0,0,0,None,Low,bupropion,ruxolitinib
+adult,Female,6,0,0,1,1,None,Low,glipizide,frovatriptan
+adult,Female,6,0,0,1,1,None,Low,glipizide,fenoterol
+adult,Female,5,0,0,1,1,None,Low,glipizide,paramethasone
+elderly,Female,4,0,0,0,1,None,Low,glipizide,cholic acid
+elderly,Female,6,0,0,0,1,None,Low,glipizide,zaleplon
+elderly,Female,5,0,0,0,1,None,Low,glipizide,timolol
+elderly,Female,2,0,0,0,1,None,Low,glipizide,mepivacaine
+adult,Male,7,0,0,1,0,None,Low,amlodipine,astemizole
+adult,Male,3,0,0,1,0,None,Low,amlodipine,dextroamphetamine
+adult,Male,7,0,0,0,1,None,Low,glipizide,lanreotide
+adult,Male,7,0,0,0,1,None,Low,glipizide,idelalisib
+adult,Male,5,0,0,1,0,None,Low,amlodipine,verteporfin
+adult,Male,5,0,0,1,0,None,Low,amlodipine,fencamfamin
+adult,Male,2,0,0,1,0,None,Low,amlodipine,fluphenazine
+adult,Male,6,0,0,1,0,None,Low,amlodipine,lofexidine
+adult,Male,5,0,0,1,0,None,Low,amlodipine,bepridil
+elderly,Female,5,0,0,1,0,None,Low,amlodipine,mycophenolate mofetil
+elderly,Female,5,0,0,1,0,None,Low,amlodipine,calcium glubionate anhydrous
+elderly,Female,6,0,0,1,0,None,Low,amlodipine,tiludronic acid
+elderly,Male,7,0,0,0,0,None,Low,bupropion,lansoprazole
+elderly,Male,2,0,0,0,0,None,Low,bupropion,crizotinib
+elderly,Male,2,0,0,0,0,None,Low,azithromycin,ibrutinib
+elderly,Male,6,0,0,0,0,None,Low,azithromycin,alosetron
+elderly,Male,3,0,0,0,0,None,Low,azithromycin,ivermectin
+elderly,Male,4,0,0,0,0,None,Low,azithromycin,isoniazid
+elderly,Male,3,0,0,0,0,None,Low,azithromycin,niflumic acid
+adult,Female,2,0,0,1,0,None,Low,amlodipine,melperone
+adult,Female,6,0,0,1,0,None,Low,amlodipine,treprostinil
+adult,Female,2,0,0,1,0,None,Low,amlodipine,ethyl loflazepate
+adult,Female,5,0,0,1,0,None,Low,amlodipine,ifenprodil
+elderly,Male,6,0,0,0,0,None,Low,ibuprofen,omeprazole
+elderly,Male,5,0,0,0,0,None,Low,ibuprofen,tapentadol
+adult,Male,5,0,0,0,0,None,Low,sertraline,desonide
+adult,Male,6,0,0,0,0,None,Low,sertraline,orlistat
+adult,Male,3,0,0,0,0,None,Low,sertraline,eliglustat
+adult,Male,3,0,0,0,0,None,Low,sertraline,phylloquinone
+adult,Female,5,0,0,0,0,None,Low,tramadol,amphetamine
+adult,Female,4,0,0,0,0,None,Low,tramadol,dextroamphetamine
+adult,Female,7,0,0,0,0,None,Low,tramadol,medroxyprogesterone acetate
+adult,Female,5,0,0,0,0,None,Low,tramadol,indacaterol
+adult,Female,4,0,0,0,0,None,Low,tramadol,flunitrazepam
+elderly,Female,4,0,0,1,0,None,Low,amlodipine,balsalazide
+elderly,Female,2,0,0,1,0,None,Low,amlodipine,benzydamine
+elderly,Female,4,0,0,1,0,None,Low,ibuprofen,orphenadrine
+elderly,Female,2,0,0,1,0,Pharmacodynamic,High,ibuprofen,nabumetone
+adult,Female,2,0,0,1,0,None,Low,ibuprofen,etoricoxib
+adult,Female,6,0,0,1,0,None,Low,ibuprofen,ethynodiol diacetate
+adult,Female,2,0,0,1,0,None,Low,ibuprofen,tapentadol
+adult,Female,6,0,0,1,0,None,Low,ibuprofen,pranlukast
+elderly,Male,4,0,0,1,0,None,Low,azithromycin,thiabendazole
+elderly,Male,2,0,0,1,0,None,Low,azithromycin,lornoxicam
+elderly,Male,6,0,0,1,0,None,Low,azithromycin,buprenorphine
+adult,Male,3,0,0,1,0,None,Low,paracetamol,dorzolamide
+adult,Male,3,0,0,1,0,None,Low,paracetamol,vildagliptin
+adult,Male,3,0,0,1,0,None,Low,paracetamol,astemizole
+adult,Male,2,0,0,1,0,None,Low,paracetamol,felodipine
+adult,Female,6,0,0,1,0,None,Low,paracetamol,dipotassium phosphate
+adult,Female,4,0,0,1,0,None,Low,paracetamol,glycopyrronium
+adult,Female,4,0,0,1,0,None,Low,paracetamol,chlorzoxazone
+adult,Female,6,0,0,1,0,None,Low,paracetamol,flupentixol
+adult,Female,5,0,0,1,0,None,Low,paracetamol,nilvadipine
+elderly,Female,4,0,0,0,1,None,Low,metformin,temozolomide
+elderly,Female,5,0,0,0,1,None,Low,metformin,rescinnamine
+adult,Male,4,0,0,0,0,None,Low,amoxicillin,dosulepin
+adult,Male,2,0,0,0,0,None,Low,amoxicillin,dosulepin
+adult,Male,3,0,0,0,0,None,Low,amoxicillin,selexipag
+adult,Male,2,0,0,0,0,None,Low,amoxicillin,pizotifen
+adult,Male,7,0,0,0,0,None,Low,amoxicillin,dexmedetomidine
+adult,Female,3,0,0,0,1,None,Low,tramadol,remifentanil
+adult,Female,6,0,0,0,1,None,Low,tramadol,warfarin
+adult,Female,5,0,0,0,1,Pharmacodynamic,High,tramadol,methadyl acetate
+adult,Male,6,0,0,0,0,None,Low,bupropion,aceprometazine
+adult,Male,5,0,0,0,0,None,Low,bupropion,silodosin
+adult,Male,5,0,0,0,0,None,Low,bupropion,topiramate
+adult,Male,5,0,0,0,1,None,Low,escitalopram,maprotiline
+adult,Male,2,0,0,0,1,None,Low,escitalopram,docetaxel
+adult,Female,6,0,0,0,1,None,Low,paracetamol,desvenlafaxine
+adult,Female,5,0,0,0,1,None,Low,paracetamol,zaleplon
+adult,Male,3,0,0,1,0,None,Low,ciprofloxacin,clenbuterol
+adult,Male,6,0,0,1,0,None,Low,ciprofloxacin,oxprenolol
+adult,Male,2,0,0,0,0,None,Low,ciprofloxacin,flunisolide
+adult,Male,5,0,0,0,0,None,Low,ciprofloxacin,ciprofloxacin
+adult,Male,7,0,0,0,0,None,Low,ciprofloxacin,vilanterol
+adult,Male,3,0,0,0,0,None,Low,ciprofloxacin,trimipramine
+adult,Male,6,0,0,0,0,None,Low,ciprofloxacin,sulfamoxole
+elderly,Female,3,0,0,0,0,None,Low,azithromycin,bromocriptine
+elderly,Female,3,0,0,0,0,None,Low,azithromycin,griseofulvin
+elderly,Female,2,0,0,0,0,None,Low,azithromycin,flucytosine
+elderly,Female,3,0,0,0,0,None,Low,azithromycin,vinblastine
+adult,Male,2,0,0,0,1,None,Low,insulin glargine,cariprazine
+adult,Male,3,0,0,0,1,None,Low,insulin glargine,famotidine
+adult,Male,6,0,0,0,0,None,Low,bupropion,praziquantel
+adult,Male,4,0,0,0,0,None,Low,bupropion,meclofenamic acid
+adult,Male,5,0,0,0,0,None,Low,bupropion,magnesium oxide
+adult,Male,4,0,0,0,0,None,Low,bupropion,frovatriptan
+adult,Male,6,0,0,0,0,None,Low,bupropion,pentolinium
+adult,Female,2,0,0,0,0,None,Low,ciprofloxacin,selegiline
+adult,Female,4,0,0,0,0,None,Low,ciprofloxacin,leflunomide
+adult,Female,4,0,0,0,0,None,Low,ciprofloxacin,calcium citrate
+adult,Female,6,0,0,0,0,None,Low,ciprofloxacin,fluorometholone
+elderly,Male,6,0,0,0,0,None,Low,azithromycin,bexarotene
+elderly,Male,4,0,0,0,0,None,Low,azithromycin,dexmethylphenidate
+elderly,Male,7,0,0,0,0,None,Low,azithromycin,cephalexin
+elderly,Male,4,0,0,0,0,None,Low,azithromycin,thioproperazine
+elderly,Male,7,0,0,0,0,Pharmacokinetic,Low,azithromycin,ketoconazole
+adult,Male,2,0,0,0,1,None,Low,insulin glargine,rescinnamine
+adult,Male,2,0,0,0,1,None,Low,insulin glargine,saquinavir
+adult,Male,6,0,0,1,0,None,Low,amlodipine,ritonavir
+adult,Male,7,0,0,1,0,None,Low,amlodipine,alclometasone
+adult,Male,5,0,0,1,0,None,Low,amlodipine,idarubicin
+elderly,Female,4,0,0,0,0,None,Low,ciprofloxacin,pentazocine
+elderly,Female,3,0,0,0,0,None,Low,ciprofloxacin,mirtazapine
+elderly,Female,3,0,0,0,0,None,Low,ciprofloxacin,arotinolol
+elderly,Female,7,0,0,0,0,None,Low,ciprofloxacin,lumacaftor
+elderly,Male,6,0,0,0,1,None,Low,insulin glargine,pregabalin
+elderly,Male,4,0,0,0,1,None,Low,insulin glargine,benzatropine
+adult,Male,4,0,0,0,1,None,Low,insulin glargine,nepafenac
+adult,Male,2,0,0,0,1,None,Low,insulin glargine,diltiazem
+adult,Male,3,0,0,0,1,None,Low,insulin glargine,arotinolol
+adult,Female,6,0,0,0,0,None,Low,ciprofloxacin,tioguanine
+adult,Female,3,0,0,0,0,None,Low,ciprofloxacin,flunitrazepam
+adult,Female,5,0,0,0,0,None,Low,ciprofloxacin,azathioprine
+adult,Male,7,0,0,0,1,None,Low,glipizide,sirolimus
+adult,Male,3,0,0,0,1,None,Low,glipizide,digoxin
+adult,Male,6,0,0,0,1,None,Low,glipizide,tetrabenazine
+adult,Male,4,0,0,0,0,None,Low,amoxicillin,hydrochlorothiazide
+adult,Male,4,0,0,0,0,None,Low,amoxicillin,amcinonide
+adult,Male,5,0,0,0,0,None,Low,amoxicillin,methenamine
+adult,Female,5,0,0,0,1,None,Low,ciprofloxacin,mycophenolate mofetil
+adult,Female,6,0,0,0,1,None,Low,ciprofloxacin,digoxin
+adult,Female,4,0,0,0,1,None,Low,ciprofloxacin,clarithromycin
+adult,Female,3,0,0,0,1,None,Low,escitalopram,venetoclax
+adult,Female,3,0,0,0,1,None,Low,escitalopram,nabilone
+adult,Female,7,0,0,0,1,None,Low,escitalopram,maraviroc
+adult,Female,4,0,0,0,1,None,Low,escitalopram,salbutamol
+adult,Female,6,0,1,1,0,None,Low,losartan,terazosin
+adult,Female,2,0,1,1,0,None,Low,losartan,ixabepilone
+adult,Female,6,0,1,1,0,None,Low,losartan,gliclazide
+adult,Female,2,0,1,1,0,None,Low,losartan,omeprazole
+adult,Female,2,0,1,1,0,None,Low,losartan,chlorprothixene
+adult,Male,4,0,0,0,0,None,Low,ibuprofen,hydroflumethiazide
+adult,Male,5,0,0,0,0,None,Low,ibuprofen,etoricoxib
+adult,Male,6,0,0,0,0,None,Low,ibuprofen,oxacillin
+adult,Male,3,0,0,0,0,None,Low,escitalopram,bicalutamide
+adult,Male,6,0,0,0,0,None,Low,escitalopram,plicamycin
+adult,Female,6,0,0,0,0,None,Low,ciprofloxacin,polythiazide
+adult,Female,6,0,0,0,0,None,Low,ciprofloxacin,mezlocillin
+adult,Female,4,0,0,0,0,None,Low,ciprofloxacin,atovaquone
+elderly,Male,6,0,0,0,0,None,Low,ibuprofen,treprostinil
+elderly,Male,6,0,0,0,0,None,Low,ibuprofen,hydralazine
+elderly,Male,6,0,0,0,0,None,Low,ibuprofen,levobunolol
+elderly,Male,7,0,0,0,0,None,Low,ibuprofen,acetyldigitoxin
+adult,Female,3,0,0,0,1,None,Low,azithromycin,rilpivirine
+adult,Female,5,0,0,0,1,None,Low,azithromycin,suprofen
+adult,Female,4,0,0,0,1,None,Low,azithromycin,diphenoxylate
+elderly,Male,7,1,1,0,1,None,Low,insulin glargine,diflunisal
+elderly,Male,6,1,1,0,1,None,Low,insulin glargine,telmisartan
+elderly,Male,5,1,1,0,1,None,Low,insulin glargine,nicergoline
+adult,Female,2,0,0,0,0,None,Low,ibuprofen,salbutamol
+adult,Female,3,0,0,0,0,None,Low,ibuprofen,vigabatrin
+adult,Female,3,0,0,0,0,None,Low,ibuprofen,timolol
+adult,Female,4,0,0,0,0,None,Low,ibuprofen,magnesium trisilicate
+adult,Male,6,1,0,0,1,None,Low,metformin,triazolam
+adult,Male,6,1,0,0,1,None,Low,metformin,isoflurane
+adult,Male,3,1,0,0,1,None,Low,metformin,butoconazole
+adult,Female,3,0,0,0,0,None,Low,paracetamol,gliclazide
+adult,Female,2,0,0,0,0,None,Low,paracetamol,rosuvastatin
+adult,Female,5,0,0,0,0,None,Low,paracetamol,phentermine
+adult,Female,7,0,0,0,0,None,Low,paracetamol,famciclovir
+adult,Female,3,0,0,0,0,None,Low,ibuprofen,sitaxentan
+adult,Female,7,0,0,0,0,Pharmacodynamic,High,ibuprofen,methylprednisolone
+elderly,Female,5,0,0,0,1,None,Low,glipizide,raloxifene
+elderly,Female,2,0,0,0,1,None,Low,glipizide,vandetanib
+elderly,Female,3,0,0,0,1,None,Low,glipizide,ranolazine
+adult,Male,6,0,0,0,0,None,Low,ciprofloxacin,sodium bicarbonate
+adult,Male,3,0,0,0,0,None,Low,ciprofloxacin,labetalol
+adult,Male,2,0,0,0,0,None,Low,ciprofloxacin,trimipramine
+adult,Male,4,0,0,0,0,None,Low,ciprofloxacin,ciclopirox
+adult,Male,4,0,0,0,0,None,Low,ciprofloxacin,benzyl alcohol
+adult,Male,3,0,0,0,0,None,Low,paracetamol,dapsone
+adult,Male,7,0,0,0,0,None,Low,paracetamol,artesunate
+adult,Male,3,0,0,0,0,None,Low,paracetamol,felbamate
+adult,Female,5,0,1,0,1,None,Low,amoxicillin,aprepitant
+adult,Female,5,0,1,0,1,None,Low,amoxicillin,trihexyphenidyl
+adult,Female,7,0,0,1,1,None,Low,insulin glargine,ciprofloxacin
+adult,Female,7,0,0,1,1,None,Low,insulin glargine,flucytosine
+adult,Female,2,0,0,1,1,None,Low,insulin glargine,terazosin
+adult,Female,7,1,0,0,0,None,Low,azithromycin,artemether
+adult,Female,3,1,0,0,0,None,Low,azithromycin,roxithromycin
+adult,Female,5,0,0,0,1,None,Low,glipizide,ethanol
+adult,Female,5,0,0,0,1,None,Low,glipizide,isoflurane
+adult,Female,5,0,0,0,1,None,Low,glipizide,stiripentol
+adult,Female,3,0,0,0,1,None,Low,glipizide,tioconazole
+adult,Female,7,0,0,0,1,None,Low,glipizide,lisinopril
+adult,Female,6,0,0,1,0,None,Low,metoprolol,phenelzine
+adult,Female,4,0,0,1,0,None,Low,metoprolol,temazepam
+adult,Female,2,0,0,1,0,None,Low,amlodipine,dihydrocodeine
+adult,Female,5,0,0,1,0,None,Low,amlodipine,fludarabine
+adult,Female,2,0,0,1,0,None,Low,amlodipine,desvenlafaxine
+adult,Female,4,0,0,1,0,None,Low,amlodipine,diphenoxylate
+adult,Female,6,0,0,1,0,None,Low,amlodipine,tianeptine
+adult,Female,3,0,0,1,0,None,Low,amlodipine,panobinostat
+adult,Female,4,0,0,1,0,None,Low,losartan,metformin
+adult,Female,2,0,0,1,0,None,Low,losartan,timolol
+adult,Female,4,0,0,1,0,None,Low,losartan,articaine
+adult,Female,6,0,1,0,1,None,Low,metformin,pentaerythritol tetranitrate
+adult,Female,3,0,1,0,1,None,Low,metformin,tazarotene
+adult,Female,4,0,1,0,1,None,Low,metformin,molindone
+adult,Female,4,0,1,0,1,None,Low,metformin,indinavir
+adult,Female,2,0,1,0,1,None,Low,metformin,methadone
+elderly,Male,2,0,0,0,0,None,Low,tramadol,droxidopa
+elderly,Male,4,0,0,0,0,None,Low,tramadol,loxoprofen
+elderly,Male,4,0,0,0,0,None,Low,tramadol,mefloquine
+adult,Female,2,0,0,0,0,None,Low,ciprofloxacin,maraviroc
+adult,Female,7,0,0,0,0,None,Low,ciprofloxacin,triflusal
+adult,Female,2,0,0,0,0,None,Low,ciprofloxacin,chloroquine
+adult,Female,7,0,0,1,1,None,Low,amlodipine,oxazepam
+adult,Female,3,0,0,1,1,None,Low,amlodipine,levonordefrin
+adult,Female,2,0,0,1,1,None,Low,amlodipine,bethanidine
+adult,Male,3,0,0,0,1,None,Low,metformin,magnesium hydroxide
+adult,Male,2,0,0,0,1,None,Low,metformin,loxapine
+elderly,Male,2,0,0,0,1,None,Low,metformin,tibolone
+elderly,Male,4,0,0,0,1,None,Low,metformin,promethazine
+elderly,Male,4,0,0,0,1,None,Low,metformin,tizanidine
+adult,Female,5,0,0,0,1,None,Low,tramadol,fluconazole
+adult,Female,3,0,0,0,1,None,Low,tramadol,bromfenac
+adult,Female,2,0,0,0,1,None,Low,tramadol,gabapentin
+adult,Female,4,0,0,0,1,None,Low,tramadol,phylloquinone
+adult,Female,4,0,0,0,1,None,Low,tramadol,nevirapine
+adult,Female,7,1,0,0,0,None,Low,amoxicillin,trimethobenzamide
+adult,Female,6,1,0,0,0,None,Low,amoxicillin,fluticasone propionate
+adult,Female,7,1,0,0,0,None,Low,amoxicillin,nitroxoline
+adult,Female,7,1,0,0,0,None,Low,amoxicillin,pasireotide
+adult,Female,4,1,0,0,0,None,Low,amoxicillin,abemaciclib
+elderly,Male,4,0,0,0,0,None,Low,ibuprofen,acetaminophen
+elderly,Male,2,0,0,0,0,None,Low,ibuprofen,dimenhydrinate
+adult,Male,7,0,0,0,0,None,Low,sertraline,glutethimide
+adult,Male,5,0,0,0,0,None,Low,sertraline,regorafenib
+adult,Male,5,0,0,0,0,None,Low,sertraline,buprenorphine
+adult,Male,2,0,0,0,0,None,Low,sertraline,podofilox
+adult,Male,2,0,0,0,1,None,Low,insulin glargine,thiopental
+adult,Male,7,0,0,0,1,None,Low,insulin glargine,propofol
+adult,Male,5,0,0,0,1,None,Low,escitalopram,carteolol
+adult,Male,7,0,0,0,1,None,Low,escitalopram,piperazine
+adult,Male,2,0,0,0,1,None,Low,escitalopram,rocuronium
+adult,Male,3,0,0,0,1,None,Low,escitalopram,epinephrine
+adult,Male,4,0,0,1,0,None,Low,metoprolol,almasilate
+adult,Male,3,0,0,1,0,None,Low,metoprolol,aceclofenac
+adult,Male,2,0,0,1,0,None,Low,metoprolol,nefazodone
+adult,Male,3,0,0,1,0,None,Low,metoprolol,midodrine
+adult,Female,5,0,0,1,1,None,Low,losartan,dexchlorpheniramine maleate
+adult,Female,3,0,0,1,1,None,Low,losartan,nystatin
+adult,Female,2,0,0,1,1,None,Low,losartan,tavaborole
+adult,Female,5,0,0,1,1,None,Low,losartan,aminosalicylic acid
+elderly,Male,5,0,0,0,1,None,Low,paracetamol,cariprazine
+elderly,Male,2,0,0,0,1,None,Low,paracetamol,clorazepic acid
+adult,Male,6,0,1,1,0,None,Low,amoxicillin,methenamine
+adult,Male,2,0,1,1,0,None,Low,amoxicillin,flurbiprofen
+adult,Male,5,0,1,1,0,None,Low,amoxicillin,cyclosporine
+elderly,Female,7,0,0,0,0,None,Low,sertraline,medroxyprogesterone acetate
+elderly,Female,2,0,0,0,0,None,Low,sertraline,methyclothiazide
+elderly,Female,5,0,0,0,0,None,Low,sertraline,lamotrigine
+elderly,Female,4,0,0,0,0,None,Low,sertraline,bivalirudin
+elderly,Female,6,0,0,0,0,None,Low,sertraline,saxagliptin
+elderly,Male,4,0,0,1,0,None,Low,ciprofloxacin,sugammadex
+elderly,Male,6,0,0,1,0,None,Low,ciprofloxacin,trolamine salicylate
+elderly,Male,5,0,0,1,0,None,Low,ciprofloxacin,tacrolimus
+elderly,Male,7,0,0,1,0,None,Low,ciprofloxacin,diamorphine
+elderly,Male,4,0,0,1,0,None,Low,ciprofloxacin,buprenorphine
+adult,Female,4,0,1,1,0,None,Low,amlodipine,toremifene
+adult,Female,5,0,1,1,0,None,Low,amlodipine,selexipag
+adult,Female,5,0,1,1,0,None,Low,amlodipine,paracetamol
+elderly,Female,7,0,1,0,0,None,Low,amoxicillin,pazopanib
+elderly,Female,2,0,1,0,0,None,Low,amoxicillin,tipiracil
+elderly,Male,4,0,0,0,1,None,Low,ciprofloxacin,cocaine
+elderly,Male,6,0,0,0,1,None,Low,ciprofloxacin,tadalafil
+elderly,Male,6,0,0,0,1,None,Low,ciprofloxacin,pramipexole
+elderly,Male,5,0,0,0,1,None,Low,ciprofloxacin,palonosetron
+adult,Male,4,0,0,1,1,None,Low,losartan,loratadine
+adult,Male,5,0,0,1,1,None,Low,losartan,histamine
+adult,Male,7,0,0,0,0,None,Low,azithromycin,lercanidipine
+adult,Male,3,0,0,0,0,None,Low,azithromycin,aluminum hydroxide
+adult,Male,3,0,0,0,0,None,Low,azithromycin,telaprevir
+adult,Female,2,0,0,0,1,None,Low,sertraline,butabarbital
+adult,Female,5,0,0,0,1,None,Low,sertraline,dexketoprofen
+adult,Female,5,0,0,0,1,None,Low,sertraline,piperazine
+adult,Female,7,0,0,0,1,None,Low,sertraline,rifampicin
+adult,Male,4,0,0,0,0,None,Low,escitalopram,nitric oxide
+adult,Male,7,0,0,0,0,None,Low,escitalopram,milrinone
+adult,Male,4,0,0,0,0,None,Low,escitalopram,tipiracil
+adult,Male,4,0,0,0,0,None,Low,escitalopram,ritonavir
+elderly,Male,2,0,0,1,0,None,Low,metoprolol,treprostinil
+elderly,Male,6,0,0,1,0,None,Low,metoprolol,temazepam

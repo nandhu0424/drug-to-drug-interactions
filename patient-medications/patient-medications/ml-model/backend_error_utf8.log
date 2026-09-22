@@ -1,0 +1,96 @@
+﻿python : Traceback 
+(most recent call 
+last):
+At line:1 char:1
++ python app.py > 
+backend_error.log 2>&1
++ ~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~
+    + CategoryInfo    
+          : 
+NotSpecified    : 
+(Traceback (most     
+recent call last)::   
+ String) [], RemoteE  
+  xception
+    + 
+FullyQualifiedErr    
+orId : NativeComman   
+ dError
+ 
+  File 
+"D:\PROJECT\Sprint Hac
+kathon\patient-medicat
+ions\patient-medicatio
+ns\ml-model\app.py", 
+line 44, in 
+load_artifacts
+    print("\u2705 ML 
+model artifacts 
+loaded successfully")
+    ~~~~~^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^
+  File "D:\Program Fil
+es\Python\Python314\Li
+b\encodings\cp1252.py"
+, line 19, in encode
+    return codecs.char
+map_encode(input,self.
+errors,encoding_table)
+[0]
+           ~~~~~~~~~~~
+~~~~~~~~~~^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 
+'charmap' codec can't 
+encode character 
+'\u2705' in position 
+0: character maps to 
+<undefined>
+
+During handling of 
+the above exception, 
+another exception 
+occurred:
+
+Traceback (most 
+recent call last):
+  File 
+"D:\PROJECT\Sprint Hac
+kathon\patient-medicat
+ions\patient-medicatio
+ns\ml-model\app.py", 
+line 51, in <module>
+    MODEL_LOADED = 
+load_artifacts()
+  File 
+"D:\PROJECT\Sprint Hac
+kathon\patient-medicat
+ions\patient-medicatio
+ns\ml-model\app.py", 
+line 47, in 
+load_artifacts
+    
+print(f"\u26a0\ufe0f  
+Error loading models: 
+{e}")
+    ~~~~~^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Program Fil
+es\Python\Python314\Li
+b\encodings\cp1252.py"
+, line 19, in encode
+    return codecs.char
+map_encode(input,self.
+errors,encoding_table)
+[0]
+           ~~~~~~~~~~~
+~~~~~~~~~~^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 
+'charmap' codec can't 
+encode characters in 
+position 0-1: 
+character maps to 
+<undefined>

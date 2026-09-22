@@ -1,0 +1,8 @@
+{
+    "model_type": "RandomForestClassifier(n_estimators=200)",
+    "association_algorithm": "FP-Growth",
+    "accuracy": 0.928,
+    "precision": 0.928,
+    "total_records": 3795,
+    "dataset_used": "clean_dataset_drug1.csv + clean_dataset_drug2.csv (Merged)"
+}

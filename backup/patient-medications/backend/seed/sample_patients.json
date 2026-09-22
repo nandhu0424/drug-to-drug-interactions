@@ -1,0 +1,102 @@
+[
+  {
+    "testCase": "TC-001: Elderly cardiac patient on Warfarin + Aspirin",
+    "input": { "name": "John Doe", "age": 72, "gender": "Male", "diseases": ["Heart Failure", "Cardiac Disease", "Hypertension"], "allergies": ["Penicillin"], "medications": ["Warfarin", "Aspirin", "Amiodarone", "Digoxin"] },
+    "expectedRisk": "Critical"
+  },
+  {
+    "testCase": "TC-002: Adult diabetic on Metformin + Furosemide",
+    "input": { "name": "Jane Smith", "age": 52, "gender": "Female", "diseases": ["Type 2 Diabetes", "Renal Disease", "Hypertension"], "allergies": [], "medications": ["Metformin", "Furosemide", "Lisinopril"] },
+    "expectedRisk": "Medium"
+  },
+  {
+    "testCase": "TC-003: Young adult on SSRI + Tramadol",
+    "input": { "name": "Alex Johnson", "age": 29, "gender": "Female", "diseases": ["Depression / Anxiety"], "allergies": ["Aspirin / NSAIDs"], "medications": ["Fluoxetine", "Tramadol"] },
+    "expectedRisk": "Critical"
+  },
+  {
+    "testCase": "TC-004: Transplant patient on tacrolimus",
+    "input": { "name": "Maria Garcia", "age": 45, "gender": "Female", "diseases": ["Renal Disease"], "allergies": [], "medications": ["Tacrolimus", "Fluconazole"] },
+    "expectedRisk": "Critical"
+  },
+  {
+    "testCase": "TC-005: Standard hypertension treatment",
+    "input": { "name": "Robert Wilson", "age": 58, "gender": "Male", "diseases": ["Hypertension"], "allergies": [], "medications": ["Amlodipine", "Lisinopril"] },
+    "expectedRisk": "Low"
+  },
+  {
+    "testCase": "TC-006: Statin + Antibiotic interaction",
+    "input": { "name": "Sarah Miller", "age": 62, "gender": "Female", "diseases": ["Hyperlipidemia"], "allergies": [], "medications": ["Simvastatin", "Clarithromycin"] },
+    "expectedRisk": "Critical"
+  },
+  {
+    "testCase": "TC-007: AFib management",
+    "input": { "name": "Michael Brown", "age": 75, "gender": "Male", "diseases": ["Atrial Fibrillation", "Heart Failure"], "allergies": ["Sulfa Drugs"], "medications": ["Digoxin", "Verapamil", "Metoprolol"] },
+    "expectedRisk": "High"
+  },
+  {
+    "testCase": "TC-008: Bipolar disorder and NSAID",
+    "input": { "name": "Emily Davis", "age": 34, "gender": "Female", "diseases": ["Bipolar Disorder"], "allergies": [], "medications": ["Lithium", "Ibuprofen"] },
+    "expectedRisk": "High"
+  },
+  {
+    "testCase": "TC-009: TB treatment",
+    "input": { "name": "James Wilson", "age": 48, "gender": "Male", "diseases": ["Tuberculosis"], "allergies": [], "medications": ["Rifampin", "Warfarin"] },
+    "expectedRisk": "Critical"
+  },
+  {
+    "testCase": "TC-010: Gout and Hypertension",
+    "input": { "name": "Linda Taylor", "age": 67, "gender": "Female", "diseases": ["Hypertension", "Gout"], "allergies": [], "medications": ["Lisinopril", "Spironolactone", "Aspirin"] },
+    "expectedRisk": "High"
+  },
+  {
+    "testCase": "TC-011: COPD and Infection",
+    "input": { "name": "William Moore", "age": 70, "gender": "Male", "diseases": ["Asthma / COPD"], "allergies": [], "medications": ["Theophylline", "Ciprofloxacin"] },
+    "expectedRisk": "High"
+  },
+  {
+    "testCase": "TC-012: Arthritis management",
+    "input": { "name": "Elizabeth Anderson", "age": 55, "gender": "Female", "diseases": ["Rheumatoid Arthritis"], "allergies": [], "medications": ["Methotrexate", "Ibuprofen", "Omeprazole"] },
+    "expectedRisk": "High"
+  },
+  {
+    "testCase": "TC-013: Diabetes and Heartburn",
+    "input": { "name": "David Thomas", "age": 50, "gender": "Male", "diseases": ["Type 2 Diabetes"], "allergies": [], "medications": ["Metformin", "Cimetidine"] },
+    "expectedRisk": "Medium"
+  },
+  {
+    "testCase": "TC-014: Post-MI antiplatelet therapy",
+    "input": { "name": "Patricia Jackson", "age": 63, "gender": "Female", "diseases": ["Cardiac Disease"], "allergies": [], "medications": ["Clopidogrel", "Omeprazole"] },
+    "expectedRisk": "High"
+  },
+  {
+    "testCase": "TC-015: Hypothyroidism and Anticoagulation",
+    "input": { "name": "Richard White", "age": 69, "gender": "Male", "diseases": ["Thyroid Disease"], "allergies": [], "medications": ["Levothyroxine", "Warfarin"] },
+    "expectedRisk": "Medium"
+  },
+  {
+    "testCase": "TC-016: Seizure and Infection",
+    "input": { "name": "Barbara Harris", "age": 42, "gender": "Female", "diseases": ["Epilepsy / Seizures"], "allergies": [], "medications": ["Carbamazepine", "Clarithromycin"] },
+    "expectedRisk": "High"
+  },
+  {
+    "testCase": "TC-017: Pain management in dialysis",
+    "input": { "name": "Joseph Martin", "age": 59, "gender": "Male", "diseases": ["Renal Disease"], "allergies": [], "medications": ["Ibuprofen", "Lisinopril"] },
+    "expectedRisk": "Medium"
+  },
+  {
+    "testCase": "TC-018: HIV treatment and Statins",
+    "input": { "name": "Susan Thompson", "age": 46, "gender": "Female", "diseases": [], "allergies": [], "medications": ["Atorvastatin", "Clarithromycin"] },
+    "expectedRisk": "High"
+  },
+  {
+    "testCase": "TC-019: Elderly with multiple risk factors",
+    "input": { "name": "Charles Garcia", "age": 82, "gender": "Male", "diseases": ["Hypertension", "Type 2 Diabetes", "Heart Failure"], "allergies": [], "medications": ["Metoprolol", "Furosemide", "Metformin", "Lisinopril"] },
+    "expectedRisk": "Medium"
+  },
+  {
+    "testCase": "TC-020: Fungal infection in AFib patient",
+    "input": { "name": "Nancy Martinez", "age": 71, "gender": "Female", "diseases": ["Atrial Fibrillation"], "allergies": [], "medications": ["Warfarin", "Fluconazole"] },
+    "expectedRisk": "Critical"
+  }
+]

@@ -1,0 +1,25 @@
+Drug1,Drug2,Age Group,Meds,Renal,Liver,cardiac,diabets,seve..,other,type
+Candesartan,Abiraterone,elderly,4,0,0,1,0,Medium,,Pharmacokinetic
+Captopril,Abiraterone,adult,3,0,0,0,0,Medium,,Pharmacokinetic
+Carbamazepine,Abiraterone,adult,5,0,1,0,0,High,,Pharmacokinetic
+Carbinoxamine,Abiraterone,child,2,0,0,0,0,Low,,Pharmacodynamic
+Cariprazine,Abiraterone,adult,4,0,0,0,0,Medium,,Pharmacokinetic
+Carisoprodol,Abiraterone,elderly,5,0,0,0,0,Medium,,Pharmacodynamic
+Carmustine,Abiraterone,adult,6,1,1,0,0,Critical,,Pharmacokinetic
+Carteolol,Abiraterone,elderly,4,0,0,1,0,Medium,,Pharmacodynamic
+Carvedilol,Abiraterone,elderly,5,0,0,1,0,High,,Pharmacodynamic
+Celecoxib,Abiraterone,adult,3,1,0,0,0,Medium,,Pharmacokinetic
+Cephalexin,Abiraterone,child,2,0,0,0,0,Low,,Pharmacokinetic
+Cevimeline,Abiraterone,adult,4,0,0,0,0,Medium,,Pharmacodynamic
+Chloramphenicol,Abiraterone,adult,5,0,1,0,0,High,,Pharmacokinetic
+Chlordiazepoxide,Abiraterone,elderly,4,0,0,0,0,High,,Pharmacodynamic
+Chloroquine,Abiraterone,adult,4,0,0,1,0,Medium,,Pharmacokinetic
+Chlorpheniramine,Abiraterone,child,2,0,0,0,0,Low,,Pharmacodynamic
+Chlorpromazine,Abiraterone,adult,5,0,1,0,0,High,,Pharmacodynamic
+Chlorpropamide,Abiraterone,elderly,5,0,0,0,1,High,,Pharmacodynamic
+Chlorzoxazone,Abiraterone,adult,3,0,0,0,0,Low,,Pharmacodynamic
+Cilostazol,Abiraterone,elderly,6,0,0,1,0,Medium,,Pharmacokinetic
+Warfarin,Aspirin,elderly,5,0,0,1,0,High,,Pharmacodynamic
+Simvastatin,Amiodarone,elderly,6,0,1,1,0,Critical,,Pharmacokinetic
+Lisinopril,Ibuprofen,adult,4,1,0,1,0,Medium,,Pharmacodynamic
+Metformin,Furosemide,elderly,5,1,0,0,1,High,,Pharmacokinetic

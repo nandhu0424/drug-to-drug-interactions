@@ -1,0 +1,31 @@
+.results-hero {
+  margin-bottom: 24px;
+  padding: 32px;
+  border-width: 2px !important;
+}
+.risk-gauge { display: flex; align-items: center; justify-content: center; }
+
+.interaction-card {
+  padding: 16px;
+  border-radius: 10px;
+  border: 1px solid var(--color-border);
+  background: var(--color-bg);
+  transition: transform 0.2s;
+  box-shadow: var(--shadow-sm);
+}
+.interaction-card:hover { transform: translateX(4px); box-shadow: var(--shadow-md); }
+.interaction-card.sev-critical { border-left: 4px solid var(--risk-critical); background: var(--risk-critical-bg); }
+.interaction-card.sev-high     { border-left: 4px solid var(--risk-high); background: var(--risk-high-bg); }
+.interaction-card.sev-medium   { border-left: 4px solid var(--risk-medium); background: var(--risk-medium-bg); }
+.interaction-card.sev-low      { border-left: 4px solid var(--risk-low); background: var(--risk-low-bg); }
+
+.interaction-drugs {
+  display: flex; align-items: center; gap: 10; flex-wrap: wrap;
+  display: flex; gap: 8px; align-items: center;
+}
+.drug-pill {
+  padding: 5px 12px; font-size: 13px; font-weight: 700;
+  background: var(--color-primary-dim); border: 1px solid rgba(0,212,255,0.25);
+  border-radius: 6px; color: var(--color-primary);
+}
+.interaction-arrow { font-size: 18px; color: var(--color-text-muted); }

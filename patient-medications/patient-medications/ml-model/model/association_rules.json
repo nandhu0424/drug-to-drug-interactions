@@ -1,0 +1,1476 @@
+[
+    {
+        "antecedents": [
+            "paracetamol"
+        ],
+        "consequents": [
+            "None"
+        ],
+        "support": 0.014,
+        "confidence": 1.0,
+        "lift": 31.625
+    },
+    {
+        "antecedents": [
+            "None"
+        ],
+        "consequents": [
+            "paracetamol"
+        ],
+        "support": 0.014,
+        "confidence": 0.45,
+        "lift": 31.625
+    },
+    {
+        "antecedents": [
+            "insulin glargine"
+        ],
+        "consequents": [
+            "None"
+        ],
+        "support": 0.017,
+        "confidence": 1.0,
+        "lift": 31.625
+    },
+    {
+        "antecedents": [
+            "None"
+        ],
+        "consequents": [
+            "insulin glargine"
+        ],
+        "support": 0.017,
+        "confidence": 0.55,
+        "lift": 31.625
+    },
+    {
+        "antecedents": [
+            "metoprolol"
+        ],
+        "consequents": [
+            "flecainide"
+        ],
+        "support": 0.013,
+        "confidence": 0.2,
+        "lift": 15.18
+    },
+    {
+        "antecedents": [
+            "flecainide"
+        ],
+        "consequents": [
+            "metoprolol"
+        ],
+        "support": 0.013,
+        "confidence": 1.0,
+        "lift": 15.18
+    },
+    {
+        "antecedents": [
+            "levosimendan"
+        ],
+        "consequents": [
+            "metoprolol"
+        ],
+        "support": 0.013,
+        "confidence": 1.0,
+        "lift": 15.18
+    },
+    {
+        "antecedents": [
+            "metoprolol"
+        ],
+        "consequents": [
+            "levosimendan"
+        ],
+        "support": 0.013,
+        "confidence": 0.2,
+        "lift": 15.18
+    },
+    {
+        "antecedents": [
+            "palonosetron"
+        ],
+        "consequents": [
+            "metoprolol"
+        ],
+        "support": 0.013,
+        "confidence": 1.0,
+        "lift": 15.18
+    },
+    {
+        "antecedents": [
+            "metoprolol"
+        ],
+        "consequents": [
+            "palonosetron"
+        ],
+        "support": 0.013,
+        "confidence": 0.2,
+        "lift": 15.18
+    },
+    {
+        "antecedents": [
+            "metoprolol"
+        ],
+        "consequents": [
+            "brexpiprazole"
+        ],
+        "support": 0.013,
+        "confidence": 0.2,
+        "lift": 15.18
+    },
+    {
+        "antecedents": [
+            "brexpiprazole"
+        ],
+        "consequents": [
+            "metoprolol"
+        ],
+        "support": 0.013,
+        "confidence": 1.0,
+        "lift": 15.18
+    },
+    {
+        "antecedents": [
+            "metformin"
+        ],
+        "consequents": [
+            "stanozolol"
+        ],
+        "support": 0.013,
+        "confidence": 0.2,
+        "lift": 15.18
+    },
+    {
+        "antecedents": [
+            "stanozolol"
+        ],
+        "consequents": [
+            "metformin"
+        ],
+        "support": 0.013,
+        "confidence": 1.0,
+        "lift": 15.18
+    },
+    {
+        "antecedents": [
+            "metformin"
+        ],
+        "consequents": [
+            "pasireotide"
+        ],
+        "support": 0.013,
+        "confidence": 0.2,
+        "lift": 15.18
+    },
+    {
+        "antecedents": [
+            "pasireotide"
+        ],
+        "consequents": [
+            "metformin"
+        ],
+        "support": 0.013,
+        "confidence": 1.0,
+        "lift": 15.18
+    },
+    {
+        "antecedents": [
+            "metformin"
+        ],
+        "consequents": [
+            "diflunisal"
+        ],
+        "support": 0.013,
+        "confidence": 0.2,
+        "lift": 15.18
+    },
+    {
+        "antecedents": [
+            "diflunisal"
+        ],
+        "consequents": [
+            "metformin"
+        ],
+        "support": 0.013,
+        "confidence": 1.0,
+        "lift": 15.18
+    },
+    {
+        "antecedents": [
+            "metformin"
+        ],
+        "consequents": [
+            "ranolazine"
+        ],
+        "support": 0.013,
+        "confidence": 0.2,
+        "lift": 15.18
+    },
+    {
+        "antecedents": [
+            "ranolazine"
+        ],
+        "consequents": [
+            "metformin"
+        ],
+        "support": 0.013,
+        "confidence": 1.0,
+        "lift": 15.18
+    },
+    {
+        "antecedents": [
+            "metformin"
+        ],
+        "consequents": [
+            "dexamethasone"
+        ],
+        "support": 0.013,
+        "confidence": 0.2,
+        "lift": 15.18
+    },
+    {
+        "antecedents": [
+            "dexamethasone"
+        ],
+        "consequents": [
+            "metformin"
+        ],
+        "support": 0.013,
+        "confidence": 1.0,
+        "lift": 15.18
+    },
+    {
+        "antecedents": [
+            "pomalidomide"
+        ],
+        "consequents": [
+            "escitalopram"
+        ],
+        "support": 0.013,
+        "confidence": 1.0,
+        "lift": 14.882
+    },
+    {
+        "antecedents": [
+            "escitalopram"
+        ],
+        "consequents": [
+            "pomalidomide"
+        ],
+        "support": 0.013,
+        "confidence": 0.2,
+        "lift": 14.882
+    },
+    {
+        "antecedents": [
+            "iobenguane"
+        ],
+        "consequents": [
+            "escitalopram"
+        ],
+        "support": 0.013,
+        "confidence": 1.0,
+        "lift": 14.882
+    },
+    {
+        "antecedents": [
+            "escitalopram"
+        ],
+        "consequents": [
+            "iobenguane"
+        ],
+        "support": 0.013,
+        "confidence": 0.2,
+        "lift": 14.882
+    },
+    {
+        "antecedents": [
+            "escitalopram"
+        ],
+        "consequents": [
+            "levacetylmethadol"
+        ],
+        "support": 0.013,
+        "confidence": 0.2,
+        "lift": 14.882
+    },
+    {
+        "antecedents": [
+            "levacetylmethadol"
+        ],
+        "consequents": [
+            "escitalopram"
+        ],
+        "support": 0.013,
+        "confidence": 1.0,
+        "lift": 14.882
+    },
+    {
+        "antecedents": [
+            "acenocoumarol"
+        ],
+        "consequents": [
+            "escitalopram"
+        ],
+        "support": 0.013,
+        "confidence": 1.0,
+        "lift": 14.882
+    },
+    {
+        "antecedents": [
+            "escitalopram"
+        ],
+        "consequents": [
+            "acenocoumarol"
+        ],
+        "support": 0.013,
+        "confidence": 0.2,
+        "lift": 14.882
+    },
+    {
+        "antecedents": [
+            "cimetidine"
+        ],
+        "consequents": [
+            "escitalopram"
+        ],
+        "support": 0.013,
+        "confidence": 1.0,
+        "lift": 14.882
+    },
+    {
+        "antecedents": [
+            "escitalopram"
+        ],
+        "consequents": [
+            "cimetidine"
+        ],
+        "support": 0.013,
+        "confidence": 0.2,
+        "lift": 14.882
+    },
+    {
+        "antecedents": [
+            "ibuprofen"
+        ],
+        "consequents": [
+            "fenbufen"
+        ],
+        "support": 0.014,
+        "confidence": 0.2,
+        "lift": 13.8
+    },
+    {
+        "antecedents": [
+            "fenbufen"
+        ],
+        "consequents": [
+            "ibuprofen"
+        ],
+        "support": 0.014,
+        "confidence": 1.0,
+        "lift": 13.8
+    },
+    {
+        "antecedents": [
+            "ibuprofen"
+        ],
+        "consequents": [
+            "bumetanide"
+        ],
+        "support": 0.014,
+        "confidence": 0.2,
+        "lift": 13.8
+    },
+    {
+        "antecedents": [
+            "bumetanide"
+        ],
+        "consequents": [
+            "ibuprofen"
+        ],
+        "support": 0.014,
+        "confidence": 1.0,
+        "lift": 13.8
+    },
+    {
+        "antecedents": [
+            "clocortolone"
+        ],
+        "consequents": [
+            "ibuprofen"
+        ],
+        "support": 0.014,
+        "confidence": 1.0,
+        "lift": 13.8
+    },
+    {
+        "antecedents": [
+            "ibuprofen"
+        ],
+        "consequents": [
+            "clocortolone"
+        ],
+        "support": 0.014,
+        "confidence": 0.2,
+        "lift": 13.8
+    },
+    {
+        "antecedents": [
+            "azithromycin"
+        ],
+        "consequents": [
+            "resveratrol"
+        ],
+        "support": 0.015,
+        "confidence": 0.2,
+        "lift": 13.316
+    },
+    {
+        "antecedents": [
+            "resveratrol"
+        ],
+        "consequents": [
+            "azithromycin"
+        ],
+        "support": 0.015,
+        "confidence": 1.0,
+        "lift": 13.316
+    },
+    {
+        "antecedents": [
+            "sildenafil"
+        ],
+        "consequents": [
+            "azithromycin"
+        ],
+        "support": 0.015,
+        "confidence": 1.0,
+        "lift": 13.316
+    },
+    {
+        "antecedents": [
+            "azithromycin"
+        ],
+        "consequents": [
+            "sildenafil"
+        ],
+        "support": 0.015,
+        "confidence": 0.2,
+        "lift": 13.316
+    },
+    {
+        "antecedents": [
+            "ticlopidine"
+        ],
+        "consequents": [
+            "azithromycin"
+        ],
+        "support": 0.015,
+        "confidence": 1.0,
+        "lift": 13.316
+    },
+    {
+        "antecedents": [
+            "azithromycin"
+        ],
+        "consequents": [
+            "ticlopidine"
+        ],
+        "support": 0.015,
+        "confidence": 0.2,
+        "lift": 13.316
+    },
+    {
+        "antecedents": [
+            "azithromycin"
+        ],
+        "consequents": [
+            "methoxyflurane"
+        ],
+        "support": 0.015,
+        "confidence": 0.2,
+        "lift": 13.316
+    },
+    {
+        "antecedents": [
+            "methoxyflurane"
+        ],
+        "consequents": [
+            "azithromycin"
+        ],
+        "support": 0.015,
+        "confidence": 1.0,
+        "lift": 13.316
+    },
+    {
+        "antecedents": [
+            "azithromycin"
+        ],
+        "consequents": [
+            "aripiprazole"
+        ],
+        "support": 0.015,
+        "confidence": 0.2,
+        "lift": 13.316
+    },
+    {
+        "antecedents": [
+            "aripiprazole"
+        ],
+        "consequents": [
+            "azithromycin"
+        ],
+        "support": 0.015,
+        "confidence": 1.0,
+        "lift": 13.316
+    },
+    {
+        "antecedents": [
+            "sertraline"
+        ],
+        "consequents": [
+            "dolasetron"
+        ],
+        "support": 0.013,
+        "confidence": 0.163,
+        "lift": 12.864
+    },
+    {
+        "antecedents": [
+            "dolasetron"
+        ],
+        "consequents": [
+            "sertraline"
+        ],
+        "support": 0.013,
+        "confidence": 1.0,
+        "lift": 12.864
+    },
+    {
+        "antecedents": [
+            "sertraline"
+        ],
+        "consequents": [
+            "desvenlafaxine"
+        ],
+        "support": 0.013,
+        "confidence": 0.163,
+        "lift": 12.864
+    },
+    {
+        "antecedents": [
+            "desvenlafaxine"
+        ],
+        "consequents": [
+            "sertraline"
+        ],
+        "support": 0.013,
+        "confidence": 1.0,
+        "lift": 12.864
+    },
+    {
+        "antecedents": [
+            "sertraline"
+        ],
+        "consequents": [
+            "ibutilide"
+        ],
+        "support": 0.013,
+        "confidence": 0.163,
+        "lift": 12.864
+    },
+    {
+        "antecedents": [
+            "ibutilide"
+        ],
+        "consequents": [
+            "sertraline"
+        ],
+        "support": 0.013,
+        "confidence": 1.0,
+        "lift": 12.864
+    },
+    {
+        "antecedents": [
+            "sertraline"
+        ],
+        "consequents": [
+            "ranitidine"
+        ],
+        "support": 0.013,
+        "confidence": 0.163,
+        "lift": 12.864
+    },
+    {
+        "antecedents": [
+            "ranitidine"
+        ],
+        "consequents": [
+            "sertraline"
+        ],
+        "support": 0.013,
+        "confidence": 1.0,
+        "lift": 12.864
+    },
+    {
+        "antecedents": [
+            "ketobemidone"
+        ],
+        "consequents": [
+            "sertraline"
+        ],
+        "support": 0.013,
+        "confidence": 1.0,
+        "lift": 12.864
+    },
+    {
+        "antecedents": [
+            "sertraline"
+        ],
+        "consequents": [
+            "ketobemidone"
+        ],
+        "support": 0.013,
+        "confidence": 0.163,
+        "lift": 12.864
+    },
+    {
+        "antecedents": [
+            "amoxicillin"
+        ],
+        "consequents": [
+            "streptozocin"
+        ],
+        "support": 0.016,
+        "confidence": 0.2,
+        "lift": 12.864
+    },
+    {
+        "antecedents": [
+            "streptozocin"
+        ],
+        "consequents": [
+            "amoxicillin"
+        ],
+        "support": 0.016,
+        "confidence": 1.0,
+        "lift": 12.864
+    },
+    {
+        "antecedents": [
+            "amoxicillin"
+        ],
+        "consequents": [
+            "acemetacin"
+        ],
+        "support": 0.016,
+        "confidence": 0.2,
+        "lift": 12.864
+    },
+    {
+        "antecedents": [
+            "acemetacin"
+        ],
+        "consequents": [
+            "amoxicillin"
+        ],
+        "support": 0.016,
+        "confidence": 1.0,
+        "lift": 12.864
+    },
+    {
+        "antecedents": [
+            "amoxicillin"
+        ],
+        "consequents": [
+            "doxorubicin"
+        ],
+        "support": 0.016,
+        "confidence": 0.2,
+        "lift": 12.864
+    },
+    {
+        "antecedents": [
+            "doxorubicin"
+        ],
+        "consequents": [
+            "amoxicillin"
+        ],
+        "support": 0.016,
+        "confidence": 1.0,
+        "lift": 12.864
+    },
+    {
+        "antecedents": [
+            "rucaparib"
+        ],
+        "consequents": [
+            "amoxicillin"
+        ],
+        "support": 0.016,
+        "confidence": 1.0,
+        "lift": 12.864
+    },
+    {
+        "antecedents": [
+            "amoxicillin"
+        ],
+        "consequents": [
+            "rucaparib"
+        ],
+        "support": 0.016,
+        "confidence": 0.2,
+        "lift": 12.864
+    },
+    {
+        "antecedents": [
+            "amoxicillin"
+        ],
+        "consequents": [
+            "voriconazole"
+        ],
+        "support": 0.016,
+        "confidence": 0.2,
+        "lift": 12.864
+    },
+    {
+        "antecedents": [
+            "voriconazole"
+        ],
+        "consequents": [
+            "amoxicillin"
+        ],
+        "support": 0.016,
+        "confidence": 1.0,
+        "lift": 12.864
+    },
+    {
+        "antecedents": [
+            "glipizide"
+        ],
+        "consequents": [
+            "olsalazine"
+        ],
+        "support": 0.016,
+        "confidence": 0.2,
+        "lift": 12.65
+    },
+    {
+        "antecedents": [
+            "olsalazine"
+        ],
+        "consequents": [
+            "glipizide"
+        ],
+        "support": 0.016,
+        "confidence": 1.0,
+        "lift": 12.65
+    },
+    {
+        "antecedents": [
+            "glipizide"
+        ],
+        "consequents": [
+            "pefloxacin"
+        ],
+        "support": 0.016,
+        "confidence": 0.2,
+        "lift": 12.65
+    },
+    {
+        "antecedents": [
+            "pefloxacin"
+        ],
+        "consequents": [
+            "glipizide"
+        ],
+        "support": 0.016,
+        "confidence": 1.0,
+        "lift": 12.65
+    },
+    {
+        "antecedents": [
+            "telithromycin"
+        ],
+        "consequents": [
+            "glipizide"
+        ],
+        "support": 0.016,
+        "confidence": 1.0,
+        "lift": 12.65
+    },
+    {
+        "antecedents": [
+            "glipizide"
+        ],
+        "consequents": [
+            "telithromycin"
+        ],
+        "support": 0.016,
+        "confidence": 0.2,
+        "lift": 12.65
+    },
+    {
+        "antecedents": [
+            "glipizide"
+        ],
+        "consequents": [
+            "mifepristone"
+        ],
+        "support": 0.016,
+        "confidence": 0.2,
+        "lift": 12.65
+    },
+    {
+        "antecedents": [
+            "mifepristone"
+        ],
+        "consequents": [
+            "glipizide"
+        ],
+        "support": 0.016,
+        "confidence": 1.0,
+        "lift": 12.65
+    },
+    {
+        "antecedents": [
+            "olaparib"
+        ],
+        "consequents": [
+            "glipizide"
+        ],
+        "support": 0.016,
+        "confidence": 1.0,
+        "lift": 12.65
+    },
+    {
+        "antecedents": [
+            "glipizide"
+        ],
+        "consequents": [
+            "olaparib"
+        ],
+        "support": 0.016,
+        "confidence": 0.2,
+        "lift": 12.65
+    },
+    {
+        "antecedents": [
+            "nicardipine"
+        ],
+        "consequents": [
+            "amlodipine"
+        ],
+        "support": 0.016,
+        "confidence": 1.0,
+        "lift": 12.242
+    },
+    {
+        "antecedents": [
+            "amlodipine"
+        ],
+        "consequents": [
+            "nicardipine"
+        ],
+        "support": 0.016,
+        "confidence": 0.2,
+        "lift": 12.242
+    },
+    {
+        "antecedents": [
+            "miconazole"
+        ],
+        "consequents": [
+            "amlodipine"
+        ],
+        "support": 0.016,
+        "confidence": 1.0,
+        "lift": 12.242
+    },
+    {
+        "antecedents": [
+            "amlodipine"
+        ],
+        "consequents": [
+            "miconazole"
+        ],
+        "support": 0.016,
+        "confidence": 0.2,
+        "lift": 12.242
+    },
+    {
+        "antecedents": [
+            "rotigotine"
+        ],
+        "consequents": [
+            "amlodipine"
+        ],
+        "support": 0.016,
+        "confidence": 1.0,
+        "lift": 12.242
+    },
+    {
+        "antecedents": [
+            "amlodipine"
+        ],
+        "consequents": [
+            "rotigotine"
+        ],
+        "support": 0.016,
+        "confidence": 0.2,
+        "lift": 12.242
+    },
+    {
+        "antecedents": [
+            "nilotinib"
+        ],
+        "consequents": [
+            "amlodipine"
+        ],
+        "support": 0.016,
+        "confidence": 1.0,
+        "lift": 12.242
+    },
+    {
+        "antecedents": [
+            "amlodipine"
+        ],
+        "consequents": [
+            "nilotinib"
+        ],
+        "support": 0.016,
+        "confidence": 0.2,
+        "lift": 12.242
+    },
+    {
+        "antecedents": [
+            "rescinnamine"
+        ],
+        "consequents": [
+            "amlodipine"
+        ],
+        "support": 0.016,
+        "confidence": 1.0,
+        "lift": 12.242
+    },
+    {
+        "antecedents": [
+            "amlodipine"
+        ],
+        "consequents": [
+            "rescinnamine"
+        ],
+        "support": 0.016,
+        "confidence": 0.2,
+        "lift": 12.242
+    },
+    {
+        "antecedents": [
+            "methadone"
+        ],
+        "consequents": [
+            "ciprofloxacin"
+        ],
+        "support": 0.017,
+        "confidence": 1.0,
+        "lift": 11.859
+    },
+    {
+        "antecedents": [
+            "ciprofloxacin"
+        ],
+        "consequents": [
+            "methadone"
+        ],
+        "support": 0.017,
+        "confidence": 0.2,
+        "lift": 11.859
+    },
+    {
+        "antecedents": [
+            "haloperidol"
+        ],
+        "consequents": [
+            "ciprofloxacin"
+        ],
+        "support": 0.017,
+        "confidence": 1.0,
+        "lift": 11.859
+    },
+    {
+        "antecedents": [
+            "ciprofloxacin"
+        ],
+        "consequents": [
+            "haloperidol"
+        ],
+        "support": 0.017,
+        "confidence": 0.2,
+        "lift": 11.859
+    },
+    {
+        "antecedents": [
+            "arformoterol"
+        ],
+        "consequents": [
+            "ciprofloxacin"
+        ],
+        "support": 0.017,
+        "confidence": 1.0,
+        "lift": 11.859
+    },
+    {
+        "antecedents": [
+            "ciprofloxacin"
+        ],
+        "consequents": [
+            "arformoterol"
+        ],
+        "support": 0.017,
+        "confidence": 0.2,
+        "lift": 11.859
+    },
+    {
+        "antecedents": [
+            "metronidazole"
+        ],
+        "consequents": [
+            "ciprofloxacin"
+        ],
+        "support": 0.017,
+        "confidence": 1.0,
+        "lift": 11.859
+    },
+    {
+        "antecedents": [
+            "ciprofloxacin"
+        ],
+        "consequents": [
+            "metronidazole"
+        ],
+        "support": 0.017,
+        "confidence": 0.2,
+        "lift": 11.859
+    },
+    {
+        "antecedents": [
+            "salbutamol"
+        ],
+        "consequents": [
+            "ciprofloxacin"
+        ],
+        "support": 0.017,
+        "confidence": 1.0,
+        "lift": 11.859
+    },
+    {
+        "antecedents": [
+            "ciprofloxacin"
+        ],
+        "consequents": [
+            "salbutamol"
+        ],
+        "support": 0.017,
+        "confidence": 0.2,
+        "lift": 11.859
+    },
+    {
+        "antecedents": [
+            "midostaurin"
+        ],
+        "consequents": [
+            "bupropion"
+        ],
+        "support": 0.014,
+        "confidence": 1.0,
+        "lift": 11.859
+    },
+    {
+        "antecedents": [
+            "bupropion"
+        ],
+        "consequents": [
+            "midostaurin"
+        ],
+        "support": 0.014,
+        "confidence": 0.169,
+        "lift": 11.859
+    },
+    {
+        "antecedents": [
+            "ziprasidone"
+        ],
+        "consequents": [
+            "bupropion"
+        ],
+        "support": 0.014,
+        "confidence": 1.0,
+        "lift": 11.859
+    },
+    {
+        "antecedents": [
+            "bupropion"
+        ],
+        "consequents": [
+            "ziprasidone"
+        ],
+        "support": 0.014,
+        "confidence": 0.169,
+        "lift": 11.859
+    },
+    {
+        "antecedents": [
+            "clarithromycin"
+        ],
+        "consequents": [
+            "bupropion"
+        ],
+        "support": 0.014,
+        "confidence": 1.0,
+        "lift": 11.859
+    },
+    {
+        "antecedents": [
+            "bupropion"
+        ],
+        "consequents": [
+            "clarithromycin"
+        ],
+        "support": 0.014,
+        "confidence": 0.169,
+        "lift": 11.859
+    },
+    {
+        "antecedents": [
+            "rolapitant"
+        ],
+        "consequents": [
+            "bupropion"
+        ],
+        "support": 0.014,
+        "confidence": 1.0,
+        "lift": 11.859
+    },
+    {
+        "antecedents": [
+            "bupropion"
+        ],
+        "consequents": [
+            "rolapitant"
+        ],
+        "support": 0.014,
+        "confidence": 0.169,
+        "lift": 11.859
+    },
+    {
+        "antecedents": [
+            "valsartan"
+        ],
+        "consequents": [
+            "bupropion"
+        ],
+        "support": 0.014,
+        "confidence": 1.0,
+        "lift": 11.859
+    },
+    {
+        "antecedents": [
+            "bupropion"
+        ],
+        "consequents": [
+            "valsartan"
+        ],
+        "support": 0.014,
+        "confidence": 0.169,
+        "lift": 11.859
+    },
+    {
+        "antecedents": [
+            "tramadol"
+        ],
+        "consequents": [
+            "pravastatin"
+        ],
+        "support": 0.017,
+        "confidence": 0.2,
+        "lift": 11.677
+    },
+    {
+        "antecedents": [
+            "pravastatin"
+        ],
+        "consequents": [
+            "tramadol"
+        ],
+        "support": 0.017,
+        "confidence": 1.0,
+        "lift": 11.677
+    },
+    {
+        "antecedents": [
+            "tramadol"
+        ],
+        "consequents": [
+            "butabarbital"
+        ],
+        "support": 0.017,
+        "confidence": 0.2,
+        "lift": 11.677
+    },
+    {
+        "antecedents": [
+            "butabarbital"
+        ],
+        "consequents": [
+            "tramadol"
+        ],
+        "support": 0.017,
+        "confidence": 1.0,
+        "lift": 11.677
+    },
+    {
+        "antecedents": [
+            "bromazepam"
+        ],
+        "consequents": [
+            "tramadol"
+        ],
+        "support": 0.017,
+        "confidence": 1.0,
+        "lift": 11.677
+    },
+    {
+        "antecedents": [
+            "tramadol"
+        ],
+        "consequents": [
+            "bromazepam"
+        ],
+        "support": 0.017,
+        "confidence": 0.2,
+        "lift": 11.677
+    },
+    {
+        "antecedents": [
+            "ondansetron"
+        ],
+        "consequents": [
+            "tramadol"
+        ],
+        "support": 0.017,
+        "confidence": 1.0,
+        "lift": 11.677
+    },
+    {
+        "antecedents": [
+            "tramadol"
+        ],
+        "consequents": [
+            "ondansetron"
+        ],
+        "support": 0.017,
+        "confidence": 0.2,
+        "lift": 11.677
+    },
+    {
+        "antecedents": [
+            "tramadol"
+        ],
+        "consequents": [
+            "frovatriptan"
+        ],
+        "support": 0.017,
+        "confidence": 0.2,
+        "lift": 11.677
+    },
+    {
+        "antecedents": [
+            "frovatriptan"
+        ],
+        "consequents": [
+            "tramadol"
+        ],
+        "support": 0.017,
+        "confidence": 1.0,
+        "lift": 11.677
+    },
+    {
+        "antecedents": [
+            "nevirapine"
+        ],
+        "consequents": [
+            "losartan"
+        ],
+        "support": 0.016,
+        "confidence": 1.0,
+        "lift": 10.69
+    },
+    {
+        "antecedents": [
+            "losartan"
+        ],
+        "consequents": [
+            "nevirapine"
+        ],
+        "support": 0.016,
+        "confidence": 0.169,
+        "lift": 10.69
+    },
+    {
+        "antecedents": [
+            "acebutolol"
+        ],
+        "consequents": [
+            "losartan"
+        ],
+        "support": 0.016,
+        "confidence": 1.0,
+        "lift": 10.69
+    },
+    {
+        "antecedents": [
+            "losartan"
+        ],
+        "consequents": [
+            "acebutolol"
+        ],
+        "support": 0.016,
+        "confidence": 0.169,
+        "lift": 10.69
+    },
+    {
+        "antecedents": [
+            "bendroflumethiazide"
+        ],
+        "consequents": [
+            "losartan"
+        ],
+        "support": 0.016,
+        "confidence": 1.0,
+        "lift": 10.69
+    },
+    {
+        "antecedents": [
+            "losartan"
+        ],
+        "consequents": [
+            "bendroflumethiazide"
+        ],
+        "support": 0.016,
+        "confidence": 0.169,
+        "lift": 10.69
+    },
+    {
+        "antecedents": [
+            "simeprevir"
+        ],
+        "consequents": [
+            "losartan"
+        ],
+        "support": 0.016,
+        "confidence": 1.0,
+        "lift": 10.69
+    },
+    {
+        "antecedents": [
+            "losartan"
+        ],
+        "consequents": [
+            "simeprevir"
+        ],
+        "support": 0.016,
+        "confidence": 0.169,
+        "lift": 10.69
+    },
+    {
+        "antecedents": [
+            "loperamide"
+        ],
+        "consequents": [
+            "losartan"
+        ],
+        "support": 0.016,
+        "confidence": 1.0,
+        "lift": 10.69
+    },
+    {
+        "antecedents": [
+            "losartan"
+        ],
+        "consequents": [
+            "loperamide"
+        ],
+        "support": 0.016,
+        "confidence": 0.169,
+        "lift": 10.69
+    },
+    {
+        "antecedents": [
+            "sertraline"
+        ],
+        "consequents": [
+            "ibuprofen"
+        ],
+        "support": 0.014,
+        "confidence": 0.186,
+        "lift": 2.573
+    },
+    {
+        "antecedents": [
+            "ibuprofen"
+        ],
+        "consequents": [
+            "sertraline"
+        ],
+        "support": 0.014,
+        "confidence": 0.2,
+        "lift": 2.573
+    },
+    {
+        "antecedents": [
+            "metoprolol"
+        ],
+        "consequents": [
+            "bupropion"
+        ],
+        "support": 0.013,
+        "confidence": 0.2,
+        "lift": 2.372
+    },
+    {
+        "antecedents": [
+            "bupropion"
+        ],
+        "consequents": [
+            "metoprolol"
+        ],
+        "support": 0.013,
+        "confidence": 0.156,
+        "lift": 2.372
+    },
+    {
+        "antecedents": [
+            "ibuprofen"
+        ],
+        "consequents": [
+            "losartan"
+        ],
+        "support": 0.014,
+        "confidence": 0.2,
+        "lift": 2.138
+    },
+    {
+        "antecedents": [
+            "losartan"
+        ],
+        "consequents": [
+            "ibuprofen"
+        ],
+        "support": 0.014,
+        "confidence": 0.155,
+        "lift": 2.138
+    }
+]

@@ -1,0 +1,257 @@
+javac : src\main\java\c
+om\druganalyzer\DrugAna
+lyzerApp.java:217: 
+error: incompatible 
+types: 
+Map<String,String> 
+cannot be converted to 
+long
+At line:1 char:18
++ ... ing-module; 
+javac -d 
+target/classes src/main
+/java/com/druganalyzer/
+Dr ...
++                 ~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~
+    + CategoryInfo     
+         : NotSpecifi  
+  ed: (src\main\java   
+ \c...nverted to lo    
+ng:String) [], Rem    
+oteException
+    + FullyQualifiedEr 
+   rorId : NativeComm  
+  andError
+ 
+                       
+     get(row, 
+"drug1"), get(row, 
+"drug2"),
+                       
+         ^
+src\main\java\com\druga
+nalyzer\DrugAnalyzerApp
+.java:217: error: 
+incompatible types: 
+Map<String,String> 
+cannot be converted to 
+long
+                       
+     get(row, 
+"drug1"), get(row, 
+"drug2"),
+                       
+                       
+     ^
+src\main\java\com\druga
+nalyzer\DrugAnalyzerApp
+.java:218: error: 
+incompatible types: 
+Map<String,String> 
+cannot be converted to 
+long
+                       
+     get(row, 
+"patient_age_group"), 
+get(row, 
+"patient_gender"),
+                       
+         ^
+src\main\java\com\druga
+nalyzer\DrugAnalyzerApp
+.java:218: error: 
+incompatible types: 
+Map<String,String> 
+cannot be converted to 
+long
+                       
+     get(row, 
+"patient_age_group"), 
+get(row, 
+"patient_gender"),
+                       
+                       
+                 ^
+src\main\java\com\druga
+nalyzer\DrugAnalyzerApp
+.java:219: error: 
+incompatible types: 
+Map<String,String> 
+cannot be converted to 
+long
+                       
+     get(row, 
+"num_medications"),
+                       
+         ^
+src\main\java\com\druga
+nalyzer\DrugAnalyzerApp
+.java:220: error: 
+incompatible types: 
+Map<String,String> 
+cannot be converted to 
+long
+                       
+     yesNo(get(row, 
+"has_renal_disease")),
+                       
+               ^
+src\main\java\com\druga
+nalyzer\DrugAnalyzerApp
+.java:221: error: 
+incompatible types: 
+Map<String,String> 
+cannot be converted to 
+long
+                       
+     yesNo(get(row, 
+"has_liver_disease")),
+                       
+               ^
+src\main\java\com\druga
+nalyzer\DrugAnalyzerApp
+.java:222: error: 
+incompatible types: 
+Map<String,String> 
+cannot be converted to 
+long
+                       
+     yesNo(get(row, "ha
+s_cardiac_disease")),
+                       
+               ^
+src\main\java\com\druga
+nalyzer\DrugAnalyzerApp
+.java:223: error: 
+incompatible types: 
+Map<String,String> 
+cannot be converted to 
+long
+                       
+     yesNo(get(row, 
+"has_diabetes")),
+                       
+               ^
+src\main\java\com\druga
+nalyzer\DrugAnalyzerApp
+.java:224: error: 
+incompatible types: 
+Map<String,String> 
+cannot be converted to 
+long
+                       
+     get(row, 
+"severity"),
+                       
+         ^
+src\main\java\com\druga
+nalyzer\DrugAnalyzerApp
+.java:225: error: 
+incompatible types: 
+Map<String,String> 
+cannot be converted to 
+long
+                       
+     get(row, 
+"interaction_type")
+                       
+         ^
+src\main\java\com\druga
+nalyzer\DrugAnalyzerApp
+.java:288: error: 
+incompatible types: 
+Map<String,String> 
+cannot be converted to 
+long
+                    
+String d1 = get(row, 
+"drug1");
+                       
+             ^
+src\main\java\com\druga
+nalyzer\DrugAnalyzerApp
+.java:289: error: 
+incompatible types: 
+Map<String,String> 
+cannot be converted to 
+long
+                    
+String d2 = get(row, 
+"drug2");
+                       
+             ^
+src\main\java\com\druga
+nalyzer\DrugAnalyzerApp
+.java:290: error: 
+incompatible types: 
+Map<String,String> 
+cannot be converted to 
+long
+                    
+String sev = get(row, 
+"severity");
+                       
+              ^
+src\main\java\com\druga
+nalyzer\DrugAnalyzerApp
+.java:291: error: 
+incompatible types: 
+Map<String,String> 
+cannot be converted to 
+long
+                    
+String age = get(row, 
+"patient_age_group");
+                       
+              ^
+src\main\java\com\druga
+nalyzer\DrugAnalyzerApp
+.java:296: error: 
+incompatible types: 
+Map<String,String> 
+cannot be converted to 
+long
+                    if 
+("1".equals(get(row,"ha
+s_cardiac_disease"))) b
+asket.add("condition:ca
+rdiac");
+                       
+                ^
+src\main\java\com\druga
+nalyzer\DrugAnalyzerApp
+.java:297: error: 
+incompatible types: 
+Map<String,String> 
+cannot be converted to 
+long
+                    if 
+("1".equals(get(row,"ha
+s_renal_disease")))   b
+asket.add("condition:re
+nal");
+                       
+                ^
+src\main\java\com\druga
+nalyzer\DrugAnalyzerApp
+.java:298: error: 
+incompatible types: 
+Map<String,String> 
+cannot be converted to 
+long
+                    if 
+("1".equals(get(row,"ha
+s_diabetes")))        b
+asket.add("condition:di
+abetes");
+                       
+                ^
+Note: Some messages 
+have been simplified; 
+recompile with 
+-Xdiags:verbose to get 
+full output
+18 errors

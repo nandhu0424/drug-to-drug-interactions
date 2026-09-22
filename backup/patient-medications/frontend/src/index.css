@@ -1,0 +1,217 @@
+/* ============================================
+   Global Design System - Dark Theme
+   Drug Interaction Risk Analyzer
+   ============================================ */
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap');
+
+:root {
+  --color-bg:           #ffffff;
+  --color-surface:      #f9fafb;
+  --color-surface-2:    #f3f4f6;
+  --color-border:       #e5e7eb;
+  --color-primary:      #2563eb;
+  --color-primary-dim:  rgba(37, 99, 235, 0.1);
+  --color-secondary:    #7c3aed;
+  --color-text:         #111827;
+  --color-text-muted:   #4b5563;
+  --color-text-light:   #6b7280;
+
+  --risk-low:           #059669;
+  --risk-low-bg:        rgba(5, 150, 105, 0.1);
+  --risk-medium:        #d97706;
+  --risk-medium-bg:     rgba(217, 119, 6, 0.1);
+  --risk-high:          #dc2626;
+  --risk-high-bg:       rgba(220, 38, 38, 0.1);
+  --risk-critical:      #991b1b;
+  --risk-critical-bg:   rgba(153, 27, 27, 0.12);
+
+  --radius-sm:  6px;
+  --radius-md:  10px;
+  --radius-lg:  16px;
+  --shadow-sm:   0 1px 2px 0 rgba(0, 0, 0, 0.05);
+  --shadow-md:   0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+  --shadow-lg:   0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+}
+
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+html { scroll-behavior: smooth; }
+
+body {
+  font-family: 'Inter', system-ui, sans-serif;
+  background: var(--color-bg);
+  color: var(--color-text);
+  line-height: 1.6;
+  min-height: 100vh;
+}
+
+/* ── Scrollbar ─────────────────────────────────────── */
+::-webkit-scrollbar { width: 8px; height: 8px; }
+::-webkit-scrollbar-track { background: var(--color-surface); }
+::-webkit-scrollbar-thumb { background: var(--color-border); border-radius: 4px; }
+::-webkit-scrollbar-thumb:hover { background: #d1d5db; }
+
+/* ── Cards ─────────────────────────────────────────── */
+.card {
+  background: var(--color-bg);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-lg);
+  padding: 24px;
+  transition: transform 0.2s, box-shadow 0.2s;
+  box-shadow: var(--shadow-sm);
+}
+.card:hover { transform: translateY(-2px); box-shadow: var(--shadow-md); }
+
+.card-glass {
+  background: rgba(255, 255, 255, 0.8);
+  backdrop-filter: blur(12px);
+  border: 1px solid rgba(0, 0, 0, 0.05);
+  border-radius: var(--radius-lg);
+}
+
+/* ── Buttons ────────────────────────────────────────── */
+.btn {
+  display: inline-flex; align-items: center; gap: 8px;
+  padding: 10px 20px;
+  border-radius: var(--radius-sm);
+  font-size: 14px; font-weight: 600;
+  cursor: pointer; border: none;
+  transition: all 0.2s;
+  text-decoration: none;
+}
+.btn-primary {
+  background: var(--color-primary);
+  color: #ffffff;
+}
+.btn-primary:hover { transform: translateY(-1px); box-shadow: 0 4px 12px rgba(37, 99, 235, 0.25); filter: brightness(1.1); }
+
+.btn-danger {
+  background: linear-gradient(135deg, #ef4444, #b91c1c);
+  color: #fff;
+}
+.btn-outline {
+  background: transparent;
+  border: 1px solid var(--color-border);
+  color: var(--color-text);
+}
+.btn-outline:hover { border-color: var(--color-primary); color: var(--color-primary); }
+.btn:disabled { opacity: 0.5; cursor: not-allowed; }
+
+/* ── Forms ─────────────────────────────────────────── */
+.form-group { display: flex; flex-direction: column; gap: 6px; }
+.form-label { font-size: 13px; font-weight: 600; color: var(--color-text-light); letter-spacing: 0.05em; text-transform: uppercase; }
+
+.form-input, .form-select, .form-textarea {
+  background: var(--color-surface-2);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-sm);
+  padding: 10px 14px;
+  color: var(--color-text);
+  font-size: 14px;
+  font-family: inherit;
+  transition: border-color 0.2s, box-shadow 0.2s;
+  width: 100%;
+}
+.form-input:focus, .form-select:focus, .form-textarea:focus {
+  outline: none;
+  border-color: var(--color-primary);
+  box-shadow: 0 0 0 3px rgba(0, 212, 255, 0.1);
+}
+.form-select option { background: var(--color-surface); }
+
+/* ── Tags / Pills ──────────────────────────────────── */
+.tag {
+  display: inline-flex; align-items: center; gap: 6px;
+  padding: 4px 10px;
+  background: var(--color-primary-dim);
+  border: 1px solid rgba(0,212,255,0.25);
+  border-radius: 999px;
+  font-size: 12px; font-weight: 500;
+  color: var(--color-primary);
+}
+.tag .tag-remove {
+  cursor: pointer; opacity: 0.7; font-size: 14px;
+  line-height: 1; padding: 0 2px;
+}
+.tag .tag-remove:hover { opacity: 1; }
+
+/* ── Grid ───────────────────────────────────────────── */
+.grid-2 { display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; }
+.grid-3 { display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; }
+.grid-4 { display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; }
+
+@media (max-width: 768px) {
+  .grid-2, .grid-3, .grid-4 { grid-template-columns: 1fr; }
+}
+
+/* ── Page Wrapper ───────────────────────────────────── */
+.page { max-width: 1200px; margin: 0 auto; padding: 32px 24px; }
+.page-title { font-size: 28px; font-weight: 800; margin-bottom: 8px; }
+.page-subtitle { color: var(--color-text-muted); font-size: 15px; margin-bottom: 32px; }
+
+/* ── Loading Spinner ────────────────────────────────── */
+.spinner {
+  width: 40px; height: 40px;
+  border: 3px solid var(--color-border);
+  border-top-color: var(--color-primary);
+  border-radius: 50%;
+  animation: spin 0.8s linear infinite;
+  margin: 40px auto;
+}
+@keyframes spin { to { transform: rotate(360deg); } }
+
+/* ── Risk Badge Sizes ────────────────────────────────── */
+.risk-low     { color: var(--risk-low);     background: var(--risk-low-bg);     border-color: rgba(16,185,129,0.3); }
+.risk-medium  { color: var(--risk-medium);  background: var(--risk-medium-bg);  border-color: rgba(245,158,11,0.3); }
+.risk-high    { color: var(--risk-high);    background: var(--risk-high-bg);    border-color: rgba(239,68,68,0.3); }
+.risk-critical{ color: var(--risk-critical);background: var(--risk-critical-bg);border-color: rgba(220,38,38,0.3); animation: pulse-critical 1.5s ease-in-out infinite; }
+
+@keyframes pulse-critical {
+  0%, 100% { box-shadow: 0 0 0 0 rgba(220,38,38,0.4); }
+  50%       { box-shadow: 0 0 0 8px rgba(220,38,38,0); }
+}
+
+/* ── Gradient text ──────────────────────────────────── */
+.gradient-text {
+  background: linear-gradient(135deg, #00d4ff, #7c3aed);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* ── Section headers ─────────────────────────────────── */
+.section-header {
+  display: flex; align-items: center; gap: 12px;
+  font-size: 16px; font-weight: 700;
+  color: var(--color-text);
+  margin-bottom: 16px;
+  padding-bottom: 12px;
+  border-bottom: 1px solid var(--color-border);
+}
+.section-icon {
+  width: 36px; height: 36px; border-radius: 8px;
+  display: flex; align-items: center; justify-content: center;
+  font-size: 18px;
+  background: var(--color-primary-dim);
+}
+
+/* ── Table ───────────────────────────────────────────── */
+.data-table { width: 100%; border-collapse: collapse; font-size: 13px; }
+.data-table th {
+  text-align: left; padding: 10px 16px;
+  font-size: 11px; font-weight: 700;
+  text-transform: uppercase; letter-spacing: 0.08em;
+  color: var(--color-text-muted);
+  border-bottom: 1px solid var(--color-border);
+}
+.data-table td {
+  padding: 12px 16px;
+  border-bottom: 1px solid rgba(255,255,255,0.03);
+  vertical-align: top;
+}
+.data-table tr:hover td { background: rgba(255,255,255,0.02); }
+
+/* ── Progress Bar ────────────────────────────────────── */
+.progress-bar { background: var(--color-border); border-radius: 999px; height: 8px; overflow: hidden; }
+.progress-fill { height: 100%; border-radius: 999px; transition: width 1s cubic-bezier(0.4,0,0.2,1); }
