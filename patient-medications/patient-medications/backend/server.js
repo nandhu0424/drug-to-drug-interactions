@@ -45,6 +45,20 @@ app.get('/health', (req, res) => {
   res.json({ status: 'OK', message: 'Drug Interaction API running', timestamp: new Date() });
 });
 
+// Root route
+app.get('/', (req, res) => {
+  res.json({
+    status: 'OK',
+    message: 'Personalized Drug Interaction Risk Analyzer API is running',
+    documentation: {
+      health: '/health',
+      drugs: '/api/drugs',
+      interactions: '/api/interactions',
+      patients: '/api/patients'
+    }
+  });
+});
+
 process.on('unhandledRejection', (reason, promise) => {
   console.error('Unhandled Rejection at:', promise, 'reason:', reason);
 });
