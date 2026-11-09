@@ -1,6 +1,6 @@
 import axios from 'axios'
 
-const BASE = '/api'  // proxied through Vite to localhost:5000
+const BASE = import.meta.env.VITE_API_BASE_URL || '/api'
 
 export const api = {
   // Patients
